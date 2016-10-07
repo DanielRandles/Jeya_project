@@ -1,0 +1,3391 @@
+LOCATION,Country,Indicator,TIME,Value
+AUS,Australia,Dwellings without basic facilities,2013,1.2
+AUT,Austria,Dwellings without basic facilities,2013,1.2
+BEL,Belgium,Dwellings without basic facilities,2013,1.4
+CAN,Canada,Dwellings without basic facilities,2013,0.2
+CZE,Czech Republic,Dwellings without basic facilities,2013,0.7
+DNK,Denmark,Dwellings without basic facilities,2013,0.6
+FIN,Finland,Dwellings without basic facilities,2013,0.7
+FRA,France,Dwellings without basic facilities,2013,0.6
+DEU,Germany,Dwellings without basic facilities,2013,0.9
+GRC,Greece,Dwellings without basic facilities,2013,0.9
+HUN,Hungary,Dwellings without basic facilities,2013,4.7
+ISL,Iceland,Dwellings without basic facilities,2013,0.4
+IRL,Ireland,Dwellings without basic facilities,2013,0.2
+ITA,Italy,Dwellings without basic facilities,2013,0.4
+JPN,Japan,Dwellings without basic facilities,2013,6.4
+KOR,Korea,Dwellings without basic facilities,2013,4.2
+LUX,Luxembourg,Dwellings without basic facilities,2013,0.1
+MEX,Mexico,Dwellings without basic facilities,2013,4.2
+NLD,Netherlands,Dwellings without basic facilities,2013,0
+NZL,New Zealand,Dwellings without basic facilities,2013,0.2
+NOR,Norway,Dwellings without basic facilities,2013,0.3
+POL,Poland,Dwellings without basic facilities,2013,4
+PRT,Portugal,Dwellings without basic facilities,2013,1.2
+SVK,Slovak Republic,Dwellings without basic facilities,2013,1.4
+ESP,Spain,Dwellings without basic facilities,2013,0
+SWE,Sweden,Dwellings without basic facilities,2013,0
+CHE,Switzerland,Dwellings without basic facilities,2013,0.1
+TUR,Turkey,Dwellings without basic facilities,2013,12.7
+GBR,United Kingdom,Dwellings without basic facilities,2013,0.1
+USA,United States,Dwellings without basic facilities,2013,0
+OTO,OECD - Total,Dwellings without basic facilities,2013,2.2
+BRA,Brazil,Dwellings without basic facilities,2013,6.7
+CHL,Chile,Dwellings without basic facilities,2013,9.4
+EST,Estonia,Dwellings without basic facilities,2013,9.6
+ISR,Israel,Dwellings without basic facilities,2013,3.8
+RUS,Russia,Dwellings without basic facilities,2013,2.8
+SVN,Slovenia,Dwellings without basic facilities,2013,0.5
+AUS,Australia,Dwellings without basic facilities,2013,1.2
+AUT,Austria,Dwellings without basic facilities,2013,1.2
+BEL,Belgium,Dwellings without basic facilities,2013,1.4
+CAN,Canada,Dwellings without basic facilities,2013,0.2
+CZE,Czech Republic,Dwellings without basic facilities,2013,0.7
+DNK,Denmark,Dwellings without basic facilities,2013,0.6
+FIN,Finland,Dwellings without basic facilities,2013,0.7
+FRA,France,Dwellings without basic facilities,2013,0.6
+DEU,Germany,Dwellings without basic facilities,2013,0.9
+GRC,Greece,Dwellings without basic facilities,2013,0.9
+HUN,Hungary,Dwellings without basic facilities,2013,4.7
+ISL,Iceland,Dwellings without basic facilities,2013,0.4
+IRL,Ireland,Dwellings without basic facilities,2013,0.2
+ITA,Italy,Dwellings without basic facilities,2013,0.4
+JPN,Japan,Dwellings without basic facilities,2013,6.4
+KOR,Korea,Dwellings without basic facilities,2013,4.2
+LUX,Luxembourg,Dwellings without basic facilities,2013,0.1
+MEX,Mexico,Dwellings without basic facilities,2013,4.2
+NLD,Netherlands,Dwellings without basic facilities,2013,0
+NZL,New Zealand,Dwellings without basic facilities,2013,0.2
+NOR,Norway,Dwellings without basic facilities,2013,0.3
+POL,Poland,Dwellings without basic facilities,2013,4
+PRT,Portugal,Dwellings without basic facilities,2013,1.2
+SVK,Slovak Republic,Dwellings without basic facilities,2013,1.4
+ESP,Spain,Dwellings without basic facilities,2013,0
+SWE,Sweden,Dwellings without basic facilities,2013,0
+CHE,Switzerland,Dwellings without basic facilities,2013,0.1
+TUR,Turkey,Dwellings without basic facilities,2013,12.7
+GBR,United Kingdom,Dwellings without basic facilities,2013,0.1
+USA,United States,Dwellings without basic facilities,2013,0
+BRA,Brazil,Dwellings without basic facilities,2013,6.7
+CHL,Chile,Dwellings without basic facilities,2013,9.4
+EST,Estonia,Dwellings without basic facilities,2013,9.6
+ISR,Israel,Dwellings without basic facilities,2013,3.8
+RUS,Russia,Dwellings without basic facilities,2013,2.8
+SVN,Slovenia,Dwellings without basic facilities,2013,0.5
+AUS,Australia,Dwellings without basic facilities,2013,1.2
+AUT,Austria,Dwellings without basic facilities,2013,1.2
+BEL,Belgium,Dwellings without basic facilities,2013,1.4
+CAN,Canada,Dwellings without basic facilities,2013,0.2
+CZE,Czech Republic,Dwellings without basic facilities,2013,0.7
+DNK,Denmark,Dwellings without basic facilities,2013,0.6
+FIN,Finland,Dwellings without basic facilities,2013,0.7
+FRA,France,Dwellings without basic facilities,2013,0.6
+DEU,Germany,Dwellings without basic facilities,2013,0.9
+GRC,Greece,Dwellings without basic facilities,2013,0.9
+HUN,Hungary,Dwellings without basic facilities,2013,4.7
+ISL,Iceland,Dwellings without basic facilities,2013,0.4
+IRL,Ireland,Dwellings without basic facilities,2013,0.2
+ITA,Italy,Dwellings without basic facilities,2013,0.4
+JPN,Japan,Dwellings without basic facilities,2013,6.4
+KOR,Korea,Dwellings without basic facilities,2013,4.2
+LUX,Luxembourg,Dwellings without basic facilities,2013,0.1
+MEX,Mexico,Dwellings without basic facilities,2013,4.2
+NLD,Netherlands,Dwellings without basic facilities,2013,0
+NZL,New Zealand,Dwellings without basic facilities,2013,0.2
+NOR,Norway,Dwellings without basic facilities,2013,0.3
+POL,Poland,Dwellings without basic facilities,2013,4
+PRT,Portugal,Dwellings without basic facilities,2013,1.2
+SVK,Slovak Republic,Dwellings without basic facilities,2013,1.4
+ESP,Spain,Dwellings without basic facilities,2013,0
+SWE,Sweden,Dwellings without basic facilities,2013,0
+CHE,Switzerland,Dwellings without basic facilities,2013,0.1
+TUR,Turkey,Dwellings without basic facilities,2013,12.7
+GBR,United Kingdom,Dwellings without basic facilities,2013,0.1
+USA,United States,Dwellings without basic facilities,2013,0
+BRA,Brazil,Dwellings without basic facilities,2013,6.7
+CHL,Chile,Dwellings without basic facilities,2013,9.4
+EST,Estonia,Dwellings without basic facilities,2013,9.6
+ISR,Israel,Dwellings without basic facilities,2013,3.8
+RUS,Russia,Dwellings without basic facilities,2013,2.8
+SVN,Slovenia,Dwellings without basic facilities,2013,0.5
+AUS,Australia,Housing expenditure,2013,19
+AUT,Austria,Housing expenditure,2013,21
+BEL,Belgium,Housing expenditure,2013,20
+CAN,Canada,Housing expenditure,2013,22
+CZE,Czech Republic,Housing expenditure,2013,25
+DNK,Denmark,Housing expenditure,2013,24
+FIN,Finland,Housing expenditure,2013,22
+FRA,France,Housing expenditure,2013,21
+DEU,Germany,Housing expenditure,2013,21
+GRC,Greece,Housing expenditure,2013,27
+HUN,Hungary,Housing expenditure,2013,20
+ISL,Iceland,Housing expenditure,2013,21
+IRL,Ireland,Housing expenditure,2013,18
+ITA,Italy,Housing expenditure,2013,22
+JPN,Japan,Housing expenditure,2013,22
+KOR,Korea,Housing expenditure,2013,16
+LUX,Luxembourg,Housing expenditure,2013,23
+MEX,Mexico,Housing expenditure,2013,18
+NLD,Netherlands,Housing expenditure,2013,20
+NZL,New Zealand,Housing expenditure,2013,26
+NOR,Norway,Housing expenditure,2013,18
+POL,Poland,Housing expenditure,2013,24
+PRT,Portugal,Housing expenditure,2013,17
+SVK,Slovak Republic,Housing expenditure,2013,25
+ESP,Spain,Housing expenditure,2013,20
+SWE,Sweden,Housing expenditure,2013,21
+CHE,Switzerland,Housing expenditure,2013,23
+TUR,Turkey,Housing expenditure,2013,21
+GBR,United Kingdom,Housing expenditure,2013,22
+USA,United States,Housing expenditure,2013,19
+OTO,OECD - Total,Housing expenditure,2013,21
+BRA,Brazil,Housing expenditure,2013,21
+CHL,Chile,Housing expenditure,2013,18
+EST,Estonia,Housing expenditure,2013,19
+ISR,Israel,Housing expenditure,2013,21
+RUS,Russia,Housing expenditure,2013,11
+SVN,Slovenia,Housing expenditure,2013,20
+AUS,Australia,Housing expenditure,2013,19
+AUT,Austria,Housing expenditure,2013,21
+BEL,Belgium,Housing expenditure,2013,20
+CAN,Canada,Housing expenditure,2013,22
+CZE,Czech Republic,Housing expenditure,2013,25
+DNK,Denmark,Housing expenditure,2013,24
+FIN,Finland,Housing expenditure,2013,22
+FRA,France,Housing expenditure,2013,21
+DEU,Germany,Housing expenditure,2013,21
+GRC,Greece,Housing expenditure,2013,27
+HUN,Hungary,Housing expenditure,2013,20
+ISL,Iceland,Housing expenditure,2013,21
+IRL,Ireland,Housing expenditure,2013,18
+ITA,Italy,Housing expenditure,2013,22
+JPN,Japan,Housing expenditure,2013,22
+KOR,Korea,Housing expenditure,2013,16
+LUX,Luxembourg,Housing expenditure,2013,23
+MEX,Mexico,Housing expenditure,2013,18
+NLD,Netherlands,Housing expenditure,2013,20
+NZL,New Zealand,Housing expenditure,2013,26
+NOR,Norway,Housing expenditure,2013,18
+POL,Poland,Housing expenditure,2013,24
+PRT,Portugal,Housing expenditure,2013,17
+SVK,Slovak Republic,Housing expenditure,2013,25
+ESP,Spain,Housing expenditure,2013,20
+SWE,Sweden,Housing expenditure,2013,21
+CHE,Switzerland,Housing expenditure,2013,23
+TUR,Turkey,Housing expenditure,2013,21
+GBR,United Kingdom,Housing expenditure,2013,22
+USA,United States,Housing expenditure,2013,19
+BRA,Brazil,Housing expenditure,2013,21
+CHL,Chile,Housing expenditure,2013,18
+EST,Estonia,Housing expenditure,2013,19
+ISR,Israel,Housing expenditure,2013,21
+RUS,Russia,Housing expenditure,2013,11
+SVN,Slovenia,Housing expenditure,2013,20
+AUS,Australia,Housing expenditure,2013,19
+AUT,Austria,Housing expenditure,2013,21
+BEL,Belgium,Housing expenditure,2013,20
+CAN,Canada,Housing expenditure,2013,22
+CZE,Czech Republic,Housing expenditure,2013,25
+DNK,Denmark,Housing expenditure,2013,24
+FIN,Finland,Housing expenditure,2013,22
+FRA,France,Housing expenditure,2013,21
+DEU,Germany,Housing expenditure,2013,21
+GRC,Greece,Housing expenditure,2013,27
+HUN,Hungary,Housing expenditure,2013,20
+ISL,Iceland,Housing expenditure,2013,21
+IRL,Ireland,Housing expenditure,2013,18
+ITA,Italy,Housing expenditure,2013,22
+JPN,Japan,Housing expenditure,2013,22
+KOR,Korea,Housing expenditure,2013,16
+LUX,Luxembourg,Housing expenditure,2013,23
+MEX,Mexico,Housing expenditure,2013,18
+NLD,Netherlands,Housing expenditure,2013,20
+NZL,New Zealand,Housing expenditure,2013,26
+NOR,Norway,Housing expenditure,2013,18
+POL,Poland,Housing expenditure,2013,24
+PRT,Portugal,Housing expenditure,2013,17
+SVK,Slovak Republic,Housing expenditure,2013,25
+ESP,Spain,Housing expenditure,2013,20
+SWE,Sweden,Housing expenditure,2013,21
+CHE,Switzerland,Housing expenditure,2013,23
+TUR,Turkey,Housing expenditure,2013,21
+GBR,United Kingdom,Housing expenditure,2013,22
+USA,United States,Housing expenditure,2013,19
+BRA,Brazil,Housing expenditure,2013,21
+CHL,Chile,Housing expenditure,2013,18
+EST,Estonia,Housing expenditure,2013,19
+ISR,Israel,Housing expenditure,2013,21
+RUS,Russia,Housing expenditure,2013,11
+SVN,Slovenia,Housing expenditure,2013,20
+AUS,Australia,Rooms per person,2013,2.3
+AUT,Austria,Rooms per person,2013,1.7
+BEL,Belgium,Rooms per person,2013,2.2
+CAN,Canada,Rooms per person,2013,2.6
+CZE,Czech Republic,Rooms per person,2013,1.4
+DNK,Denmark,Rooms per person,2013,1.9
+FIN,Finland,Rooms per person,2013,1.9
+FRA,France,Rooms per person,2013,1.8
+DEU,Germany,Rooms per person,2013,1.8
+GRC,Greece,Rooms per person,2013,1.2
+HUN,Hungary,Rooms per person,2013,1
+ISL,Iceland,Rooms per person,2013,1.6
+IRL,Ireland,Rooms per person,2013,2.1
+ITA,Italy,Rooms per person,2013,1.4
+JPN,Japan,Rooms per person,2013,1.8
+KOR,Korea,Rooms per person,2013,1.4
+LUX,Luxembourg,Rooms per person,2013,1.9
+MEX,Mexico,Rooms per person,2013,1
+NLD,Netherlands,Rooms per person,2013,2
+NZL,New Zealand,Rooms per person,2013,2.3
+NOR,Norway,Rooms per person,2013,2
+POL,Poland,Rooms per person,2013,1
+PRT,Portugal,Rooms per person,2013,1.6
+SVK,Slovak Republic,Rooms per person,2013,1.2
+ESP,Spain,Rooms per person,2013,1.8
+SWE,Sweden,Rooms per person,2013,1.7
+CHE,Switzerland,Rooms per person,2013,1.8
+TUR,Turkey,Rooms per person,2013,0.9
+GBR,United Kingdom,Rooms per person,2013,1.8
+USA,United States,Rooms per person,2013,2.3
+OTO,OECD - Total,Rooms per person,2013,1.6
+BRA,Brazil,Rooms per person,2013,1.4
+CHL,Chile,Rooms per person,2013,1.3
+EST,Estonia,Rooms per person,2013,1.6
+ISR,Israel,Rooms per person,2013,1.1
+RUS,Russia,Rooms per person,2013,0.9
+SVN,Slovenia,Rooms per person,2013,1.4
+AUS,Australia,Rooms per person,2013,2.3
+AUT,Austria,Rooms per person,2013,1.7
+BEL,Belgium,Rooms per person,2013,2.2
+CAN,Canada,Rooms per person,2013,2.6
+CZE,Czech Republic,Rooms per person,2013,1.4
+DNK,Denmark,Rooms per person,2013,1.9
+FIN,Finland,Rooms per person,2013,1.9
+FRA,France,Rooms per person,2013,1.8
+DEU,Germany,Rooms per person,2013,1.8
+GRC,Greece,Rooms per person,2013,1.2
+HUN,Hungary,Rooms per person,2013,1
+ISL,Iceland,Rooms per person,2013,1.6
+IRL,Ireland,Rooms per person,2013,2.1
+ITA,Italy,Rooms per person,2013,1.4
+JPN,Japan,Rooms per person,2013,1.8
+KOR,Korea,Rooms per person,2013,1.4
+LUX,Luxembourg,Rooms per person,2013,1.9
+MEX,Mexico,Rooms per person,2013,1
+NLD,Netherlands,Rooms per person,2013,2
+NZL,New Zealand,Rooms per person,2013,2.3
+NOR,Norway,Rooms per person,2013,2
+POL,Poland,Rooms per person,2013,1
+PRT,Portugal,Rooms per person,2013,1.6
+SVK,Slovak Republic,Rooms per person,2013,1.2
+ESP,Spain,Rooms per person,2013,1.8
+SWE,Sweden,Rooms per person,2013,1.7
+CHE,Switzerland,Rooms per person,2013,1.8
+TUR,Turkey,Rooms per person,2013,0.9
+GBR,United Kingdom,Rooms per person,2013,1.8
+USA,United States,Rooms per person,2013,2.3
+BRA,Brazil,Rooms per person,2013,1.4
+CHL,Chile,Rooms per person,2013,1.3
+EST,Estonia,Rooms per person,2013,1.6
+ISR,Israel,Rooms per person,2013,1.1
+RUS,Russia,Rooms per person,2013,0.9
+SVN,Slovenia,Rooms per person,2013,1.4
+AUS,Australia,Rooms per person,2013,2.3
+AUT,Austria,Rooms per person,2013,1.7
+BEL,Belgium,Rooms per person,2013,2.2
+CAN,Canada,Rooms per person,2013,2.6
+CZE,Czech Republic,Rooms per person,2013,1.4
+DNK,Denmark,Rooms per person,2013,1.9
+FIN,Finland,Rooms per person,2013,1.9
+FRA,France,Rooms per person,2013,1.8
+DEU,Germany,Rooms per person,2013,1.8
+GRC,Greece,Rooms per person,2013,1.2
+HUN,Hungary,Rooms per person,2013,1
+ISL,Iceland,Rooms per person,2013,1.6
+IRL,Ireland,Rooms per person,2013,2.1
+ITA,Italy,Rooms per person,2013,1.4
+JPN,Japan,Rooms per person,2013,1.8
+KOR,Korea,Rooms per person,2013,1.4
+LUX,Luxembourg,Rooms per person,2013,1.9
+MEX,Mexico,Rooms per person,2013,1
+NLD,Netherlands,Rooms per person,2013,2
+NZL,New Zealand,Rooms per person,2013,2.3
+NOR,Norway,Rooms per person,2013,2
+POL,Poland,Rooms per person,2013,1
+PRT,Portugal,Rooms per person,2013,1.6
+SVK,Slovak Republic,Rooms per person,2013,1.2
+ESP,Spain,Rooms per person,2013,1.8
+SWE,Sweden,Rooms per person,2013,1.7
+CHE,Switzerland,Rooms per person,2013,1.8
+TUR,Turkey,Rooms per person,2013,0.9
+GBR,United Kingdom,Rooms per person,2013,1.8
+USA,United States,Rooms per person,2013,2.3
+BRA,Brazil,Rooms per person,2013,1.4
+CHL,Chile,Rooms per person,2013,1.3
+EST,Estonia,Rooms per person,2013,1.6
+ISR,Israel,Rooms per person,2013,1.1
+RUS,Russia,Rooms per person,2013,0.9
+SVN,Slovenia,Rooms per person,2013,1.4
+AUS,Australia,Household net adjusted disposable income,2013,28884
+AUT,Austria,Household net adjusted disposable income,2013,28852
+BEL,Belgium,Household net adjusted disposable income,2013,26874
+CAN,Canada,Household net adjusted disposable income,2013,28194
+CZE,Czech Republic,Household net adjusted disposable income,2013,16957
+DNK,Denmark,Household net adjusted disposable income,2013,24682
+FIN,Finland,Household net adjusted disposable income,2013,25739
+FRA,France,Household net adjusted disposable income,2013,28310
+DEU,Germany,Household net adjusted disposable income,2013,28799
+GRC,Greece,Household net adjusted disposable income,2013,20440
+HUN,Hungary,Household net adjusted disposable income,2013,13858
+ISL,Iceland,Household net adjusted disposable income,2013,21201
+IRL,Ireland,Household net adjusted disposable income,2013,24104
+ITA,Italy,Household net adjusted disposable income,2013,24216
+JPN,Japan,Household net adjusted disposable income,2013,24147
+KOR,Korea,Household net adjusted disposable income,2013,17337
+LUX,Luxembourg,Household net adjusted disposable income,2013,35517
+MEX,Mexico,Household net adjusted disposable income,2013,12732
+NLD,Netherlands,Household net adjusted disposable income,2013,25493
+NZL,New Zealand,Household net adjusted disposable income,2013,21892
+NOR,Norway,Household net adjusted disposable income,2013,31459
+POL,Poland,Household net adjusted disposable income,2013,15371
+PRT,Portugal,Household net adjusted disposable income,2013,19366
+SVK,Slovak Republic,Household net adjusted disposable income,2013,16682
+ESP,Spain,Household net adjusted disposable income,2013,22847
+SWE,Sweden,Household net adjusted disposable income,2013,26242
+CHE,Switzerland,Household net adjusted disposable income,2013,30060
+TUR,Turkey,Household net adjusted disposable income,2013,13044
+GBR,United Kingdom,Household net adjusted disposable income,2013,26904
+USA,United States,Household net adjusted disposable income,2013,38001
+OTO,OECD - Total,Household net adjusted disposable income,2013,23047
+BRA,Brazil,Household net adjusted disposable income,2013,10225
+CHL,Chile,Household net adjusted disposable income,2013,11039
+EST,Estonia,Household net adjusted disposable income,2013,12800
+ISR,Israel,Household net adjusted disposable income,2013,19120
+RUS,Russia,Household net adjusted disposable income,2013,15286
+SVN,Slovenia,Household net adjusted disposable income,2013,19119
+AUS,Australia,Household net adjusted disposable income,2013,28884
+AUT,Austria,Household net adjusted disposable income,2013,28852
+BEL,Belgium,Household net adjusted disposable income,2013,26874
+CAN,Canada,Household net adjusted disposable income,2013,28194
+CZE,Czech Republic,Household net adjusted disposable income,2013,16957
+DNK,Denmark,Household net adjusted disposable income,2013,24682
+FIN,Finland,Household net adjusted disposable income,2013,25739
+FRA,France,Household net adjusted disposable income,2013,28310
+DEU,Germany,Household net adjusted disposable income,2013,28799
+GRC,Greece,Household net adjusted disposable income,2013,20440
+HUN,Hungary,Household net adjusted disposable income,2013,13858
+ISL,Iceland,Household net adjusted disposable income,2013,21201
+IRL,Ireland,Household net adjusted disposable income,2013,24104
+ITA,Italy,Household net adjusted disposable income,2013,24216
+JPN,Japan,Household net adjusted disposable income,2013,24147
+KOR,Korea,Household net adjusted disposable income,2013,17337
+LUX,Luxembourg,Household net adjusted disposable income,2013,35517
+MEX,Mexico,Household net adjusted disposable income,2013,12732
+NLD,Netherlands,Household net adjusted disposable income,2013,25493
+NZL,New Zealand,Household net adjusted disposable income,2013,21892
+NOR,Norway,Household net adjusted disposable income,2013,31459
+POL,Poland,Household net adjusted disposable income,2013,15371
+PRT,Portugal,Household net adjusted disposable income,2013,19366
+SVK,Slovak Republic,Household net adjusted disposable income,2013,16682
+ESP,Spain,Household net adjusted disposable income,2013,22847
+SWE,Sweden,Household net adjusted disposable income,2013,26242
+CHE,Switzerland,Household net adjusted disposable income,2013,30060
+TUR,Turkey,Household net adjusted disposable income,2013,13044
+GBR,United Kingdom,Household net adjusted disposable income,2013,26904
+USA,United States,Household net adjusted disposable income,2013,38001
+BRA,Brazil,Household net adjusted disposable income,2013,10225
+CHL,Chile,Household net adjusted disposable income,2013,11039
+EST,Estonia,Household net adjusted disposable income,2013,12800
+ISR,Israel,Household net adjusted disposable income,2013,19120
+RUS,Russia,Household net adjusted disposable income,2013,15286
+SVN,Slovenia,Household net adjusted disposable income,2013,19119
+AUS,Australia,Household net adjusted disposable income,2013,28884
+AUT,Austria,Household net adjusted disposable income,2013,28852
+BEL,Belgium,Household net adjusted disposable income,2013,26874
+CAN,Canada,Household net adjusted disposable income,2013,28194
+CZE,Czech Republic,Household net adjusted disposable income,2013,16957
+DNK,Denmark,Household net adjusted disposable income,2013,24682
+FIN,Finland,Household net adjusted disposable income,2013,25739
+FRA,France,Household net adjusted disposable income,2013,28310
+DEU,Germany,Household net adjusted disposable income,2013,28799
+GRC,Greece,Household net adjusted disposable income,2013,20440
+HUN,Hungary,Household net adjusted disposable income,2013,13858
+ISL,Iceland,Household net adjusted disposable income,2013,21201
+IRL,Ireland,Household net adjusted disposable income,2013,24104
+ITA,Italy,Household net adjusted disposable income,2013,24216
+JPN,Japan,Household net adjusted disposable income,2013,24147
+KOR,Korea,Household net adjusted disposable income,2013,17337
+LUX,Luxembourg,Household net adjusted disposable income,2013,35517
+MEX,Mexico,Household net adjusted disposable income,2013,12732
+NLD,Netherlands,Household net adjusted disposable income,2013,25493
+NZL,New Zealand,Household net adjusted disposable income,2013,21892
+NOR,Norway,Household net adjusted disposable income,2013,31459
+POL,Poland,Household net adjusted disposable income,2013,15371
+PRT,Portugal,Household net adjusted disposable income,2013,19366
+SVK,Slovak Republic,Household net adjusted disposable income,2013,16682
+ESP,Spain,Household net adjusted disposable income,2013,22847
+SWE,Sweden,Household net adjusted disposable income,2013,26242
+CHE,Switzerland,Household net adjusted disposable income,2013,30060
+TUR,Turkey,Household net adjusted disposable income,2013,13044
+GBR,United Kingdom,Household net adjusted disposable income,2013,26904
+USA,United States,Household net adjusted disposable income,2013,38001
+BRA,Brazil,Household net adjusted disposable income,2013,10225
+CHL,Chile,Household net adjusted disposable income,2013,11039
+EST,Estonia,Household net adjusted disposable income,2013,12800
+ISR,Israel,Household net adjusted disposable income,2013,19120
+RUS,Russia,Household net adjusted disposable income,2013,15286
+SVN,Slovenia,Household net adjusted disposable income,2013,19119
+AUS,Australia,Household net adjusted disposable income,2013,58409
+AUT,Austria,Household net adjusted disposable income,2013,52387
+BEL,Belgium,Household net adjusted disposable income,2013,47038
+CAN,Canada,Household net adjusted disposable income,2013,55718
+CZE,Czech Republic,Household net adjusted disposable income,2013,30190
+DNK,Denmark,Household net adjusted disposable income,2013,42795
+FIN,Finland,Household net adjusted disposable income,2013,44992
+FRA,France,Household net adjusted disposable income,2013,55477
+DEU,Germany,Household net adjusted disposable income,2013,53978
+GRC,Greece,Household net adjusted disposable income,2013,41155
+HUN,Hungary,Household net adjusted disposable income,2013,25395
+ISL,Iceland,Household net adjusted disposable income,2013,38406
+IRL,Ireland,Household net adjusted disposable income,2013,49125
+ITA,Italy,Household net adjusted disposable income,2013,46751
+JPN,Japan,Household net adjusted disposable income,2013,48311
+KOR,Korea,Household net adjusted disposable income,2013,32860
+LUX,Luxembourg,Household net adjusted disposable income,2013,65014
+MEX,Mexico,Household net adjusted disposable income,2013,32756
+NLD,Netherlands,Household net adjusted disposable income,2013,48114
+NZL,New Zealand,Household net adjusted disposable income,2013,43498
+NOR,Norway,Household net adjusted disposable income,2013,53912
+POL,Poland,Household net adjusted disposable income,2013,29527
+PRT,Portugal,Household net adjusted disposable income,2013,40277
+SVK,Slovak Republic,Household net adjusted disposable income,2013,29511
+ESP,Spain,Household net adjusted disposable income,2013,45150
+SWE,Sweden,Household net adjusted disposable income,2013,46688
+CHE,Switzerland,Household net adjusted disposable income,2013,57485
+TUR,Turkey,Household net adjusted disposable income,2013,30808
+GBR,United Kingdom,Household net adjusted disposable income,2013,56026
+USA,United States,Household net adjusted disposable income,2013,82666
+OTO,OECD - Total,Household net adjusted disposable income,2013,44625
+BRA,Brazil,Household net adjusted disposable income,2013,28543
+CHL,Chile,Household net adjusted disposable income,2013,31040
+EST,Estonia,Household net adjusted disposable income,2013,24930
+ISR,Israel,Household net adjusted disposable income,2013,40760
+RUS,Russia,Household net adjusted disposable income,2013,37269
+SVN,Slovenia,Household net adjusted disposable income,2013,32600
+AUS,Australia,Household net adjusted disposable income,2013,10323
+AUT,Austria,Household net adjusted disposable income,2013,13515
+BEL,Belgium,Household net adjusted disposable income,2013,12075
+CAN,Canada,Household net adjusted disposable income,2013,10526
+CZE,Czech Republic,Household net adjusted disposable income,2013,8466
+DNK,Denmark,Household net adjusted disposable income,2013,11946
+FIN,Finland,Household net adjusted disposable income,2013,12236
+FRA,France,Household net adjusted disposable income,2013,12216
+DEU,Germany,Household net adjusted disposable income,2013,12544
+GRC,Greece,Household net adjusted disposable income,2013,7317
+HUN,Hungary,Household net adjusted disposable income,2013,6273
+ISL,Iceland,Household net adjusted disposable income,2013,10071
+IRL,Ireland,Household net adjusted disposable income,2013,9169
+ITA,Italy,Household net adjusted disposable income,2013,8949
+JPN,Japan,Household net adjusted disposable income,2013,7808
+KOR,Korea,Household net adjusted disposable income,2013,5737
+LUX,Luxembourg,Household net adjusted disposable income,2013,16082
+MEX,Mexico,Household net adjusted disposable income,2013,2570
+NLD,Netherlands,Household net adjusted disposable income,2013,11185
+NZL,New Zealand,Household net adjusted disposable income,2013,8528
+NOR,Norway,Household net adjusted disposable income,2013,14621
+POL,Poland,Household net adjusted disposable income,2013,6123
+PRT,Portugal,Household net adjusted disposable income,2013,7079
+SVK,Slovak Republic,Household net adjusted disposable income,2013,7680
+ESP,Spain,Household net adjusted disposable income,2013,7008
+SWE,Sweden,Household net adjusted disposable income,2013,11528
+CHE,Switzerland,Household net adjusted disposable income,2013,12593
+TUR,Turkey,Household net adjusted disposable income,2013,3679
+GBR,United Kingdom,Household net adjusted disposable income,2013,9927
+USA,United States,Household net adjusted disposable income,2013,10434
+OTO,OECD - Total,Household net adjusted disposable income,2013,9156
+BRA,Brazil,Household net adjusted disposable income,2013,2101
+CHL,Chile,Household net adjusted disposable income,2013,2392
+EST,Estonia,Household net adjusted disposable income,2013,4881
+ISR,Israel,Household net adjusted disposable income,2013,5237
+RUS,Russia,Household net adjusted disposable income,2013,4153
+SVN,Slovenia,Household net adjusted disposable income,2013,9018
+AUS,Australia,Household net financial wealth,2013,32178
+AUT,Austria,Household net financial wealth,2013,47458
+BEL,Belgium,Household net financial wealth,2013,74007
+CAN,Canada,Household net financial wealth,2013,63852
+CZE,Czech Republic,Household net financial wealth,2013,14749
+DNK,Denmark,Household net financial wealth,2013,36184
+FIN,Finland,Household net financial wealth,2013,22335
+FRA,France,Household net financial wealth,2013,46520
+DEU,Germany,Household net financial wealth,2013,44938
+GRC,Greece,Household net financial wealth,2013,13428
+HUN,Hungary,Household net financial wealth,2013,12390
+ISL,Iceland,Household net financial wealth,2013,31182
+IRL,Ireland,Household net financial wealth,2013,27378
+ITA,Italy,Household net financial wealth,2013,55255
+JPN,Japan,Household net financial wealth,2013,74966
+KOR,Korea,Household net financial wealth,2013,26036
+LUX,Luxembourg,Household net financial wealth,2013,66917
+MEX,Mexico,Household net financial wealth,2013,9946
+NLD,Netherlands,Household net financial wealth,2013,66869
+NZL,New Zealand,Household net financial wealth,2013,33421
+NOR,Norway,Household net financial wealth,2013,6905
+POL,Poland,Household net financial wealth,2013,9222
+PRT,Portugal,Household net financial wealth,2013,28408
+SVK,Slovak Republic,Household net financial wealth,2013,7798
+ESP,Spain,Household net financial wealth,2013,21636
+SWE,Sweden,Household net financial wealth,2013,44889
+CHE,Switzerland,Household net financial wealth,2013,99209
+TUR,Turkey,Household net financial wealth,2013,10524
+GBR,United Kingdom,Household net financial wealth,2013,62965
+USA,United States,Household net financial wealth,2013,115918
+OTO,OECD - Total,Household net financial wealth,2013,40516
+BRA,Brazil,Household net financial wealth,2013,5861
+CHL,Chile,Household net financial wealth,2013,16972
+EST,Estonia,Household net financial wealth,2013,8802
+ISR,Israel,Household net financial wealth,2013,49240
+RUS,Russia,Household net financial wealth,2013,15142
+SVN,Slovenia,Household net financial wealth,2013,18065
+AUS,Australia,Household net financial wealth,2013,32178
+AUT,Austria,Household net financial wealth,2013,47458
+BEL,Belgium,Household net financial wealth,2013,74007
+CAN,Canada,Household net financial wealth,2013,63852
+CZE,Czech Republic,Household net financial wealth,2013,14749
+DNK,Denmark,Household net financial wealth,2013,36184
+FIN,Finland,Household net financial wealth,2013,22335
+FRA,France,Household net financial wealth,2013,46520
+DEU,Germany,Household net financial wealth,2013,44938
+GRC,Greece,Household net financial wealth,2013,13428
+HUN,Hungary,Household net financial wealth,2013,12390
+ISL,Iceland,Household net financial wealth,2013,31182
+IRL,Ireland,Household net financial wealth,2013,27378
+ITA,Italy,Household net financial wealth,2013,55255
+JPN,Japan,Household net financial wealth,2013,74966
+KOR,Korea,Household net financial wealth,2013,26036
+LUX,Luxembourg,Household net financial wealth,2013,66917
+MEX,Mexico,Household net financial wealth,2013,9946
+NLD,Netherlands,Household net financial wealth,2013,66869
+NZL,New Zealand,Household net financial wealth,2013,33421
+NOR,Norway,Household net financial wealth,2013,6905
+POL,Poland,Household net financial wealth,2013,9222
+PRT,Portugal,Household net financial wealth,2013,28408
+SVK,Slovak Republic,Household net financial wealth,2013,7798
+ESP,Spain,Household net financial wealth,2013,21636
+SWE,Sweden,Household net financial wealth,2013,44889
+CHE,Switzerland,Household net financial wealth,2013,99209
+TUR,Turkey,Household net financial wealth,2013,10524
+GBR,United Kingdom,Household net financial wealth,2013,62965
+USA,United States,Household net financial wealth,2013,115918
+BRA,Brazil,Household net financial wealth,2013,5861
+CHL,Chile,Household net financial wealth,2013,16972
+EST,Estonia,Household net financial wealth,2013,8802
+ISR,Israel,Household net financial wealth,2013,49240
+RUS,Russia,Household net financial wealth,2013,15142
+SVN,Slovenia,Household net financial wealth,2013,18065
+AUS,Australia,Household net financial wealth,2013,32178
+AUT,Austria,Household net financial wealth,2013,47458
+BEL,Belgium,Household net financial wealth,2013,74007
+CAN,Canada,Household net financial wealth,2013,63852
+CZE,Czech Republic,Household net financial wealth,2013,14749
+DNK,Denmark,Household net financial wealth,2013,36184
+FIN,Finland,Household net financial wealth,2013,22335
+FRA,France,Household net financial wealth,2013,46520
+DEU,Germany,Household net financial wealth,2013,44938
+GRC,Greece,Household net financial wealth,2013,13428
+HUN,Hungary,Household net financial wealth,2013,12390
+ISL,Iceland,Household net financial wealth,2013,31182
+IRL,Ireland,Household net financial wealth,2013,27378
+ITA,Italy,Household net financial wealth,2013,55255
+JPN,Japan,Household net financial wealth,2013,74966
+KOR,Korea,Household net financial wealth,2013,26036
+LUX,Luxembourg,Household net financial wealth,2013,66917
+MEX,Mexico,Household net financial wealth,2013,9946
+NLD,Netherlands,Household net financial wealth,2013,66869
+NZL,New Zealand,Household net financial wealth,2013,33421
+NOR,Norway,Household net financial wealth,2013,6905
+POL,Poland,Household net financial wealth,2013,9222
+PRT,Portugal,Household net financial wealth,2013,28408
+SVK,Slovak Republic,Household net financial wealth,2013,7798
+ESP,Spain,Household net financial wealth,2013,21636
+SWE,Sweden,Household net financial wealth,2013,44889
+CHE,Switzerland,Household net financial wealth,2013,99209
+TUR,Turkey,Household net financial wealth,2013,10524
+GBR,United Kingdom,Household net financial wealth,2013,62965
+USA,United States,Household net financial wealth,2013,115918
+BRA,Brazil,Household net financial wealth,2013,5861
+CHL,Chile,Household net financial wealth,2013,16972
+EST,Estonia,Household net financial wealth,2013,8802
+ISR,Israel,Household net financial wealth,2013,49240
+RUS,Russia,Household net financial wealth,2013,15142
+SVN,Slovenia,Household net financial wealth,2013,18065
+AUS,Australia,Employment rate,2013,73
+AUT,Austria,Employment rate,2013,72
+BEL,Belgium,Employment rate,2013,62
+CAN,Canada,Employment rate,2013,72
+CZE,Czech Republic,Employment rate,2013,66
+DNK,Denmark,Employment rate,2013,73
+FIN,Finland,Employment rate,2013,69
+FRA,France,Employment rate,2013,64
+DEU,Germany,Employment rate,2013,73
+GRC,Greece,Employment rate,2013,56
+HUN,Hungary,Employment rate,2013,56
+ISL,Iceland,Employment rate,2013,79
+IRL,Ireland,Employment rate,2013,60
+ITA,Italy,Employment rate,2013,57
+JPN,Japan,Employment rate,2013,70
+KOR,Korea,Employment rate,2013,64
+LUX,Luxembourg,Employment rate,2013,65
+MEX,Mexico,Employment rate,2013,60
+NLD,Netherlands,Employment rate,2013,75
+NZL,New Zealand,Employment rate,2013,73
+NOR,Norway,Employment rate,2013,75
+POL,Poland,Employment rate,2013,60
+PRT,Portugal,Employment rate,2013,64
+SVK,Slovak Republic,Employment rate,2013,59
+ESP,Spain,Employment rate,2013,58
+SWE,Sweden,Employment rate,2013,74
+CHE,Switzerland,Employment rate,2013,79
+TUR,Turkey,Employment rate,2013,48
+GBR,United Kingdom,Employment rate,2013,70
+USA,United States,Employment rate,2013,67
+OTO,OECD - Total,Employment rate,2013,66
+BRA,Brazil,Employment rate,2013,68
+CHL,Chile,Employment rate,2013,61
+EST,Estonia,Employment rate,2013,65
+ISR,Israel,Employment rate,2013,61
+RUS,Russia,Employment rate,2013,68
+SVN,Slovenia,Employment rate,2013,64
+AUS,Australia,Employment rate,2013,79
+AUT,Austria,Employment rate,2013,78
+BEL,Belgium,Employment rate,2013,67
+CAN,Canada,Employment rate,2013,75
+CZE,Czech Republic,Employment rate,2013,74
+DNK,Denmark,Employment rate,2013,76
+FIN,Finland,Employment rate,2013,71
+FRA,France,Employment rate,2013,68
+DEU,Germany,Employment rate,2013,77
+GRC,Greece,Employment rate,2013,66
+HUN,Hungary,Employment rate,2013,61
+ISL,Iceland,Employment rate,2013,81
+IRL,Ireland,Employment rate,2013,63
+ITA,Italy,Employment rate,2013,67
+JPN,Japan,Employment rate,2013,80
+KOR,Korea,Employment rate,2013,75
+LUX,Luxembourg,Employment rate,2013,72
+MEX,Mexico,Employment rate,2013,78
+NLD,Netherlands,Employment rate,2013,80
+NZL,New Zealand,Employment rate,2013,78
+NOR,Norway,Employment rate,2013,77
+POL,Poland,Employment rate,2013,66
+PRT,Portugal,Employment rate,2013,68
+SVK,Slovak Republic,Employment rate,2013,66
+ESP,Spain,Employment rate,2013,64
+SWE,Sweden,Employment rate,2013,76
+CHE,Switzerland,Employment rate,2013,85
+TUR,Turkey,Employment rate,2013,69
+GBR,United Kingdom,Employment rate,2013,76
+USA,United States,Employment rate,2013,71
+OTO,OECD - Total,Employment rate,2013,72
+BRA,Brazil,Employment rate,2013,80
+CHL,Chile,Employment rate,2013,74
+EST,Estonia,Employment rate,2013,68
+ISR,Israel,Employment rate,2013,64
+RUS,Russia,Employment rate,2013,72
+SVN,Slovenia,Employment rate,2013,68
+AUS,Australia,Employment rate,2013,67
+AUT,Austria,Employment rate,2013,67
+BEL,Belgium,Employment rate,2013,57
+CAN,Canada,Employment rate,2013,69
+CZE,Czech Republic,Employment rate,2013,57
+DNK,Denmark,Employment rate,2013,70
+FIN,Finland,Employment rate,2013,68
+FRA,France,Employment rate,2013,60
+DEU,Germany,Employment rate,2013,68
+GRC,Greece,Employment rate,2013,45
+HUN,Hungary,Employment rate,2013,51
+ISL,Iceland,Employment rate,2013,77
+IRL,Ireland,Employment rate,2013,56
+ITA,Italy,Employment rate,2013,47
+JPN,Japan,Employment rate,2013,60
+KOR,Korea,Employment rate,2013,53
+LUX,Luxembourg,Employment rate,2013,57
+MEX,Mexico,Employment rate,2013,43
+NLD,Netherlands,Employment rate,2013,70
+NZL,New Zealand,Employment rate,2013,67
+NOR,Norway,Employment rate,2013,73
+POL,Poland,Employment rate,2013,53
+PRT,Portugal,Employment rate,2013,60
+SVK,Slovak Republic,Employment rate,2013,53
+ESP,Spain,Employment rate,2013,53
+SWE,Sweden,Employment rate,2013,72
+CHE,Switzerland,Employment rate,2013,73
+TUR,Turkey,Employment rate,2013,28
+GBR,United Kingdom,Employment rate,2013,65
+USA,United States,Employment rate,2013,62
+OTO,OECD - Total,Employment rate,2013,60
+BRA,Brazil,Employment rate,2013,56
+CHL,Chile,Employment rate,2013,49
+EST,Estonia,Employment rate,2013,63
+ISR,Israel,Employment rate,2013,57
+RUS,Russia,Employment rate,2013,64
+SVN,Slovenia,Employment rate,2013,61
+AUS,Australia,Employment rate,2013,84
+AUT,Austria,Employment rate,2013,86
+BEL,Belgium,Employment rate,2013,82
+CAN,Canada,Employment rate,2013,81
+CZE,Czech Republic,Employment rate,2013,82
+DNK,Denmark,Employment rate,2013,85
+FIN,Finland,Employment rate,2013,85
+FRA,France,Employment rate,2013,80
+DEU,Germany,Employment rate,2013,88
+GRC,Greece,Employment rate,2013,73
+HUN,Hungary,Employment rate,2013,78
+ISL,Iceland,Employment rate,2013,89
+IRL,Ireland,Employment rate,2013,79
+ITA,Italy,Employment rate,2013,76
+JPN,Japan,Employment rate,2013,75
+KOR,Korea,Employment rate,2013,77
+LUX,Luxembourg,Employment rate,2013,83
+MEX,Mexico,Employment rate,2013,70
+NLD,Netherlands,Employment rate,2013,87
+NZL,New Zealand,Employment rate,2013,83
+NOR,Norway,Employment rate,2013,88
+POL,Poland,Employment rate,2013,83
+PRT,Portugal,Employment rate,2013,81
+SVK,Slovak Republic,Employment rate,2013,79
+ESP,Spain,Employment rate,2013,77
+SWE,Sweden,Employment rate,2013,89
+CHE,Switzerland,Employment rate,2013,89
+TUR,Turkey,Employment rate,2013,75
+GBR,United Kingdom,Employment rate,2013,84
+USA,United States,Employment rate,2013,80
+OTO,OECD - Total,Employment rate,2013,82
+BRA,Brazil,Employment rate,2013,86
+CHL,Chile,Employment rate,2013,72
+EST,Estonia,Employment rate,2013,84
+ISR,Israel,Employment rate,2013,82
+RUS,Russia,Employment rate,2013,83
+SVN,Slovenia,Employment rate,2013,84
+AUS,Australia,Employment rate,2013,59
+AUT,Austria,Employment rate,2013,50
+BEL,Belgium,Employment rate,2013,39
+CAN,Canada,Employment rate,2013,47
+CZE,Czech Republic,Employment rate,2013,22
+DNK,Denmark,Employment rate,2013,59
+FIN,Finland,Employment rate,2013,42
+FRA,France,Employment rate,2013,45
+DEU,Germany,Employment rate,2013,46
+GRC,Greece,Employment rate,2013,45
+HUN,Hungary,Employment rate,2013,26
+ISL,Iceland,Employment rate,2013,71
+IRL,Ireland,Employment rate,2013,36
+ITA,Italy,Employment rate,2013,44
+JPN,Japan,Employment rate,2013,61
+KOR,Korea,Employment rate,2013,46
+LUX,Luxembourg,Employment rate,2013,43
+MEX,Mexico,Employment rate,2013,58
+NLD,Netherlands,Employment rate,2013,59
+NZL,New Zealand,Employment rate,2013,58
+NOR,Norway,Employment rate,2013,56
+POL,Poland,Employment rate,2013,24
+PRT,Portugal,Employment rate,2013,61
+SVK,Slovak Republic,Employment rate,2013,14
+ESP,Spain,Employment rate,2013,38
+SWE,Sweden,Employment rate,2013,49
+CHE,Switzerland,Employment rate,2013,44
+TUR,Turkey,Employment rate,2013,46
+GBR,United Kingdom,Employment rate,2013,49
+USA,United States,Employment rate,2013,35
+OTO,OECD - Total,Employment rate,2013,45
+BRA,Brazil,Employment rate,2013,62
+CHL,Chile,Employment rate,2013,58
+EST,Estonia,Employment rate,2013,28
+ISR,Israel,Employment rate,2013,31
+RUS,Russia,Employment rate,2013,45
+SVN,Slovenia,Employment rate,2013,39
+AUS,Australia,Job security,2013,12.4
+AUT,Austria,Job security,2013,9.5
+BEL,Belgium,Job security,2013,7.4
+CAN,Canada,Job security,2013,11.3
+CZE,Czech Republic,Job security,2013,6.7
+DNK,Denmark,Job security,2013,12.9
+FIN,Finland,Job security,2013,14.5
+FRA,France,Job security,2013,9.3
+DEU,Germany,Job security,2013,8.3
+GRC,Greece,Job security,2013,4.7
+HUN,Hungary,Job security,2013,7.8
+ISL,Iceland,Job security,2013,10.8
+IRL,Ireland,Job security,2013,6.9
+ITA,Italy,Job security,2013,6.9
+JPN,Japan,Job security,2013,10.5
+KOR,Korea,Job security,2013,24.3
+LUX,Luxembourg,Job security,2013,5.4
+MEX,Mexico,Job security,2013,21.4
+NLD,Netherlands,Job security,2013,8.8
+NZL,New Zealand,Job security,2013,10.5
+NOR,Norway,Job security,2013,7.9
+POL,Poland,Job security,2013,8.1
+PRT,Portugal,Job security,2013,8.7
+SVK,Slovak Republic,Job security,2013,5
+ESP,Spain,Job security,2013,10.9
+SWE,Sweden,Job security,2013,13.9
+CHE,Switzerland,Job security,2013,8.4
+TUR,Turkey,Job security,2013,25.8
+GBR,United Kingdom,Job security,2013,6.8
+USA,United States,Job security,2013,11.4
+OTO,OECD - Total,Job security,2013,10.5
+BRA,Brazil,Job security,2013,14
+CHL,Chile,Job security,2013,10.5
+EST,Estonia,Job security,2013,10.7
+ISR,Israel,Job security,2013,10.5
+RUS,Russia,Job security,2013,10.5
+SVN,Slovenia,Job security,2013,7.7
+AUS,Australia,Job security,2013,13
+AUT,Austria,Job security,2013,8.3
+BEL,Belgium,Job security,2013,7.6
+CAN,Canada,Job security,2013,11.3
+CZE,Czech Republic,Job security,2013,5.9
+DNK,Denmark,Job security,2013,14
+FIN,Finland,Job security,2013,14.3
+FRA,France,Job security,2013,9.7
+DEU,Germany,Job security,2013,8.3
+GRC,Greece,Job security,2013,4.8
+HUN,Hungary,Job security,2013,8.7
+ISL,Iceland,Job security,2013,10.4
+IRL,Ireland,Job security,2013,7.7
+ITA,Italy,Job security,2013,7
+JPN,Japan,Job security,2013,10.5
+KOR,Korea,Job security,2013,21.8
+LUX,Luxembourg,Job security,2013,5.7
+MEX,Mexico,Job security,2013,21.6
+NLD,Netherlands,Job security,2013,8.9
+NZL,New Zealand,Job security,2013,10.5
+NOR,Norway,Job security,2013,8
+POL,Poland,Job security,2013,9
+PRT,Portugal,Job security,2013,9
+SVK,Slovak Republic,Job security,2013,5.7
+ESP,Spain,Job security,2013,10.9
+SWE,Sweden,Job security,2013,13.8
+CHE,Switzerland,Job security,2013,7.7
+TUR,Turkey,Job security,2013,25.5
+GBR,United Kingdom,Job security,2013,7.2
+USA,United States,Job security,2013,11.3
+OTO,OECD - Total,Job security,2013,10.5
+BRA,Brazil,Job security,2013,14
+CHL,Chile,Job security,2013,10.5
+EST,Estonia,Job security,2013,11.6
+ISR,Israel,Job security,2013,10.5
+RUS,Russia,Job security,2013,10.5
+SVN,Slovenia,Job security,2013,6.7
+AUS,Australia,Job security,2013,11.9
+AUT,Austria,Job security,2013,10.7
+BEL,Belgium,Job security,2013,7.3
+CAN,Canada,Job security,2013,10.5
+CZE,Czech Republic,Job security,2013,7.5
+DNK,Denmark,Job security,2013,11.8
+FIN,Finland,Job security,2013,14.8
+FRA,France,Job security,2013,8.9
+DEU,Germany,Job security,2013,8.2
+GRC,Greece,Job security,2013,4.7
+HUN,Hungary,Job security,2013,7
+ISL,Iceland,Job security,2013,11.2
+IRL,Ireland,Job security,2013,6.2
+ITA,Italy,Job security,2013,6.7
+JPN,Japan,Job security,2013,10.4
+KOR,Korea,Job security,2013,27.7
+LUX,Luxembourg,Job security,2013,5.1
+MEX,Mexico,Job security,2013,16.8
+NLD,Netherlands,Job security,2013,8.8
+NZL,New Zealand,Job security,2013,10.4
+NOR,Norway,Job security,2013,7.8
+POL,Poland,Job security,2013,8.4
+PRT,Portugal,Job security,2013,8.4
+SVK,Slovak Republic,Job security,2013,4.2
+ESP,Spain,Job security,2013,11
+SWE,Sweden,Job security,2013,13.9
+CHE,Switzerland,Job security,2013,9.3
+TUR,Turkey,Job security,2013,27
+GBR,United Kingdom,Job security,2013,6.5
+USA,United States,Job security,2013,11.4
+OTO,OECD - Total,Job security,2013,10.4
+BRA,Brazil,Job security,2013,14.2
+CHL,Chile,Job security,2013,10.4
+EST,Estonia,Job security,2013,9.9
+ISR,Israel,Job security,2013,10.4
+RUS,Russia,Job security,2013,10.4
+SVN,Slovenia,Job security,2013,8.7
+AUS,Australia,Long-term unemployment rate,2013,0.96
+AUT,Austria,Long-term unemployment rate,2013,1.07
+BEL,Belgium,Long-term unemployment rate,2013,3.45
+CAN,Canada,Long-term unemployment rate,2013,1
+CZE,Czech Republic,Long-term unemployment rate,2013,2.8
+DNK,Denmark,Long-term unemployment rate,2013,1.85
+FIN,Finland,Long-term unemployment rate,2013,1.75
+FRA,France,Long-term unemployment rate,2013,3.83
+DEU,Germany,Long-term unemployment rate,2013,2.84
+GRC,Greece,Long-term unemployment rate,2013,8.75
+HUN,Hungary,Long-term unemployment rate,2013,5.36
+ISL,Iceland,Long-term unemployment rate,2013,1.97
+IRL,Ireland,Long-term unemployment rate,2013,8.52
+ITA,Italy,Long-term unemployment rate,2013,4.36
+JPN,Japan,Long-term unemployment rate,2013,1.78
+KOR,Korea,Long-term unemployment rate,2013,0.01
+LUX,Luxembourg,Long-term unemployment rate,2013,1.41
+MEX,Mexico,Long-term unemployment rate,2013,0.11
+NLD,Netherlands,Long-term unemployment rate,2013,1.49
+NZL,New Zealand,Long-term unemployment rate,2013,0.59
+NOR,Norway,Long-term unemployment rate,2013,0.38
+POL,Poland,Long-term unemployment rate,2013,3.05
+PRT,Portugal,Long-term unemployment rate,2013,6.14
+SVK,Slovak Republic,Long-term unemployment rate,2013,8.65
+ESP,Spain,Long-term unemployment rate,2013,8.99
+SWE,Sweden,Long-term unemployment rate,2013,1.29
+CHE,Switzerland,Long-term unemployment rate,2013,1.57
+TUR,Turkey,Long-term unemployment rate,2013,2.59
+GBR,United Kingdom,Long-term unemployment rate,2013,2.62
+USA,United States,Long-term unemployment rate,2013,2.8
+OTO,OECD - Total,Long-term unemployment rate,2013,3.14
+BRA,Brazil,Long-term unemployment rate,2013,3.02
+CHL,Chile,Long-term unemployment rate,2013,2.94
+EST,Estonia,Long-term unemployment rate,2013,7.06
+ISR,Israel,Long-term unemployment rate,2013,1.13
+RUS,Russia,Long-term unemployment rate,2013,2.17
+SVN,Slovenia,Long-term unemployment rate,2013,3.61
+AUS,Australia,Long-term unemployment rate,2013,0.97
+AUT,Austria,Long-term unemployment rate,2013,1.1
+BEL,Belgium,Long-term unemployment rate,2013,3.35
+CAN,Canada,Long-term unemployment rate,2013,1.13
+CZE,Czech Republic,Long-term unemployment rate,2013,2.42
+DNK,Denmark,Long-term unemployment rate,2013,2.01
+FIN,Finland,Long-term unemployment rate,2013,2.22
+FRA,France,Long-term unemployment rate,2013,3.71
+DEU,Germany,Long-term unemployment rate,2013,3.04
+GRC,Greece,Long-term unemployment rate,2013,6.72
+HUN,Hungary,Long-term unemployment rate,2013,5.36
+ISL,Iceland,Long-term unemployment rate,2013,2.22
+IRL,Ireland,Long-term unemployment rate,2013,11.46
+ITA,Italy,Long-term unemployment rate,2013,3.89
+JPN,Japan,Long-term unemployment rate,2013,2.27
+KOR,Korea,Long-term unemployment rate,2013,0.02
+LUX,Luxembourg,Long-term unemployment rate,2013,1.27
+MEX,Mexico,Long-term unemployment rate,2013,0.12
+NLD,Netherlands,Long-term unemployment rate,2013,1.58
+NZL,New Zealand,Long-term unemployment rate,2013,0.64
+NOR,Norway,Long-term unemployment rate,2013,0.47
+POL,Poland,Long-term unemployment rate,2013,2.76
+PRT,Portugal,Long-term unemployment rate,2013,5.96
+SVK,Slovak Republic,Long-term unemployment rate,2013,8.79
+ESP,Spain,Long-term unemployment rate,2013,8.62
+SWE,Sweden,Long-term unemployment rate,2013,1.46
+CHE,Switzerland,Long-term unemployment rate,2013,1.37
+TUR,Turkey,Long-term unemployment rate,2013,2.07
+GBR,United Kingdom,Long-term unemployment rate,2013,3.18
+USA,United States,Long-term unemployment rate,2013,3.02
+OTO,OECD - Total,Long-term unemployment rate,2013,3.21
+BRA,Brazil,Long-term unemployment rate,2013,3.08
+CHL,Chile,Long-term unemployment rate,2013,3
+EST,Estonia,Long-term unemployment rate,2013,7.79
+ISR,Israel,Long-term unemployment rate,2013,1.19
+RUS,Russia,Long-term unemployment rate,2013,2.28
+SVN,Slovenia,Long-term unemployment rate,2013,3.68
+AUS,Australia,Long-term unemployment rate,2013,0.957307747
+AUT,Austria,Long-term unemployment rate,2013,1.04241125
+BEL,Belgium,Long-term unemployment rate,2013,3.573827775
+CAN,Canada,Long-term unemployment rate,2013,0.86253676
+CZE,Czech Republic,Long-term unemployment rate,2013,3.278901329
+DNK,Denmark,Long-term unemployment rate,2013,1.663329249
+FIN,Finland,Long-term unemployment rate,2013,1.241301908
+FRA,France,Long-term unemployment rate,2013,3.96569359
+DEU,Germany,Long-term unemployment rate,2013,2.603050902
+GRC,Greece,Long-term unemployment rate,2013,11.5254484
+HUN,Hungary,Long-term unemployment rate,2013,5.364952829
+ISL,Iceland,Long-term unemployment rate,2013,1.688344144
+IRL,Ireland,Long-term unemployment rate,2013,4.909896073
+ITA,Italy,Long-term unemployment rate,2013,5.034468687
+JPN,Japan,Long-term unemployment rate,2013,1.103937207
+KOR,Korea,Long-term unemployment rate,2013,0.007680492
+LUX,Luxembourg,Long-term unemployment rate,2013,1.592041282
+MEX,Mexico,Long-term unemployment rate,2013,0.084921006
+NLD,Netherlands,Long-term unemployment rate,2013,1.380117775
+NZL,New Zealand,Long-term unemployment rate,2013,0.522259297
+NOR,Norway,Long-term unemployment rate,2013,0.275440784
+POL,Poland,Long-term unemployment rate,2013,3.390406743
+PRT,Portugal,Long-term unemployment rate,2013,6.338144778
+SVK,Slovak Republic,Long-term unemployment rate,2013,8.462049723
+ESP,Spain,Long-term unemployment rate,2013,9.455088284
+SWE,Sweden,Long-term unemployment rate,2013,1.105598198
+CHE,Switzerland,Long-term unemployment rate,2013,1.809738682
+TUR,Turkey,Long-term unemployment rate,2013,3.855452348
+GBR,United Kingdom,Long-term unemployment rate,2013,1.949865495
+USA,United States,Long-term unemployment rate,2013,2.558720533
+OTO,OECD - Total,Long-term unemployment rate,2013,3.106932311
+BRA,Brazil,Long-term unemployment rate,2013,2.896614094
+CHL,Chile,Long-term unemployment rate,2013,2.812070272
+EST,Estonia,Long-term unemployment rate,2013,6.339627218
+ISR,Israel,Long-term unemployment rate,2013,1.06208222
+RUS,Russia,Long-term unemployment rate,2013,2.061322143
+SVN,Slovenia,Long-term unemployment rate,2013,3.524123542
+AUS,Australia,Long-term unemployment rate,2013,0.53
+AUT,Austria,Long-term unemployment rate,2013,0.6
+BEL,Belgium,Long-term unemployment rate,2013,1.86
+CAN,Canada,Long-term unemployment rate,2013,0.7
+CZE,Czech Republic,Long-term unemployment rate,2013,1.09
+DNK,Denmark,Long-term unemployment rate,2013,1.18
+FIN,Finland,Long-term unemployment rate,2013,0.93
+FRA,France,Long-term unemployment rate,2013,2.28
+DEU,Germany,Long-term unemployment rate,2013,1.27
+GRC,Greece,Long-term unemployment rate,2013,6.88
+HUN,Hungary,Long-term unemployment rate,2013,2.28
+ISL,Iceland,Long-term unemployment rate,2013,0.95
+IRL,Ireland,Long-term unemployment rate,2013,4.73
+ITA,Italy,Long-term unemployment rate,2013,3.01
+JPN,Japan,Long-term unemployment rate,2013,1.44
+KOR,Korea,Long-term unemployment rate,2013,0.01
+LUX,Luxembourg,Long-term unemployment rate,2013,1.23
+MEX,Mexico,Long-term unemployment rate,2013,0.12
+NLD,Netherlands,Long-term unemployment rate,2013,0.81
+NZL,New Zealand,Long-term unemployment rate,2013,0.42
+NOR,Norway,Long-term unemployment rate,2013,0.19
+POL,Poland,Long-term unemployment rate,2013,1.6
+PRT,Portugal,Long-term unemployment rate,2013,4.12
+SVK,Slovak Republic,Long-term unemployment rate,2013,3.49
+ESP,Spain,Long-term unemployment rate,2013,4.63
+SWE,Sweden,Long-term unemployment rate,2013,0.7
+CHE,Switzerland,Long-term unemployment rate,2013,1.11
+TUR,Turkey,Long-term unemployment rate,2013,2.4
+GBR,United Kingdom,Long-term unemployment rate,2013,1.59
+USA,United States,Long-term unemployment rate,2013,1.59
+OTO,OECD - Total,Long-term unemployment rate,2013,1.78
+BRA,Brazil,Long-term unemployment rate,2013,1.29
+CHL,Chile,Long-term unemployment rate,2013,2.53
+EST,Estonia,Long-term unemployment rate,2013,3.98
+ISR,Israel,Long-term unemployment rate,2013,0.75
+RUS,Russia,Long-term unemployment rate,2013,1.33
+SVN,Slovenia,Long-term unemployment rate,2013,2.16
+AUS,Australia,Long-term unemployment rate,2013,1.64
+AUT,Austria,Long-term unemployment rate,2013,2.12
+BEL,Belgium,Long-term unemployment rate,2013,6.42
+CAN,Canada,Long-term unemployment rate,2013,2.05
+CZE,Czech Republic,Long-term unemployment rate,2013,9.71
+DNK,Denmark,Long-term unemployment rate,2013,2.79
+FIN,Finland,Long-term unemployment rate,2013,3.48
+FRA,France,Long-term unemployment rate,2013,6.33
+DEU,Germany,Long-term unemployment rate,2013,6.07
+GRC,Greece,Long-term unemployment rate,2013,8.98
+HUN,Hungary,Long-term unemployment rate,2013,12.16
+ISL,Iceland,Long-term unemployment rate,2013,2.84
+IRL,Ireland,Long-term unemployment rate,2013,13.75
+ITA,Italy,Long-term unemployment rate,2013,5.45
+JPN,Japan,Long-term unemployment rate,2013,2.42
+KOR,Korea,Long-term unemployment rate,2013,0.01
+LUX,Luxembourg,Long-term unemployment rate,2013,1.99
+MEX,Mexico,Long-term unemployment rate,2013,0.1
+NLD,Netherlands,Long-term unemployment rate,2013,2.33
+NZL,New Zealand,Long-term unemployment rate,2013,0.94
+NOR,Norway,Long-term unemployment rate,2013,0.86
+POL,Poland,Long-term unemployment rate,2013,5.82
+PRT,Portugal,Long-term unemployment rate,2013,7.11
+SVK,Slovak Republic,Long-term unemployment rate,2013,26.66
+ESP,Spain,Long-term unemployment rate,2013,15.54
+SWE,Sweden,Long-term unemployment rate,2013,2.91
+CHE,Switzerland,Long-term unemployment rate,2013,4.01
+TUR,Turkey,Long-term unemployment rate,2013,2.59
+GBR,United Kingdom,Long-term unemployment rate,2013,4.27
+USA,United States,Long-term unemployment rate,2013,6.03
+OTO,OECD - Total,Long-term unemployment rate,2013,5.35
+BRA,Brazil,Long-term unemployment rate,2013,3.15
+CHL,Chile,Long-term unemployment rate,2013,1.92
+EST,Estonia,Long-term unemployment rate,2013,13.57
+ISR,Israel,Long-term unemployment rate,2013,1.96
+RUS,Russia,Long-term unemployment rate,2013,3.53
+SVN,Slovenia,Long-term unemployment rate,2013,6.25
+AUS,Australia,Personal earnings,2013,43908
+AUT,Austria,Personal earnings,2013,43688
+BEL,Belgium,Personal earnings,2013,44321
+CAN,Canada,Personal earnings,2013,42253
+CZE,Czech Republic,Personal earnings,2013,19312
+DNK,Denmark,Personal earnings,2013,45802
+FIN,Finland,Personal earnings,2013,36468
+FRA,France,Personal earnings,2013,37505
+DEU,Germany,Personal earnings,2013,39593
+GRC,Greece,Personal earnings,2013,28011
+HUN,Hungary,Personal earnings,2013,19437
+ISL,Iceland,Personal earnings,2013,37290
+IRL,Ireland,Personal earnings,2013,50109
+ITA,Italy,Personal earnings,2013,33947
+JPN,Japan,Personal earnings,2013,35143
+KOR,Korea,Personal earnings,2013,35406
+LUX,Luxembourg,Personal earnings,2013,52847
+MEX,Mexico,Personal earnings,2013,9885
+NLD,Netherlands,Personal earnings,2013,44321
+NZL,New Zealand,Personal earnings,2013,30420
+NOR,Norway,Personal earnings,2013,43990
+POL,Poland,Personal earnings,2013,19806
+PRT,Portugal,Personal earnings,2013,24384
+SVK,Slovak Republic,Personal earnings,2013,19335
+ESP,Spain,Personal earnings,2013,34769
+SWE,Sweden,Personal earnings,2013,37094
+CHE,Switzerland,Personal earnings,2013,50323
+TUR,Turkey,Personal earnings,2013,19032
+GBR,United Kingdom,Personal earnings,2013,44743
+USA,United States,Personal earnings,2013,54450
+OTO,OECD - Total,Personal earnings,2013,34466
+BRA,Brazil,Personal earnings,2013,10905
+CHL,Chile,Personal earnings,2013,15820
+EST,Estonia,Personal earnings,2013,17323
+ISR,Israel,Personal earnings,2013,28629
+RUS,Russia,Personal earnings,2013,19719
+SVN,Slovenia,Personal earnings,2013,32480
+AUS,Australia,Personal earnings,2013,47419
+AUT,Austria,Personal earnings,2013,47817
+BEL,Belgium,Personal earnings,2013,45449
+CAN,Canada,Personal earnings,2013,45880
+CZE,Czech Republic,Personal earnings,2013,21684
+DNK,Denmark,Personal earnings,2013,48692
+FIN,Finland,Personal earnings,2013,40510
+FRA,France,Personal earnings,2013,40793
+DEU,Germany,Personal earnings,2013,42340
+GRC,Greece,Personal earnings,2013,29170
+HUN,Hungary,Personal earnings,2013,21111
+ISL,Iceland,Personal earnings,2013,48399
+IRL,Ireland,Personal earnings,2013,53324
+ITA,Italy,Personal earnings,2013,35667
+JPN,Japan,Personal earnings,2013,38873
+KOR,Korea,Personal earnings,2013,40224
+LUX,Luxembourg,Personal earnings,2013,57097
+MEX,Mexico,Personal earnings,2013,10761
+NLD,Netherlands,Personal earnings,2013,46313
+NZL,New Zealand,Personal earnings,2013,31943
+NOR,Norway,Personal earnings,2013,47108
+POL,Poland,Personal earnings,2013,20110
+PRT,Portugal,Personal earnings,2013,25359
+SVK,Slovak Republic,Personal earnings,2013,21894
+ESP,Spain,Personal earnings,2013,35651
+SWE,Sweden,Personal earnings,2013,40340
+CHE,Switzerland,Personal earnings,2013,52953
+TUR,Turkey,Personal earnings,2013,20657
+GBR,United Kingdom,Personal earnings,2013,48864
+USA,United States,Personal earnings,2013,60068
+OTO,OECD - Total,Personal earnings,2013,39641
+BRA,Brazil,Personal earnings,2013,11866
+CHL,Chile,Personal earnings,2013,17185
+EST,Estonia,Personal earnings,2013,18810
+ISR,Israel,Personal earnings,2013,31995
+RUS,Russia,Personal earnings,2013,21399
+SVN,Slovenia,Personal earnings,2013,35169
+AUS,Australia,Personal earnings,2013,37755
+AUT,Austria,Personal earnings,2013,36272
+BEL,Belgium,Personal earnings,2013,40893
+CAN,Canada,Personal earnings,2013,37892
+CZE,Czech Republic,Personal earnings,2013,16226
+DNK,Denmark,Personal earnings,2013,41527
+FIN,Finland,Personal earnings,2013,32162
+FRA,France,Personal earnings,2013,32656
+DEU,Germany,Personal earnings,2013,34339
+GRC,Greece,Personal earnings,2013,26454
+HUN,Hungary,Personal earnings,2013,17666
+ISL,Iceland,Personal earnings,2013,38434
+IRL,Ireland,Personal earnings,2013,46661
+ITA,Italy,Personal earnings,2013,31242
+JPN,Japan,Personal earnings,2013,27459
+KOR,Korea,Personal earnings,2013,25755
+LUX,Luxembourg,Personal earnings,2013,45906
+MEX,Mexico,Personal earnings,2013,9199
+NLD,Netherlands,Personal earnings,2013,36857
+NZL,New Zealand,Personal earnings,2013,28290
+NOR,Norway,Personal earnings,2013,40180
+POL,Poland,Personal earnings,2013,19457
+PRT,Portugal,Personal earnings,2013,23308
+SVK,Slovak Republic,Personal earnings,2013,16496
+ESP,Spain,Personal earnings,2013,33478
+SWE,Sweden,Personal earnings,2013,33000
+CHE,Switzerland,Personal earnings,2013,39860
+TUR,Turkey,Personal earnings,2013,17241
+GBR,United Kingdom,Personal earnings,2013,38268
+USA,United States,Personal earnings,2013,47361
+OTO,OECD - Total,Personal earnings,2013,32275
+BRA,Brazil,Personal earnings,2013,10108
+CHL,Chile,Personal earnings,2013,14441
+EST,Estonia,Personal earnings,2013,15754
+ISR,Israel,Personal earnings,2013,23748
+RUS,Russia,Personal earnings,2013,17837
+SVN,Slovenia,Personal earnings,2013,28784
+AUS,Australia,Personal earnings,2013,55624
+AUT,Austria,Personal earnings,2013,55997
+BEL,Belgium,Personal earnings,2013,53577
+CAN,Canada,Personal earnings,2013,58316
+CZE,Czech Republic,Personal earnings,2013,23141
+DNK,Denmark,Personal earnings,2013,57073
+FIN,Finland,Personal earnings,2013,45547
+FRA,France,Personal earnings,2013,45292
+DEU,Germany,Personal earnings,2013,51081
+GRC,Greece,Personal earnings,2013,35752
+HUN,Hungary,Personal earnings,2013,24465
+ISL,Iceland,Personal earnings,2013,55075
+IRL,Ireland,Personal earnings,2013,67630
+ITA,Italy,Personal earnings,2013,40560
+JPN,Japan,Personal earnings,2013,45161
+KOR,Korea,Personal earnings,2013,50409
+LUX,Luxembourg,Personal earnings,2013,68946
+MEX,Mexico,Personal earnings,2013,12260
+NLD,Netherlands,Personal earnings,2013,55029
+NZL,New Zealand,Personal earnings,2013,38798
+NOR,Norway,Personal earnings,2013,48724
+POL,Poland,Personal earnings,2013,26308
+PRT,Portugal,Personal earnings,2013,30578
+SVK,Slovak Republic,Personal earnings,2013,24165
+ESP,Spain,Personal earnings,2013,47165
+SWE,Sweden,Personal earnings,2013,47880
+CHE,Switzerland,Personal earnings,2013,74652
+TUR,Turkey,Personal earnings,2013,24076
+GBR,United Kingdom,Personal earnings,2013,57373
+USA,United States,Personal earnings,2013,70927
+OTO,OECD - Total,Personal earnings,2013,47324
+BRA,Brazil,Personal earnings,2013,13565
+CHL,Chile,Personal earnings,2013,19901
+EST,Estonia,Personal earnings,2013,21851
+ISR,Israel,Personal earnings,2013,39324
+RUS,Russia,Personal earnings,2013,24971
+SVN,Slovenia,Personal earnings,2013,41756
+AUS,Australia,Personal earnings,2013,26074
+AUT,Austria,Personal earnings,2013,26006
+BEL,Belgium,Personal earnings,2013,30923
+CAN,Canada,Personal earnings,2013,24547
+CZE,Czech Republic,Personal earnings,2013,11276
+DNK,Denmark,Personal earnings,2013,29513
+FIN,Finland,Personal earnings,2013,24691
+FRA,France,Personal earnings,2013,23069
+DEU,Germany,Personal earnings,2013,23625
+GRC,Greece,Personal earnings,2013,16807
+HUN,Hungary,Personal earnings,2013,9595
+ISL,Iceland,Personal earnings,2013,26879
+IRL,Ireland,Personal earnings,2013,28182
+ITA,Italy,Personal earnings,2013,24287
+JPN,Japan,Personal earnings,2013,22154
+KOR,Korea,Personal earnings,2013,17458
+LUX,Luxembourg,Personal earnings,2013,33342
+MEX,Mexico,Personal earnings,2013,4970
+NLD,Netherlands,Personal earnings,2013,28345
+NZL,New Zealand,Personal earnings,2013,19006
+NOR,Norway,Personal earnings,2013,30366
+POL,Poland,Personal earnings,2013,10906
+PRT,Portugal,Personal earnings,2013,13056
+SVK,Slovak Republic,Personal earnings,2013,10496
+ESP,Spain,Personal earnings,2013,21065
+SWE,Sweden,Personal earnings,2013,22308
+CHE,Switzerland,Personal earnings,2013,39951
+TUR,Turkey,Personal earnings,2013,10457
+GBR,United Kingdom,Personal earnings,2013,24428
+USA,United States,Personal earnings,2013,24080
+OTO,OECD - Total,Personal earnings,2013,22240
+BRA,Brazil,Personal earnings,2013,5557
+CHL,Chile,Personal earnings,2013,8477
+EST,Estonia,Personal earnings,2013,9397
+ISR,Israel,Personal earnings,2013,13691
+RUS,Russia,Personal earnings,2013,10886
+SVN,Slovenia,Personal earnings,2013,19185
+AUS,Australia,Quality of support network,2013,94
+AUT,Austria,Quality of support network,2013,94
+BEL,Belgium,Quality of support network,2013,92
+CAN,Canada,Quality of support network,2013,94
+CZE,Czech Republic,Quality of support network,2013,89
+DNK,Denmark,Quality of support network,2013,94
+FIN,Finland,Quality of support network,2013,92
+FRA,France,Quality of support network,2013,93
+DEU,Germany,Quality of support network,2013,92
+GRC,Greece,Quality of support network,2013,81
+HUN,Hungary,Quality of support network,2013,90
+ISL,Iceland,Quality of support network,2013,98
+IRL,Ireland,Quality of support network,2013,96
+ITA,Italy,Quality of support network,2013,86
+JPN,Japan,Quality of support network,2013,90
+KOR,Korea,Quality of support network,2013,77
+LUX,Luxembourg,Quality of support network,2013,91
+MEX,Mexico,Quality of support network,2013,76
+NLD,Netherlands,Quality of support network,2013,94
+NZL,New Zealand,Quality of support network,2013,93
+NOR,Norway,Quality of support network,2013,93
+POL,Poland,Quality of support network,2013,91
+PRT,Portugal,Quality of support network,2013,85
+SVK,Slovak Republic,Quality of support network,2013,89
+ESP,Spain,Quality of support network,2013,93
+SWE,Sweden,Quality of support network,2013,92
+CHE,Switzerland,Quality of support network,2013,94
+TUR,Turkey,Quality of support network,2013,73
+GBR,United Kingdom,Quality of support network,2013,95
+USA,United States,Quality of support network,2013,90
+OTO,OECD - Total,Quality of support network,2013,90
+BRA,Brazil,Quality of support network,2013,88
+CHL,Chile,Quality of support network,2013,82
+EST,Estonia,Quality of support network,2013,86
+ISR,Israel,Quality of support network,2013,89
+RUS,Russia,Quality of support network,2013,87
+SVN,Slovenia,Quality of support network,2013,92
+AUS,Australia,Quality of support network,2013,92
+AUT,Austria,Quality of support network,2013,92
+BEL,Belgium,Quality of support network,2013,93
+CAN,Canada,Quality of support network,2013,96
+CZE,Czech Republic,Quality of support network,2013,87
+DNK,Denmark,Quality of support network,2013,96
+FIN,Finland,Quality of support network,2013,90
+FRA,France,Quality of support network,2013,94
+DEU,Germany,Quality of support network,2013,92
+GRC,Greece,Quality of support network,2013,82
+HUN,Hungary,Quality of support network,2013,90
+ISL,Iceland,Quality of support network,2013,98
+IRL,Ireland,Quality of support network,2013,95
+ITA,Italy,Quality of support network,2013,85
+JPN,Japan,Quality of support network,2013,90
+KOR,Korea,Quality of support network,2013,74
+LUX,Luxembourg,Quality of support network,2013,90
+MEX,Mexico,Quality of support network,2013,75
+NLD,Netherlands,Quality of support network,2013,93
+NZL,New Zealand,Quality of support network,2013,91
+NOR,Norway,Quality of support network,2013,93
+POL,Poland,Quality of support network,2013,90
+PRT,Portugal,Quality of support network,2013,86
+SVK,Slovak Republic,Quality of support network,2013,88
+ESP,Spain,Quality of support network,2013,93
+SWE,Sweden,Quality of support network,2013,90
+CHE,Switzerland,Quality of support network,2013,93
+TUR,Turkey,Quality of support network,2013,72
+GBR,United Kingdom,Quality of support network,2013,93
+USA,United States,Quality of support network,2013,88
+OTO,OECD - Total,Quality of support network,2013,89
+BRA,Brazil,Quality of support network,2013,90
+CHL,Chile,Quality of support network,2013,79
+EST,Estonia,Quality of support network,2013,84
+ISR,Israel,Quality of support network,2013,89
+RUS,Russia,Quality of support network,2013,87
+SVN,Slovenia,Quality of support network,2013,93
+AUS,Australia,Quality of support network,2013,95
+AUT,Austria,Quality of support network,2013,96
+BEL,Belgium,Quality of support network,2013,92
+CAN,Canada,Quality of support network,2013,93
+CZE,Czech Republic,Quality of support network,2013,90
+DNK,Denmark,Quality of support network,2013,93
+FIN,Finland,Quality of support network,2013,94
+FRA,France,Quality of support network,2013,93
+DEU,Germany,Quality of support network,2013,93
+GRC,Greece,Quality of support network,2013,80
+HUN,Hungary,Quality of support network,2013,90
+ISL,Iceland,Quality of support network,2013,97
+IRL,Ireland,Quality of support network,2013,98
+ITA,Italy,Quality of support network,2013,87
+JPN,Japan,Quality of support network,2013,90
+KOR,Korea,Quality of support network,2013,79
+LUX,Luxembourg,Quality of support network,2013,91
+MEX,Mexico,Quality of support network,2013,76
+NLD,Netherlands,Quality of support network,2013,94
+NZL,New Zealand,Quality of support network,2013,94
+NOR,Norway,Quality of support network,2013,93
+POL,Poland,Quality of support network,2013,92
+PRT,Portugal,Quality of support network,2013,84
+SVK,Slovak Republic,Quality of support network,2013,90
+ESP,Spain,Quality of support network,2013,94
+SWE,Sweden,Quality of support network,2013,94
+CHE,Switzerland,Quality of support network,2013,96
+TUR,Turkey,Quality of support network,2013,74
+GBR,United Kingdom,Quality of support network,2013,96
+USA,United States,Quality of support network,2013,92
+OTO,OECD - Total,Quality of support network,2013,90
+BRA,Brazil,Quality of support network,2013,87
+CHL,Chile,Quality of support network,2013,85
+EST,Estonia,Quality of support network,2013,87
+ISR,Israel,Quality of support network,2013,90
+RUS,Russia,Quality of support network,2013,88
+SVN,Slovenia,Quality of support network,2013,91
+AUS,Australia,Quality of support network,2013,95
+AUT,Austria,Quality of support network,2013,97
+BEL,Belgium,Quality of support network,2013,93
+CAN,Canada,Quality of support network,2013,93
+CZE,Czech Republic,Quality of support network,2013,89
+DNK,Denmark,Quality of support network,2013,93
+FIN,Finland,Quality of support network,2013,98
+FRA,France,Quality of support network,2013,95
+DEU,Germany,Quality of support network,2013,94
+GRC,Greece,Quality of support network,2013,85
+HUN,Hungary,Quality of support network,2013,95
+ISL,Iceland,Quality of support network,2013,97
+IRL,Ireland,Quality of support network,2013,98
+ITA,Italy,Quality of support network,2013,89
+JPN,Japan,Quality of support network,2013,93
+KOR,Korea,Quality of support network,2013,82
+LUX,Luxembourg,Quality of support network,2013,92
+MEX,Mexico,Quality of support network,2013,87
+NLD,Netherlands,Quality of support network,2013,95
+NZL,New Zealand,Quality of support network,2013,91
+NOR,Norway,Quality of support network,2013,94
+POL,Poland,Quality of support network,2013,96
+PRT,Portugal,Quality of support network,2013,95
+SVK,Slovak Republic,Quality of support network,2013,96
+ESP,Spain,Quality of support network,2013,99
+SWE,Sweden,Quality of support network,2013,92
+CHE,Switzerland,Quality of support network,2013,95
+TUR,Turkey,Quality of support network,2013,87
+GBR,United Kingdom,Quality of support network,2013,96
+USA,United States,Quality of support network,2013,96
+OTO,OECD - Total,Quality of support network,2013,93
+BRA,Brazil,Quality of support network,2013,91
+CHL,Chile,Quality of support network,2013,89
+EST,Estonia,Quality of support network,2013,91
+ISR,Israel,Quality of support network,2013,91
+RUS,Russia,Quality of support network,2013,89
+SVN,Slovenia,Quality of support network,2013,95
+AUS,Australia,Quality of support network,2013,82
+AUT,Austria,Quality of support network,2013,96
+BEL,Belgium,Quality of support network,2013,87
+CAN,Canada,Quality of support network,2013,97
+CZE,Czech Republic,Quality of support network,2013,91
+DNK,Denmark,Quality of support network,2013,90
+FIN,Finland,Quality of support network,2013,84
+FRA,France,Quality of support network,2013,90
+DEU,Germany,Quality of support network,2013,93
+GRC,Greece,Quality of support network,2013,77
+HUN,Hungary,Quality of support network,2013,88
+ISL,Iceland,Quality of support network,2013,98
+IRL,Ireland,Quality of support network,2013,100
+ITA,Italy,Quality of support network,2013,84
+JPN,Japan,Quality of support network,2013,86
+KOR,Korea,Quality of support network,2013,42
+LUX,Luxembourg,Quality of support network,2013,87
+MEX,Mexico,Quality of support network,2013,71
+NLD,Netherlands,Quality of support network,2013,86
+NZL,New Zealand,Quality of support network,2013,91
+NOR,Norway,Quality of support network,2013,91
+POL,Poland,Quality of support network,2013,87
+PRT,Portugal,Quality of support network,2013,75
+SVK,Slovak Republic,Quality of support network,2013,84
+ESP,Spain,Quality of support network,2013,90
+SWE,Sweden,Quality of support network,2013,76
+CHE,Switzerland,Quality of support network,2013,95
+TUR,Turkey,Quality of support network,2013,65
+GBR,United Kingdom,Quality of support network,2013,92
+USA,United States,Quality of support network,2013,84
+OTO,OECD - Total,Quality of support network,2013,84
+BRA,Brazil,Quality of support network,2013,88
+CHL,Chile,Quality of support network,2013,75
+EST,Estonia,Quality of support network,2013,84
+ISR,Israel,Quality of support network,2013,67
+RUS,Russia,Quality of support network,2013,83
+SVN,Slovenia,Quality of support network,2013,86
+AUS,Australia,Educational attainment,2013,73
+AUT,Austria,Educational attainment,2013,82
+BEL,Belgium,Educational attainment,2013,70
+CAN,Canada,Educational attainment,2013,88
+CZE,Czech Republic,Educational attainment,2013,92
+DNK,Denmark,Educational attainment,2013,76
+FIN,Finland,Educational attainment,2013,83
+FRA,France,Educational attainment,2013,71
+DEU,Germany,Educational attainment,2013,86
+GRC,Greece,Educational attainment,2013,65
+HUN,Hungary,Educational attainment,2013,81
+ISL,Iceland,Educational attainment,2013,67
+IRL,Ireland,Educational attainment,2013,73
+ITA,Italy,Educational attainment,2013,55
+JPN,Japan,Educational attainment,2013,92
+KOR,Korea,Educational attainment,2013,80
+LUX,Luxembourg,Educational attainment,2013,78
+MEX,Mexico,Educational attainment,2013,36
+NLD,Netherlands,Educational attainment,2013,73
+NZL,New Zealand,Educational attainment,2013,73
+NOR,Norway,Educational attainment,2013,81
+POL,Poland,Educational attainment,2013,89
+PRT,Portugal,Educational attainment,2013,32
+SVK,Slovak Republic,Educational attainment,2013,91
+ESP,Spain,Educational attainment,2013,53
+SWE,Sweden,Educational attainment,2013,87
+CHE,Switzerland,Educational attainment,2013,86
+TUR,Turkey,Educational attainment,2013,31
+GBR,United Kingdom,Educational attainment,2013,75
+USA,United States,Educational attainment,2013,89
+OTO,OECD - Total,Educational attainment,2013,74
+BRA,Brazil,Educational attainment,2013,41
+CHL,Chile,Educational attainment,2013,71
+EST,Estonia,Educational attainment,2013,89
+ISR,Israel,Educational attainment,2013,82
+RUS,Russia,Educational attainment,2013,91
+SVN,Slovenia,Educational attainment,2013,83
+AUS,Australia,Educational attainment,2013,76
+AUT,Austria,Educational attainment,2013,88
+BEL,Belgium,Educational attainment,2013,70
+CAN,Canada,Educational attainment,2013,87
+CZE,Czech Republic,Educational attainment,2013,95
+DNK,Denmark,Educational attainment,2013,77
+FIN,Finland,Educational attainment,2013,81
+FRA,France,Educational attainment,2013,72
+DEU,Germany,Educational attainment,2013,88
+GRC,Greece,Educational attainment,2013,65
+HUN,Hungary,Educational attainment,2013,84
+ISL,Iceland,Educational attainment,2013,67
+IRL,Ireland,Educational attainment,2013,71
+ITA,Italy,Educational attainment,2013,54
+JPN,Japan,Educational attainment,2013,93
+KOR,Korea,Educational attainment,2013,85
+LUX,Luxembourg,Educational attainment,2013,81
+MEX,Mexico,Educational attainment,2013,38
+NLD,Netherlands,Educational attainment,2013,75
+NZL,New Zealand,Educational attainment,2013,74
+NOR,Norway,Educational attainment,2013,81
+POL,Poland,Educational attainment,2013,89
+PRT,Portugal,Educational attainment,2013,29
+SVK,Slovak Republic,Educational attainment,2013,93
+ESP,Spain,Educational attainment,2013,52
+SWE,Sweden,Educational attainment,2013,85
+CHE,Switzerland,Educational attainment,2013,89
+TUR,Turkey,Educational attainment,2013,36
+GBR,United Kingdom,Educational attainment,2013,78
+USA,United States,Educational attainment,2013,88
+OTO,OECD - Total,Educational attainment,2013,75
+BRA,Brazil,Educational attainment,2013,39
+CHL,Chile,Educational attainment,2013,72
+EST,Estonia,Educational attainment,2013,86
+ISR,Israel,Educational attainment,2013,81
+RUS,Russia,Educational attainment,2013,90
+SVN,Slovenia,Educational attainment,2013,85
+AUS,Australia,Educational attainment,2013,71
+AUT,Austria,Educational attainment,2013,77
+BEL,Belgium,Educational attainment,2013,71
+CAN,Canada,Educational attainment,2013,90
+CZE,Czech Republic,Educational attainment,2013,89
+DNK,Denmark,Educational attainment,2013,75
+FIN,Finland,Educational attainment,2013,85
+FRA,France,Educational attainment,2013,70
+DEU,Germany,Educational attainment,2013,83
+GRC,Greece,Educational attainment,2013,65
+HUN,Hungary,Educational attainment,2013,78
+ISL,Iceland,Educational attainment,2013,66
+IRL,Ireland,Educational attainment,2013,76
+ITA,Italy,Educational attainment,2013,56
+JPN,Japan,Educational attainment,2013,91
+KOR,Korea,Educational attainment,2013,76
+LUX,Luxembourg,Educational attainment,2013,75
+MEX,Mexico,Educational attainment,2013,35
+NLD,Netherlands,Educational attainment,2013,71
+NZL,New Zealand,Educational attainment,2013,72
+NOR,Norway,Educational attainment,2013,80
+POL,Poland,Educational attainment,2013,88
+PRT,Portugal,Educational attainment,2013,35
+SVK,Slovak Republic,Educational attainment,2013,89
+ESP,Spain,Educational attainment,2013,54
+SWE,Sweden,Educational attainment,2013,88
+CHE,Switzerland,Educational attainment,2013,83
+TUR,Turkey,Educational attainment,2013,26
+GBR,United Kingdom,Educational attainment,2013,72
+USA,United States,Educational attainment,2013,90
+OTO,OECD - Total,Educational attainment,2013,73
+BRA,Brazil,Educational attainment,2013,43
+CHL,Chile,Educational attainment,2013,71
+EST,Estonia,Educational attainment,2013,92
+ISR,Israel,Educational attainment,2013,83
+RUS,Russia,Educational attainment,2013,93
+SVN,Slovenia,Educational attainment,2013,81
+AUS,Australia,Student skills,2013,519
+AUT,Austria,Student skills,2013,487
+BEL,Belgium,Student skills,2013,509
+CAN,Canada,Student skills,2013,527
+CZE,Czech Republic,Student skills,2013,490
+DNK,Denmark,Student skills,2013,499
+FIN,Finland,Student skills,2013,543
+FRA,France,Student skills,2013,497
+DEU,Germany,Student skills,2013,510
+GRC,Greece,Student skills,2013,473
+HUN,Hungary,Student skills,2013,496
+ISL,Iceland,Student skills,2013,501
+IRL,Ireland,Student skills,2013,497
+ITA,Italy,Student skills,2013,486
+JPN,Japan,Student skills,2013,529
+KOR,Korea,Student skills,2013,541
+LUX,Luxembourg,Student skills,2013,482
+MEX,Mexico,Student skills,2013,420
+NLD,Netherlands,Student skills,2013,519
+NZL,New Zealand,Student skills,2013,524
+NOR,Norway,Student skills,2013,500
+POL,Poland,Student skills,2013,501
+PRT,Portugal,Student skills,2013,490
+SVK,Slovak Republic,Student skills,2013,488
+ESP,Spain,Student skills,2013,484
+SWE,Sweden,Student skills,2013,496
+CHE,Switzerland,Student skills,2013,517
+TUR,Turkey,Student skills,2013,455
+GBR,United Kingdom,Student skills,2013,500
+USA,United States,Student skills,2013,496
+OTO,OECD - Total,Student skills,2013,497
+BRA,Brazil,Student skills,2013,401
+CHL,Chile,Student skills,2013,439
+EST,Estonia,Student skills,2013,514
+ISR,Israel,Student skills,2013,459
+RUS,Russia,Student skills,2013,469
+SVN,Slovenia,Student skills,2013,499
+AUS,Australia,Student skills,2013,514
+AUT,Austria,Student skills,2013,484
+BEL,Belgium,Student skills,2013,509
+CAN,Canada,Student skills,2013,524
+CZE,Czech Republic,Student skills,2013,483
+DNK,Denmark,Student skills,2013,499
+FIN,Finland,Student skills,2013,532
+FRA,France,Student skills,2013,493
+DEU,Germany,Student skills,2013,507
+GRC,Greece,Student skills,2013,466
+HUN,Hungary,Student skills,2013,491
+ISL,Iceland,Student skills,2013,494
+IRL,Ireland,Student skills,2013,491
+ITA,Italy,Student skills,2013,481
+JPN,Japan,Student skills,2013,523
+KOR,Korea,Student skills,2013,536
+LUX,Luxembourg,Student skills,2013,480
+MEX,Mexico,Student skills,2013,419
+NLD,Netherlands,Student skills,2013,518
+NZL,New Zealand,Student skills,2013,517
+NOR,Norway,Student skills,2013,493
+POL,Poland,Student skills,2013,492
+PRT,Portugal,Student skills,2013,485
+SVK,Slovak Republic,Student skills,2013,480
+ESP,Spain,Student skills,2013,484
+SWE,Sweden,Student skills,2013,487
+CHE,Switzerland,Student skills,2013,515
+TUR,Turkey,Student skills,2013,447
+GBR,United Kingdom,Student skills,2013,501
+USA,United States,Student skills,2013,498
+OTO,OECD - Total,Student skills,2013,492
+BRA,Brazil,Student skills,2013,399
+CHL,Chile,Student skills,2013,441
+EST,Estonia,Student skills,2013,508
+ISR,Israel,Student skills,2013,452
+RUS,Russia,Student skills,2013,461
+SVN,Slovenia,Student skills,2013,488
+AUS,Australia,Student skills,2013,523
+AUT,Austria,Student skills,2013,489
+BEL,Belgium,Student skills,2013,509
+CAN,Canada,Student skills,2013,530
+CZE,Czech Republic,Student skills,2013,499
+DNK,Denmark,Student skills,2013,499
+FIN,Finland,Student skills,2013,555
+FRA,France,Student skills,2013,500
+DEU,Germany,Student skills,2013,513
+GRC,Greece,Student skills,2013,480
+HUN,Hungary,Student skills,2013,500
+ISL,Iceland,Student skills,2013,507
+IRL,Ireland,Student skills,2013,503
+ITA,Italy,Student skills,2013,492
+JPN,Japan,Student skills,2013,537
+KOR,Korea,Student skills,2013,547
+LUX,Luxembourg,Student skills,2013,484
+MEX,Mexico,Student skills,2013,421
+NLD,Netherlands,Student skills,2013,519
+NZL,New Zealand,Student skills,2013,532
+NOR,Norway,Student skills,2013,508
+POL,Poland,Student skills,2013,510
+PRT,Portugal,Student skills,2013,495
+SVK,Slovak Republic,Student skills,2013,496
+ESP,Spain,Student skills,2013,485
+SWE,Sweden,Student skills,2013,504
+CHE,Switzerland,Student skills,2013,519
+TUR,Turkey,Student skills,2013,462
+GBR,United Kingdom,Student skills,2013,499
+USA,United States,Student skills,2013,495
+OTO,OECD - Total,Student skills,2013,501
+BRA,Brazil,Student skills,2013,403
+CHL,Chile,Student skills,2013,438
+EST,Estonia,Student skills,2013,520
+ISR,Israel,Student skills,2013,465
+RUS,Russia,Student skills,2013,476
+SVN,Slovenia,Student skills,2013,510
+AUS,Australia,Student skills,2013,569
+AUT,Austria,Student skills,2013,548
+BEL,Belgium,Student skills,2013,576
+CAN,Canada,Student skills,2013,567
+CZE,Czech Republic,Student skills,2013,540
+DNK,Denmark,Student skills,2013,545
+FIN,Finland,Student skills,2013,573
+FRA,France,Student skills,2013,561
+DEU,Germany,Student skills,2013,571
+GRC,Greece,Student skills,2013,523
+HUN,Hungary,Student skills,2013,560
+ISL,Iceland,Student skills,2013,534
+IRL,Ireland,Student skills,2013,540
+ITA,Italy,Student skills,2013,528
+JPN,Japan,Student skills,2013,567
+KOR,Korea,Student skills,2013,581
+LUX,Luxembourg,Student skills,2013,539
+MEX,Mexico,Student skills,2013,468
+NLD,Netherlands,Student skills,2013,572
+NZL,New Zealand,Student skills,2013,586
+NOR,Norway,Student skills,2013,536
+POL,Poland,Student skills,2013,556
+PRT,Portugal,Student skills,2013,550
+SVK,Slovak Republic,Student skills,2013,543
+ESP,Spain,Student skills,2013,533
+SWE,Sweden,Student skills,2013,545
+CHE,Switzerland,Student skills,2013,573
+TUR,Turkey,Student skills,2013,514
+GBR,United Kingdom,Student skills,2013,556
+USA,United States,Student skills,2013,559
+OTO,OECD - Total,Student skills,2013,548
+BRA,Brazil,Student skills,2013,456
+CHL,Chile,Student skills,2013,498
+EST,Estonia,Student skills,2013,549
+ISR,Israel,Student skills,2013,514
+RUS,Russia,Student skills,2013,516
+SVN,Slovenia,Student skills,2013,552
+AUS,Australia,Student skills,2013,471
+AUT,Austria,Student skills,2013,431
+BEL,Belgium,Student skills,2013,448
+CAN,Canada,Student skills,2013,492
+CZE,Czech Republic,Student skills,2013,444
+DNK,Denmark,Student skills,2013,452
+FIN,Finland,Student skills,2013,511
+FRA,France,Student skills,2013,437
+DEU,Germany,Student skills,2013,446
+GRC,Greece,Student skills,2013,427
+HUN,Hungary,Student skills,2013,427
+ISL,Iceland,Student skills,2013,464
+IRL,Ireland,Student skills,2013,452
+ITA,Italy,Student skills,2013,441
+JPN,Japan,Student skills,2013,492
+KOR,Korea,Student skills,2013,499
+LUX,Luxembourg,Student skills,2013,414
+MEX,Mexico,Student skills,2013,379
+NLD,Netherlands,Student skills,2013,475
+NZL,New Zealand,Student skills,2013,467
+NOR,Norway,Student skills,2013,459
+POL,Poland,Student skills,2013,459
+PRT,Portugal,Student skills,2013,445
+SVK,Slovak Republic,Student skills,2013,436
+ESP,Spain,Student skills,2013,441
+SWE,Sweden,Student skills,2013,446
+CHE,Switzerland,Student skills,2013,465
+TUR,Turkey,Student skills,2013,408
+GBR,United Kingdom,Student skills,2013,453
+USA,United States,Student skills,2013,447
+OTO,OECD - Total,Student skills,2013,449
+BRA,Brazil,Student skills,2013,365
+CHL,Chile,Student skills,2013,399
+EST,Estonia,Student skills,2013,485
+ISR,Israel,Student skills,2013,401
+RUS,Russia,Student skills,2013,431
+SVN,Slovenia,Student skills,2013,454
+AUS,Australia,Years in education,2013,18.5
+AUT,Austria,Years in education,2013,16.9
+BEL,Belgium,Years in education,2013,18.7
+CAN,Canada,Years in education,2013,17
+CZE,Czech Republic,Years in education,2013,17.8
+DNK,Denmark,Years in education,2013,18.8
+FIN,Finland,Years in education,2013,19.6
+FRA,France,Years in education,2013,16.4
+DEU,Germany,Years in education,2013,17.9
+GRC,Greece,Years in education,2013,18.5
+HUN,Hungary,Years in education,2013,17.5
+ISL,Iceland,Years in education,2013,19.4
+IRL,Ireland,Years in education,2013,17.9
+ITA,Italy,Years in education,2013,17.1
+JPN,Japan,Years in education,2013,18.7
+KOR,Korea,Years in education,2013,17.7
+LUX,Luxembourg,Years in education,2013,14.9
+MEX,Mexico,Years in education,2013,14.9
+NLD,Netherlands,Years in education,2013,17.8
+NZL,New Zealand,Years in education,2013,18.2
+NOR,Norway,Years in education,2013,17.9
+POL,Poland,Years in education,2013,18.2
+PRT,Portugal,Years in education,2013,18
+SVK,Slovak Republic,Years in education,2013,16.4
+ESP,Spain,Years in education,2013,17.3
+SWE,Sweden,Years in education,2013,19.2
+CHE,Switzerland,Years in education,2013,17.2
+TUR,Turkey,Years in education,2013,15.2
+GBR,United Kingdom,Years in education,2013,16.6
+USA,United States,Years in education,2013,17.1
+OTO,OECD - Total,Years in education,2013,16.5
+BRA,Brazil,Years in education,2013,16.3
+CHL,Chile,Years in education,2013,16.2
+EST,Estonia,Years in education,2013,17.4
+ISR,Israel,Years in education,2013,15.8
+RUS,Russia,Years in education,2013,16.6
+SVN,Slovenia,Years in education,2013,18.4
+AUS,Australia,Years in education,2013,18.3
+AUT,Austria,Years in education,2013,16.7
+BEL,Belgium,Years in education,2013,18.2
+CAN,Canada,Years in education,2013,16.6
+CZE,Czech Republic,Years in education,2013,17.3
+DNK,Denmark,Years in education,2013,18.3
+FIN,Finland,Years in education,2013,19.2
+FRA,France,Years in education,2013,16.1
+DEU,Germany,Years in education,2013,18
+GRC,Greece,Years in education,2013,18.4
+HUN,Hungary,Years in education,2013,17.2
+ISL,Iceland,Years in education,2013,18.6
+IRL,Ireland,Years in education,2013,17.9
+ITA,Italy,Years in education,2013,16.6
+JPN,Japan,Years in education,2013,18.3
+KOR,Korea,Years in education,2013,18.5
+LUX,Luxembourg,Years in education,2013,14.8
+MEX,Mexico,Years in education,2013,14.7
+NLD,Netherlands,Years in education,2013,17.8
+NZL,New Zealand,Years in education,2013,17.7
+NOR,Norway,Years in education,2013,17.5
+POL,Poland,Years in education,2013,17.5
+PRT,Portugal,Years in education,2013,17.7
+SVK,Slovak Republic,Years in education,2013,15.9
+ESP,Spain,Years in education,2013,17
+SWE,Sweden,Years in education,2013,18.3
+CHE,Switzerland,Years in education,2013,17.3
+TUR,Turkey,Years in education,2013,15.7
+GBR,United Kingdom,Years in education,2013,16.3
+USA,United States,Years in education,2013,16.5
+OTO,OECD - Total,Years in education,2013,17.2
+BRA,Brazil,Years in education,2013,16
+CHL,Chile,Years in education,2013,16.2
+EST,Estonia,Years in education,2013,16.7
+ISR,Israel,Years in education,2013,15.5
+RUS,Russia,Years in education,2013,16
+SVN,Slovenia,Years in education,2013,17.6
+AUS,Australia,Years in education,2013,18.7
+AUT,Austria,Years in education,2013,17.1
+BEL,Belgium,Years in education,2013,19.3
+CAN,Canada,Years in education,2013,17.4
+CZE,Czech Republic,Years in education,2013,18.3
+DNK,Denmark,Years in education,2013,19.3
+FIN,Finland,Years in education,2013,20.1
+FRA,France,Years in education,2013,16.7
+DEU,Germany,Years in education,2013,17.7
+GRC,Greece,Years in education,2013,18.6
+HUN,Hungary,Years in education,2013,17.8
+ISL,Iceland,Years in education,2013,20.4
+IRL,Ireland,Years in education,2013,17.9
+ITA,Italy,Years in education,2013,17.5
+JPN,Japan,Years in education,2013,19.2
+KOR,Korea,Years in education,2013,16.8
+LUX,Luxembourg,Years in education,2013,15
+MEX,Mexico,Years in education,2013,15
+NLD,Netherlands,Years in education,2013,17.8
+NZL,New Zealand,Years in education,2013,18.7
+NOR,Norway,Years in education,2013,18.4
+POL,Poland,Years in education,2013,19
+PRT,Portugal,Years in education,2013,18.2
+SVK,Slovak Republic,Years in education,2013,17
+ESP,Spain,Years in education,2013,17.7
+SWE,Sweden,Years in education,2013,20.2
+CHE,Switzerland,Years in education,2013,17
+TUR,Turkey,Years in education,2013,14.7
+GBR,United Kingdom,Years in education,2013,17
+USA,United States,Years in education,2013,17.8
+OTO,OECD - Total,Years in education,2013,17.8
+BRA,Brazil,Years in education,2013,16.5
+CHL,Chile,Years in education,2013,16.2
+EST,Estonia,Years in education,2013,18.1
+ISR,Israel,Years in education,2013,16.2
+RUS,Russia,Years in education,2013,17.2
+SVN,Slovenia,Years in education,2013,19.2
+AUS,Australia,Air pollution,2013,14
+AUT,Austria,Air pollution,2013,27
+BEL,Belgium,Air pollution,2013,21
+CAN,Canada,Air pollution,2013,16
+CZE,Czech Republic,Air pollution,2013,17
+DNK,Denmark,Air pollution,2013,16
+FIN,Finland,Air pollution,2013,15
+FRA,France,Air pollution,2013,12
+DEU,Germany,Air pollution,2013,16
+GRC,Greece,Air pollution,2013,31
+HUN,Hungary,Air pollution,2013,15
+ISL,Iceland,Air pollution,2013,16
+IRL,Ireland,Air pollution,2013,12
+ITA,Italy,Air pollution,2013,21
+JPN,Japan,Air pollution,2013,25
+KOR,Korea,Air pollution,2013,33
+LUX,Luxembourg,Air pollution,2013,13
+MEX,Mexico,Air pollution,2013,33
+NLD,Netherlands,Air pollution,2013,30
+NZL,New Zealand,Air pollution,2013,12
+NOR,Norway,Air pollution,2013,15
+POL,Poland,Air pollution,2013,34
+PRT,Portugal,Air pollution,2013,20
+SVK,Slovak Republic,Air pollution,2013,12
+ESP,Spain,Air pollution,2013,25
+SWE,Sweden,Air pollution,2013,10
+CHE,Switzerland,Air pollution,2013,22
+TUR,Turkey,Air pollution,2013,37
+GBR,United Kingdom,Air pollution,2013,13
+USA,United States,Air pollution,2013,18
+OTO,OECD - Total,Air pollution,2013,21
+BRA,Brazil,Air pollution,2013,19
+CHL,Chile,Air pollution,2013,53
+EST,Estonia,Air pollution,2013,9
+ISR,Israel,Air pollution,2013,23
+RUS,Russia,Air pollution,2013,16
+SVN,Slovenia,Air pollution,2013,26
+AUS,Australia,Air pollution,2013,14
+AUT,Austria,Air pollution,2013,27
+BEL,Belgium,Air pollution,2013,21
+CAN,Canada,Air pollution,2013,16
+CZE,Czech Republic,Air pollution,2013,17
+DNK,Denmark,Air pollution,2013,16
+FIN,Finland,Air pollution,2013,15
+FRA,France,Air pollution,2013,12
+DEU,Germany,Air pollution,2013,16
+GRC,Greece,Air pollution,2013,31
+HUN,Hungary,Air pollution,2013,15
+ISL,Iceland,Air pollution,2013,16
+IRL,Ireland,Air pollution,2013,12
+ITA,Italy,Air pollution,2013,21
+JPN,Japan,Air pollution,2013,25
+KOR,Korea,Air pollution,2013,33
+LUX,Luxembourg,Air pollution,2013,13
+MEX,Mexico,Air pollution,2013,33
+NLD,Netherlands,Air pollution,2013,30
+NZL,New Zealand,Air pollution,2013,12
+NOR,Norway,Air pollution,2013,15
+POL,Poland,Air pollution,2013,34
+PRT,Portugal,Air pollution,2013,20
+SVK,Slovak Republic,Air pollution,2013,12
+ESP,Spain,Air pollution,2013,25
+SWE,Sweden,Air pollution,2013,10
+CHE,Switzerland,Air pollution,2013,22
+TUR,Turkey,Air pollution,2013,37
+GBR,United Kingdom,Air pollution,2013,13
+USA,United States,Air pollution,2013,18
+BRA,Brazil,Air pollution,2013,19
+CHL,Chile,Air pollution,2013,53
+EST,Estonia,Air pollution,2013,9
+ISR,Israel,Air pollution,2013,23
+RUS,Russia,Air pollution,2013,16
+SVN,Slovenia,Air pollution,2013,26
+AUS,Australia,Air pollution,2013,14
+AUT,Austria,Air pollution,2013,27
+BEL,Belgium,Air pollution,2013,21
+CAN,Canada,Air pollution,2013,16
+CZE,Czech Republic,Air pollution,2013,17
+DNK,Denmark,Air pollution,2013,16
+FIN,Finland,Air pollution,2013,15
+FRA,France,Air pollution,2013,12
+DEU,Germany,Air pollution,2013,16
+GRC,Greece,Air pollution,2013,31
+HUN,Hungary,Air pollution,2013,15
+ISL,Iceland,Air pollution,2013,16
+IRL,Ireland,Air pollution,2013,12
+ITA,Italy,Air pollution,2013,21
+JPN,Japan,Air pollution,2013,25
+KOR,Korea,Air pollution,2013,33
+LUX,Luxembourg,Air pollution,2013,13
+MEX,Mexico,Air pollution,2013,33
+NLD,Netherlands,Air pollution,2013,30
+NZL,New Zealand,Air pollution,2013,12
+NOR,Norway,Air pollution,2013,15
+POL,Poland,Air pollution,2013,34
+PRT,Portugal,Air pollution,2013,20
+SVK,Slovak Republic,Air pollution,2013,12
+ESP,Spain,Air pollution,2013,25
+SWE,Sweden,Air pollution,2013,10
+CHE,Switzerland,Air pollution,2013,22
+TUR,Turkey,Air pollution,2013,37
+GBR,United Kingdom,Air pollution,2013,13
+USA,United States,Air pollution,2013,18
+BRA,Brazil,Air pollution,2013,19
+CHL,Chile,Air pollution,2013,53
+EST,Estonia,Air pollution,2013,9
+ISR,Israel,Air pollution,2013,23
+RUS,Russia,Air pollution,2013,16
+SVN,Slovenia,Air pollution,2013,26
+AUS,Australia,Water quality,2013,91
+AUT,Austria,Water quality,2013,96
+BEL,Belgium,Water quality,2013,80
+CAN,Canada,Water quality,2013,89
+CZE,Czech Republic,Water quality,2013,84
+DNK,Denmark,Water quality,2013,94
+FIN,Finland,Water quality,2013,92
+FRA,France,Water quality,2013,81
+DEU,Germany,Water quality,2013,93
+GRC,Greece,Water quality,2013,69
+HUN,Hungary,Water quality,2013,76
+ISL,Iceland,Water quality,2013,97
+IRL,Ireland,Water quality,2013,84
+ITA,Italy,Water quality,2013,71
+JPN,Japan,Water quality,2013,86
+KOR,Korea,Water quality,2013,78
+LUX,Luxembourg,Water quality,2013,87
+MEX,Mexico,Water quality,2013,78
+NLD,Netherlands,Water quality,2013,90
+NZL,New Zealand,Water quality,2013,88
+NOR,Norway,Water quality,2013,96
+POL,Poland,Water quality,2013,79
+PRT,Portugal,Water quality,2013,86
+SVK,Slovak Republic,Water quality,2013,81
+ESP,Spain,Water quality,2013,79
+SWE,Sweden,Water quality,2013,95
+CHE,Switzerland,Water quality,2013,95
+TUR,Turkey,Water quality,2013,61
+GBR,United Kingdom,Water quality,2013,97
+USA,United States,Water quality,2013,87
+OTO,OECD - Total,Water quality,2013,84
+BRA,Brazil,Water quality,2013,75
+CHL,Chile,Water quality,2013,77
+EST,Estonia,Water quality,2013,75
+ISR,Israel,Water quality,2013,66
+RUS,Russia,Water quality,2013,49
+SVN,Slovenia,Water quality,2013,87
+AUS,Australia,Water quality,2013,92
+AUT,Austria,Water quality,2013,96
+BEL,Belgium,Water quality,2013,82
+CAN,Canada,Water quality,2013,91
+CZE,Czech Republic,Water quality,2013,85
+DNK,Denmark,Water quality,2013,96
+FIN,Finland,Water quality,2013,93
+FRA,France,Water quality,2013,82
+DEU,Germany,Water quality,2013,95
+GRC,Greece,Water quality,2013,68
+HUN,Hungary,Water quality,2013,78
+ISL,Iceland,Water quality,2013,98
+IRL,Ireland,Water quality,2013,84
+ITA,Italy,Water quality,2013,73
+JPN,Japan,Water quality,2013,88
+KOR,Korea,Water quality,2013,80
+LUX,Luxembourg,Water quality,2013,87
+MEX,Mexico,Water quality,2013,79
+NLD,Netherlands,Water quality,2013,89
+NZL,New Zealand,Water quality,2013,90
+NOR,Norway,Water quality,2013,96
+POL,Poland,Water quality,2013,82
+PRT,Portugal,Water quality,2013,84
+SVK,Slovak Republic,Water quality,2013,81
+ESP,Spain,Water quality,2013,82
+SWE,Sweden,Water quality,2013,96
+CHE,Switzerland,Water quality,2013,97
+TUR,Turkey,Water quality,2013,61
+GBR,United Kingdom,Water quality,2013,97
+USA,United States,Water quality,2013,89
+OTO,OECD - Total,Water quality,2013,85
+BRA,Brazil,Water quality,2013,78
+CHL,Chile,Water quality,2013,79
+EST,Estonia,Water quality,2013,75
+ISR,Israel,Water quality,2013,66
+RUS,Russia,Water quality,2013,49
+SVN,Slovenia,Water quality,2013,88
+AUS,Australia,Water quality,2013,90
+AUT,Austria,Water quality,2013,96
+BEL,Belgium,Water quality,2013,79
+CAN,Canada,Water quality,2013,87
+CZE,Czech Republic,Water quality,2013,84
+DNK,Denmark,Water quality,2013,92
+FIN,Finland,Water quality,2013,92
+FRA,France,Water quality,2013,80
+DEU,Germany,Water quality,2013,92
+GRC,Greece,Water quality,2013,70
+HUN,Hungary,Water quality,2013,75
+ISL,Iceland,Water quality,2013,97
+IRL,Ireland,Water quality,2013,83
+ITA,Italy,Water quality,2013,69
+JPN,Japan,Water quality,2013,83
+KOR,Korea,Water quality,2013,76
+LUX,Luxembourg,Water quality,2013,88
+MEX,Mexico,Water quality,2013,76
+NLD,Netherlands,Water quality,2013,92
+NZL,New Zealand,Water quality,2013,87
+NOR,Norway,Water quality,2013,96
+POL,Poland,Water quality,2013,76
+PRT,Portugal,Water quality,2013,88
+SVK,Slovak Republic,Water quality,2013,81
+ESP,Spain,Water quality,2013,77
+SWE,Sweden,Water quality,2013,94
+CHE,Switzerland,Water quality,2013,92
+TUR,Turkey,Water quality,2013,62
+GBR,United Kingdom,Water quality,2013,97
+USA,United States,Water quality,2013,86
+OTO,OECD - Total,Water quality,2013,84
+BRA,Brazil,Water quality,2013,73
+CHL,Chile,Water quality,2013,76
+EST,Estonia,Water quality,2013,75
+ISR,Israel,Water quality,2013,65
+RUS,Russia,Water quality,2013,49
+SVN,Slovenia,Water quality,2013,86
+AUS,Australia,Water quality,2013,94
+AUT,Austria,Water quality,2013,97
+BEL,Belgium,Water quality,2013,80
+CAN,Canada,Water quality,2013,91
+CZE,Czech Republic,Water quality,2013,86
+DNK,Denmark,Water quality,2013,95
+FIN,Finland,Water quality,2013,93
+FRA,France,Water quality,2013,80
+DEU,Germany,Water quality,2013,94
+GRC,Greece,Water quality,2013,72
+HUN,Hungary,Water quality,2013,74
+ISL,Iceland,Water quality,2013,96
+IRL,Ireland,Water quality,2013,80
+ITA,Italy,Water quality,2013,68
+JPN,Japan,Water quality,2013,86
+KOR,Korea,Water quality,2013,75
+LUX,Luxembourg,Water quality,2013,88
+MEX,Mexico,Water quality,2013,76
+NLD,Netherlands,Water quality,2013,92
+NZL,New Zealand,Water quality,2013,92
+NOR,Norway,Water quality,2013,97
+POL,Poland,Water quality,2013,74
+PRT,Portugal,Water quality,2013,89
+SVK,Slovak Republic,Water quality,2013,84
+ESP,Spain,Water quality,2013,88
+SWE,Sweden,Water quality,2013,95
+CHE,Switzerland,Water quality,2013,95
+TUR,Turkey,Water quality,2013,60
+GBR,United Kingdom,Water quality,2013,96
+USA,United States,Water quality,2013,88
+OTO,OECD - Total,Water quality,2013,85
+BRA,Brazil,Water quality,2013,88
+CHL,Chile,Water quality,2013,74
+EST,Estonia,Water quality,2013,81
+ISR,Israel,Water quality,2013,66
+RUS,Russia,Water quality,2013,39
+SVN,Slovenia,Water quality,2013,91
+AUS,Australia,Water quality,2013,88
+AUT,Austria,Water quality,2013,99
+BEL,Belgium,Water quality,2013,89
+CAN,Canada,Water quality,2013,93
+CZE,Czech Republic,Water quality,2013,82
+DNK,Denmark,Water quality,2013,90
+FIN,Finland,Water quality,2013,91
+FRA,France,Water quality,2013,81
+DEU,Germany,Water quality,2013,100
+GRC,Greece,Water quality,2013,69
+HUN,Hungary,Water quality,2013,77
+ISL,Iceland,Water quality,2013,98
+IRL,Ireland,Water quality,2013,92
+ITA,Italy,Water quality,2013,70
+JPN,Japan,Water quality,2013,85
+KOR,Korea,Water quality,2013,80
+LUX,Luxembourg,Water quality,2013,86
+MEX,Mexico,Water quality,2013,80
+NLD,Netherlands,Water quality,2013,98
+NZL,New Zealand,Water quality,2013,88
+NOR,Norway,Water quality,2013,95
+POL,Poland,Water quality,2013,81
+PRT,Portugal,Water quality,2013,89
+SVK,Slovak Republic,Water quality,2013,81
+ESP,Spain,Water quality,2013,79
+SWE,Sweden,Water quality,2013,99
+CHE,Switzerland,Water quality,2013,95
+TUR,Turkey,Water quality,2013,63
+GBR,United Kingdom,Water quality,2013,97
+USA,United States,Water quality,2013,90
+OTO,OECD - Total,Water quality,2013,86
+BRA,Brazil,Water quality,2013,78
+CHL,Chile,Water quality,2013,82
+EST,Estonia,Water quality,2013,77
+ISR,Israel,Water quality,2013,69
+RUS,Russia,Water quality,2013,58
+SVN,Slovenia,Water quality,2013,84
+AUS,Australia,Consultation on rule-making,2013,10.5
+AUT,Austria,Consultation on rule-making,2013,7.1
+BEL,Belgium,Consultation on rule-making,2013,4.5
+CAN,Canada,Consultation on rule-making,2013,10.5
+CZE,Czech Republic,Consultation on rule-making,2013,6.8
+DNK,Denmark,Consultation on rule-making,2013,7
+FIN,Finland,Consultation on rule-making,2013,9
+FRA,France,Consultation on rule-making,2013,3.5
+DEU,Germany,Consultation on rule-making,2013,4.5
+GRC,Greece,Consultation on rule-making,2013,6.5
+HUN,Hungary,Consultation on rule-making,2013,7.9
+ISL,Iceland,Consultation on rule-making,2013,5.1
+IRL,Ireland,Consultation on rule-making,2013,9
+ITA,Italy,Consultation on rule-making,2013,5
+JPN,Japan,Consultation on rule-making,2013,7.3
+KOR,Korea,Consultation on rule-making,2013,10.4
+LUX,Luxembourg,Consultation on rule-making,2013,6
+MEX,Mexico,Consultation on rule-making,2013,9
+NLD,Netherlands,Consultation on rule-making,2013,6.1
+NZL,New Zealand,Consultation on rule-making,2013,10.3
+NOR,Norway,Consultation on rule-making,2013,8.1
+POL,Poland,Consultation on rule-making,2013,10.8
+PRT,Portugal,Consultation on rule-making,2013,6.5
+SVK,Slovak Republic,Consultation on rule-making,2013,6.6
+ESP,Spain,Consultation on rule-making,2013,7.3
+SWE,Sweden,Consultation on rule-making,2013,10.9
+CHE,Switzerland,Consultation on rule-making,2013,8.4
+TUR,Turkey,Consultation on rule-making,2013,5.5
+GBR,United Kingdom,Consultation on rule-making,2013,11.5
+USA,United States,Consultation on rule-making,2013,8.3
+OTO,OECD - Total,Consultation on rule-making,2013,7.3
+BRA,Brazil,Consultation on rule-making,2013,4
+CHL,Chile,Consultation on rule-making,2013,2
+EST,Estonia,Consultation on rule-making,2013,3.3
+ISR,Israel,Consultation on rule-making,2013,2.5
+RUS,Russia,Consultation on rule-making,2013,2.5
+SVN,Slovenia,Consultation on rule-making,2013,10.3
+AUS,Australia,Consultation on rule-making,2013,10.5
+AUT,Austria,Consultation on rule-making,2013,7.1
+BEL,Belgium,Consultation on rule-making,2013,4.5
+CAN,Canada,Consultation on rule-making,2013,10.5
+CZE,Czech Republic,Consultation on rule-making,2013,6.8
+DNK,Denmark,Consultation on rule-making,2013,7
+FIN,Finland,Consultation on rule-making,2013,9
+FRA,France,Consultation on rule-making,2013,3.5
+DEU,Germany,Consultation on rule-making,2013,4.5
+GRC,Greece,Consultation on rule-making,2013,6.5
+HUN,Hungary,Consultation on rule-making,2013,7.9
+ISL,Iceland,Consultation on rule-making,2013,5.1
+IRL,Ireland,Consultation on rule-making,2013,9
+ITA,Italy,Consultation on rule-making,2013,5
+JPN,Japan,Consultation on rule-making,2013,7.3
+KOR,Korea,Consultation on rule-making,2013,10.4
+LUX,Luxembourg,Consultation on rule-making,2013,6
+MEX,Mexico,Consultation on rule-making,2013,9
+NLD,Netherlands,Consultation on rule-making,2013,6.1
+NZL,New Zealand,Consultation on rule-making,2013,10.3
+NOR,Norway,Consultation on rule-making,2013,8.1
+POL,Poland,Consultation on rule-making,2013,10.8
+PRT,Portugal,Consultation on rule-making,2013,6.5
+SVK,Slovak Republic,Consultation on rule-making,2013,6.6
+ESP,Spain,Consultation on rule-making,2013,7.3
+SWE,Sweden,Consultation on rule-making,2013,10.9
+CHE,Switzerland,Consultation on rule-making,2013,8.4
+TUR,Turkey,Consultation on rule-making,2013,5.5
+GBR,United Kingdom,Consultation on rule-making,2013,11.5
+USA,United States,Consultation on rule-making,2013,8.3
+BRA,Brazil,Consultation on rule-making,2013,4
+CHL,Chile,Consultation on rule-making,2013,2
+EST,Estonia,Consultation on rule-making,2013,3.3
+ISR,Israel,Consultation on rule-making,2013,2.5
+RUS,Russia,Consultation on rule-making,2013,2.5
+SVN,Slovenia,Consultation on rule-making,2013,10.3
+AUS,Australia,Consultation on rule-making,2013,10.5
+AUT,Austria,Consultation on rule-making,2013,7.1
+BEL,Belgium,Consultation on rule-making,2013,4.5
+CAN,Canada,Consultation on rule-making,2013,10.5
+CZE,Czech Republic,Consultation on rule-making,2013,6.8
+DNK,Denmark,Consultation on rule-making,2013,7
+FIN,Finland,Consultation on rule-making,2013,9
+FRA,France,Consultation on rule-making,2013,3.5
+DEU,Germany,Consultation on rule-making,2013,4.5
+GRC,Greece,Consultation on rule-making,2013,6.5
+HUN,Hungary,Consultation on rule-making,2013,7.9
+ISL,Iceland,Consultation on rule-making,2013,5.1
+IRL,Ireland,Consultation on rule-making,2013,9
+ITA,Italy,Consultation on rule-making,2013,5
+JPN,Japan,Consultation on rule-making,2013,7.3
+KOR,Korea,Consultation on rule-making,2013,10.4
+LUX,Luxembourg,Consultation on rule-making,2013,6
+MEX,Mexico,Consultation on rule-making,2013,9
+NLD,Netherlands,Consultation on rule-making,2013,6.1
+NZL,New Zealand,Consultation on rule-making,2013,10.3
+NOR,Norway,Consultation on rule-making,2013,8.1
+POL,Poland,Consultation on rule-making,2013,10.8
+PRT,Portugal,Consultation on rule-making,2013,6.5
+SVK,Slovak Republic,Consultation on rule-making,2013,6.6
+ESP,Spain,Consultation on rule-making,2013,7.3
+SWE,Sweden,Consultation on rule-making,2013,10.9
+CHE,Switzerland,Consultation on rule-making,2013,8.4
+TUR,Turkey,Consultation on rule-making,2013,5.5
+GBR,United Kingdom,Consultation on rule-making,2013,11.5
+USA,United States,Consultation on rule-making,2013,8.3
+BRA,Brazil,Consultation on rule-making,2013,4
+CHL,Chile,Consultation on rule-making,2013,2
+EST,Estonia,Consultation on rule-making,2013,3.3
+ISR,Israel,Consultation on rule-making,2013,2.5
+RUS,Russia,Consultation on rule-making,2013,2.5
+SVN,Slovenia,Consultation on rule-making,2013,10.3
+AUS,Australia,Voter turnout,2013,93
+AUT,Austria,Voter turnout,2013,82
+BEL,Belgium,Voter turnout,2013,89
+CAN,Canada,Voter turnout,2013,61
+CZE,Czech Republic,Voter turnout,2013,63
+DNK,Denmark,Voter turnout,2013,88
+FIN,Finland,Voter turnout,2013,69
+FRA,France,Voter turnout,2013,80
+DEU,Germany,Voter turnout,2013,71
+GRC,Greece,Voter turnout,2013,62
+HUN,Hungary,Voter turnout,2013,47
+ISL,Iceland,Voter turnout,2013,85
+IRL,Ireland,Voter turnout,2013,70
+ITA,Italy,Voter turnout,2013,81
+JPN,Japan,Voter turnout,2013,69
+KOR,Korea,Voter turnout,2013,76
+LUX,Luxembourg,Voter turnout,2013,91
+MEX,Mexico,Voter turnout,2013,63
+NLD,Netherlands,Voter turnout,2013,75
+NZL,New Zealand,Voter turnout,2013,74
+NOR,Norway,Voter turnout,2013,76
+POL,Poland,Voter turnout,2013,55
+PRT,Portugal,Voter turnout,2013,58
+SVK,Slovak Republic,Voter turnout,2013,59
+ESP,Spain,Voter turnout,2013,69
+SWE,Sweden,Voter turnout,2013,85
+CHE,Switzerland,Voter turnout,2013,49
+TUR,Turkey,Voter turnout,2013,88
+GBR,United Kingdom,Voter turnout,2013,66
+USA,United States,Voter turnout,2013,70
+OTO,OECD - Total,Voter turnout,2013,72
+BRA,Brazil,Voter turnout,2013,78
+CHL,Chile,Voter turnout,2013,88
+EST,Estonia,Voter turnout,2013,64
+ISR,Israel,Voter turnout,2013,65
+RUS,Russia,Voter turnout,2013,65
+SVN,Slovenia,Voter turnout,2013,66
+AUS,Australia,Voter turnout,2013,93
+AUT,Austria,Voter turnout,2013,84
+BEL,Belgium,Voter turnout,2013,91
+CAN,Canada,Voter turnout,2013,61
+CZE,Czech Republic,Voter turnout,2013,62
+DNK,Denmark,Voter turnout,2013,88
+FIN,Finland,Voter turnout,2013,70
+FRA,France,Voter turnout,2013,85
+DEU,Germany,Voter turnout,2013,72
+GRC,Greece,Voter turnout,2013,62
+HUN,Hungary,Voter turnout,2013,47
+ISL,Iceland,Voter turnout,2013,84
+IRL,Ireland,Voter turnout,2013,73
+ITA,Italy,Voter turnout,2013,83
+JPN,Japan,Voter turnout,2013,70
+KOR,Korea,Voter turnout,2013,78
+LUX,Luxembourg,Voter turnout,2013,92
+MEX,Mexico,Voter turnout,2013,65
+NLD,Netherlands,Voter turnout,2013,74
+NZL,New Zealand,Voter turnout,2013,75
+NOR,Norway,Voter turnout,2013,76
+POL,Poland,Voter turnout,2013,58
+PRT,Portugal,Voter turnout,2013,58
+SVK,Slovak Republic,Voter turnout,2013,59
+ESP,Spain,Voter turnout,2013,69
+SWE,Sweden,Voter turnout,2013,83
+CHE,Switzerland,Voter turnout,2013,58
+TUR,Turkey,Voter turnout,2013,87
+GBR,United Kingdom,Voter turnout,2013,62
+USA,United States,Voter turnout,2013,68
+OTO,OECD - Total,Voter turnout,2013,72
+BRA,Brazil,Voter turnout,2013,78
+CHL,Chile,Voter turnout,2013,86
+EST,Estonia,Voter turnout,2013,60
+ISR,Israel,Voter turnout,2013,64
+RUS,Russia,Voter turnout,2013,61
+SVN,Slovenia,Voter turnout,2013,66
+AUS,Australia,Voter turnout,2013,93
+AUT,Austria,Voter turnout,2013,80
+BEL,Belgium,Voter turnout,2013,88
+CAN,Canada,Voter turnout,2013,62
+CZE,Czech Republic,Voter turnout,2013,63
+DNK,Denmark,Voter turnout,2013,88
+FIN,Finland,Voter turnout,2013,68
+FRA,France,Voter turnout,2013,75
+DEU,Germany,Voter turnout,2013,70
+GRC,Greece,Voter turnout,2013,63
+HUN,Hungary,Voter turnout,2013,46
+ISL,Iceland,Voter turnout,2013,86
+IRL,Ireland,Voter turnout,2013,67
+ITA,Italy,Voter turnout,2013,78
+JPN,Japan,Voter turnout,2013,69
+KOR,Korea,Voter turnout,2013,74
+LUX,Luxembourg,Voter turnout,2013,90
+MEX,Mexico,Voter turnout,2013,61
+NLD,Netherlands,Voter turnout,2013,77
+NZL,New Zealand,Voter turnout,2013,73
+NOR,Norway,Voter turnout,2013,76
+POL,Poland,Voter turnout,2013,53
+PRT,Portugal,Voter turnout,2013,58
+SVK,Slovak Republic,Voter turnout,2013,59
+ESP,Spain,Voter turnout,2013,68
+SWE,Sweden,Voter turnout,2013,87
+CHE,Switzerland,Voter turnout,2013,42
+TUR,Turkey,Voter turnout,2013,88
+GBR,United Kingdom,Voter turnout,2013,69
+USA,United States,Voter turnout,2013,73
+OTO,OECD - Total,Voter turnout,2013,71
+BRA,Brazil,Voter turnout,2013,79
+CHL,Chile,Voter turnout,2013,89
+EST,Estonia,Voter turnout,2013,66
+ISR,Israel,Voter turnout,2013,66
+RUS,Russia,Voter turnout,2013,69
+SVN,Slovenia,Voter turnout,2013,65
+AUS,Australia,Voter turnout,2013,94
+AUT,Austria,Voter turnout,2013,90
+BEL,Belgium,Voter turnout,2013,98
+CAN,Canada,Voter turnout,2013,63
+CZE,Czech Republic,Voter turnout,2013,72
+DNK,Denmark,Voter turnout,2013,90
+FIN,Finland,Voter turnout,2013,74
+FRA,France,Voter turnout,2013,89
+DEU,Germany,Voter turnout,2013,80
+GRC,Greece,Voter turnout,2013,70
+HUN,Hungary,Voter turnout,2013,53
+ISL,Iceland,Voter turnout,2013,88
+IRL,Ireland,Voter turnout,2013,69
+ITA,Italy,Voter turnout,2013,91
+JPN,Japan,Voter turnout,2013,69
+KOR,Korea,Voter turnout,2013,100
+LUX,Luxembourg,Voter turnout,2013,99
+MEX,Mexico,Voter turnout,2013,63
+NLD,Netherlands,Voter turnout,2013,85
+NZL,New Zealand,Voter turnout,2013,81
+NOR,Norway,Voter turnout,2013,83
+POL,Poland,Voter turnout,2013,68
+PRT,Portugal,Voter turnout,2013,63
+SVK,Slovak Republic,Voter turnout,2013,64
+ESP,Spain,Voter turnout,2013,76
+SWE,Sweden,Voter turnout,2013,89
+CHE,Switzerland,Voter turnout,2013,61
+TUR,Turkey,Voter turnout,2013,89
+GBR,United Kingdom,Voter turnout,2013,73
+USA,United States,Voter turnout,2013,79
+OTO,OECD - Total,Voter turnout,2013,77
+BRA,Brazil,Voter turnout,2013,81
+CHL,Chile,Voter turnout,2013,90
+EST,Estonia,Voter turnout,2013,68
+ISR,Israel,Voter turnout,2013,71
+RUS,Russia,Voter turnout,2013,70
+SVN,Slovenia,Voter turnout,2013,75
+AUS,Australia,Voter turnout,2013,92
+AUT,Austria,Voter turnout,2013,79
+BEL,Belgium,Voter turnout,2013,92
+CAN,Canada,Voter turnout,2013,60
+CZE,Czech Republic,Voter turnout,2013,52
+DNK,Denmark,Voter turnout,2013,86
+FIN,Finland,Voter turnout,2013,61
+FRA,France,Voter turnout,2013,79
+DEU,Germany,Voter turnout,2013,59
+GRC,Greece,Voter turnout,2013,57
+HUN,Hungary,Voter turnout,2013,39
+ISL,Iceland,Voter turnout,2013,77
+IRL,Ireland,Voter turnout,2013,67
+ITA,Italy,Voter turnout,2013,78
+JPN,Japan,Voter turnout,2013,68
+KOR,Korea,Voter turnout,2013,71
+LUX,Luxembourg,Voter turnout,2013,94
+MEX,Mexico,Voter turnout,2013,61
+NLD,Netherlands,Voter turnout,2013,65
+NZL,New Zealand,Voter turnout,2013,75
+NOR,Norway,Voter turnout,2013,70
+POL,Poland,Voter turnout,2013,43
+PRT,Portugal,Voter turnout,2013,56
+SVK,Slovak Republic,Voter turnout,2013,60
+ESP,Spain,Voter turnout,2013,66
+SWE,Sweden,Voter turnout,2013,83
+CHE,Switzerland,Voter turnout,2013,43
+TUR,Turkey,Voter turnout,2013,84
+GBR,United Kingdom,Voter turnout,2013,50
+USA,United States,Voter turnout,2013,56
+OTO,OECD - Total,Voter turnout,2013,66
+BRA,Brazil,Voter turnout,2013,80
+CHL,Chile,Voter turnout,2013,92
+EST,Estonia,Voter turnout,2013,56
+ISR,Israel,Voter turnout,2013,63
+RUS,Russia,Voter turnout,2013,66
+SVN,Slovenia,Voter turnout,2013,62
+AUS,Australia,Life expectancy,2013,82
+AUT,Austria,Life expectancy,2013,81.1
+BEL,Belgium,Life expectancy,2013,80.5
+CAN,Canada,Life expectancy,2013,81
+CZE,Czech Republic,Life expectancy,2013,78
+DNK,Denmark,Life expectancy,2013,79.9
+FIN,Finland,Life expectancy,2013,80.6
+FRA,France,Life expectancy,2013,82.2
+DEU,Germany,Life expectancy,2013,80.8
+GRC,Greece,Life expectancy,2013,80.7
+HUN,Hungary,Life expectancy,2013,75
+ISL,Iceland,Life expectancy,2013,82.4
+IRL,Ireland,Life expectancy,2013,80.6
+ITA,Italy,Life expectancy,2013,82.7
+JPN,Japan,Life expectancy,2013,82.7
+KOR,Korea,Life expectancy,2013,81.1
+LUX,Luxembourg,Life expectancy,2013,81.1
+MEX,Mexico,Life expectancy,2013,74.2
+NLD,Netherlands,Life expectancy,2013,81.3
+NZL,New Zealand,Life expectancy,2013,81.2
+NOR,Norway,Life expectancy,2013,81.4
+POL,Poland,Life expectancy,2013,76.9
+PRT,Portugal,Life expectancy,2013,80.8
+SVK,Slovak Republic,Life expectancy,2013,76.1
+ESP,Spain,Life expectancy,2013,82.4
+SWE,Sweden,Life expectancy,2013,81.9
+CHE,Switzerland,Life expectancy,2013,82.8
+TUR,Turkey,Life expectancy,2013,74.6
+GBR,United Kingdom,Life expectancy,2013,81.1
+USA,United States,Life expectancy,2013,78.7
+OTO,OECD - Total,Life expectancy,2013,79.8
+BRA,Brazil,Life expectancy,2013,73.5
+CHL,Chile,Life expectancy,2013,78.3
+EST,Estonia,Life expectancy,2013,76.3
+ISR,Israel,Life expectancy,2013,81.8
+RUS,Russia,Life expectancy,2013,69.8
+SVN,Slovenia,Life expectancy,2013,80.1
+AUS,Australia,Life expectancy,2013,79.7
+AUT,Austria,Life expectancy,2013,78.3
+BEL,Belgium,Life expectancy,2013,77.8
+CAN,Canada,Life expectancy,2013,78.7
+CZE,Czech Republic,Life expectancy,2013,74.8
+DNK,Denmark,Life expectancy,2013,77.8
+FIN,Finland,Life expectancy,2013,77.3
+FRA,France,Life expectancy,2013,78.7
+DEU,Germany,Life expectancy,2013,78.4
+GRC,Greece,Life expectancy,2013,78.3
+HUN,Hungary,Life expectancy,2013,71.2
+ISL,Iceland,Life expectancy,2013,80.7
+IRL,Ireland,Life expectancy,2013,78.3
+ITA,Italy,Life expectancy,2013,80.1
+JPN,Japan,Life expectancy,2013,79.4
+KOR,Korea,Life expectancy,2013,77.7
+LUX,Luxembourg,Life expectancy,2013,78.5
+MEX,Mexico,Life expectancy,2013,71.2
+NLD,Netherlands,Life expectancy,2013,79.4
+NZL,New Zealand,Life expectancy,2013,79.4
+NOR,Norway,Life expectancy,2013,79.1
+POL,Poland,Life expectancy,2013,72.6
+PRT,Portugal,Life expectancy,2013,77.6
+SVK,Slovak Republic,Life expectancy,2013,72.3
+ESP,Spain,Life expectancy,2013,79.4
+SWE,Sweden,Life expectancy,2013,79.9
+CHE,Switzerland,Life expectancy,2013,80.5
+TUR,Turkey,Life expectancy,2013,72
+GBR,United Kingdom,Life expectancy,2013,79.1
+USA,United States,Life expectancy,2013,76.3
+OTO,OECD - Total,Life expectancy,2013,77
+BRA,Brazil,Life expectancy,2013,70.1
+CHL,Chile,Life expectancy,2013,75.7
+EST,Estonia,Life expectancy,2013,71.2
+ISR,Israel,Life expectancy,2013,79.9
+RUS,Russia,Life expectancy,2013,64
+SVN,Slovenia,Life expectancy,2013,76.8
+AUS,Australia,Life expectancy,2013,84.2
+AUT,Austria,Life expectancy,2013,83.9
+BEL,Belgium,Life expectancy,2013,83.2
+CAN,Canada,Life expectancy,2013,83.3
+CZE,Czech Republic,Life expectancy,2013,81.1
+DNK,Denmark,Life expectancy,2013,81.9
+FIN,Finland,Life expectancy,2013,83.8
+FRA,France,Life expectancy,2013,85.7
+DEU,Germany,Life expectancy,2013,83.2
+GRC,Greece,Life expectancy,2013,83.1
+HUN,Hungary,Life expectancy,2013,78.7
+ISL,Iceland,Life expectancy,2013,84.1
+IRL,Ireland,Life expectancy,2013,82.8
+ITA,Italy,Life expectancy,2013,85.3
+JPN,Japan,Life expectancy,2013,85.9
+KOR,Korea,Life expectancy,2013,84.5
+LUX,Luxembourg,Life expectancy,2013,83.6
+MEX,Mexico,Life expectancy,2013,77.2
+NLD,Netherlands,Life expectancy,2013,83.1
+NZL,New Zealand,Life expectancy,2013,83
+NOR,Norway,Life expectancy,2013,83.6
+POL,Poland,Life expectancy,2013,81.1
+PRT,Portugal,Life expectancy,2013,84
+SVK,Slovak Republic,Life expectancy,2013,79.8
+ESP,Spain,Life expectancy,2013,85.4
+SWE,Sweden,Life expectancy,2013,83.8
+CHE,Switzerland,Life expectancy,2013,85
+TUR,Turkey,Life expectancy,2013,77.1
+GBR,United Kingdom,Life expectancy,2013,83.1
+USA,United States,Life expectancy,2013,81.1
+OTO,OECD - Total,Life expectancy,2013,82.5
+BRA,Brazil,Life expectancy,2013,77
+CHL,Chile,Life expectancy,2013,81
+EST,Estonia,Life expectancy,2013,81.3
+ISR,Israel,Life expectancy,2013,83.6
+RUS,Russia,Life expectancy,2013,75.6
+SVN,Slovenia,Life expectancy,2013,83.3
+AUS,Australia,Self-reported health,2013,85
+AUT,Austria,Self-reported health,2013,69
+BEL,Belgium,Self-reported health,2013,73
+CAN,Canada,Self-reported health,2013,88
+CZE,Czech Republic,Self-reported health,2013,59
+DNK,Denmark,Self-reported health,2013,70
+FIN,Finland,Self-reported health,2013,69
+FRA,France,Self-reported health,2013,67
+DEU,Germany,Self-reported health,2013,64
+GRC,Greece,Self-reported health,2013,76
+HUN,Hungary,Self-reported health,2013,55
+ISL,Iceland,Self-reported health,2013,77
+IRL,Ireland,Self-reported health,2013,83
+ITA,Italy,Self-reported health,2013,64
+JPN,Japan,Self-reported health,2013,30
+KOR,Korea,Self-reported health,2013,37
+LUX,Luxembourg,Self-reported health,2013,72
+MEX,Mexico,Self-reported health,2013,66
+NLD,Netherlands,Self-reported health,2013,76
+NZL,New Zealand,Self-reported health,2013,89
+NOR,Norway,Self-reported health,2013,73
+POL,Poland,Self-reported health,2013,57
+PRT,Portugal,Self-reported health,2013,49
+SVK,Slovak Republic,Self-reported health,2013,62
+ESP,Spain,Self-reported health,2013,75
+SWE,Sweden,Self-reported health,2013,80
+CHE,Switzerland,Self-reported health,2013,81
+TUR,Turkey,Self-reported health,2013,67
+GBR,United Kingdom,Self-reported health,2013,77
+USA,United States,Self-reported health,2013,90
+OTO,OECD - Total,Self-reported health,2013,69
+BRA,Brazil,Self-reported health,2013,69
+CHL,Chile,Self-reported health,2013,59
+EST,Estonia,Self-reported health,2013,51
+ISR,Israel,Self-reported health,2013,82
+RUS,Russia,Self-reported health,2013,37
+SVN,Slovenia,Self-reported health,2013,60
+AUS,Australia,Self-reported health,2013,84
+AUT,Austria,Self-reported health,2013,71
+BEL,Belgium,Self-reported health,2013,75
+CAN,Canada,Self-reported health,2013,89
+CZE,Czech Republic,Self-reported health,2013,62
+DNK,Denmark,Self-reported health,2013,72
+FIN,Finland,Self-reported health,2013,70
+FRA,France,Self-reported health,2013,71
+DEU,Germany,Self-reported health,2013,66
+GRC,Greece,Self-reported health,2013,79
+HUN,Hungary,Self-reported health,2013,59
+ISL,Iceland,Self-reported health,2013,79
+IRL,Ireland,Self-reported health,2013,83
+ITA,Italy,Self-reported health,2013,68
+JPN,Japan,Self-reported health,2013,32
+KOR,Korea,Self-reported health,2013,40
+LUX,Luxembourg,Self-reported health,2013,75
+MEX,Mexico,Self-reported health,2013,67
+NLD,Netherlands,Self-reported health,2013,79
+NZL,New Zealand,Self-reported health,2013,90
+NOR,Norway,Self-reported health,2013,75
+POL,Poland,Self-reported health,2013,60
+PRT,Portugal,Self-reported health,2013,55
+SVK,Slovak Republic,Self-reported health,2013,67
+ESP,Spain,Self-reported health,2013,78
+SWE,Sweden,Self-reported health,2013,82
+CHE,Switzerland,Self-reported health,2013,84
+TUR,Turkey,Self-reported health,2013,72
+GBR,United Kingdom,Self-reported health,2013,78
+USA,United States,Self-reported health,2013,90
+OTO,OECD - Total,Self-reported health,2013,71
+BRA,Brazil,Self-reported health,2013,72
+CHL,Chile,Self-reported health,2013,67
+EST,Estonia,Self-reported health,2013,54
+ISR,Israel,Self-reported health,2013,84
+RUS,Russia,Self-reported health,2013,45
+SVN,Slovenia,Self-reported health,2013,63
+AUS,Australia,Self-reported health,2013,85
+AUT,Austria,Self-reported health,2013,67
+BEL,Belgium,Self-reported health,2013,71
+CAN,Canada,Self-reported health,2013,88
+CZE,Czech Republic,Self-reported health,2013,57
+DNK,Denmark,Self-reported health,2013,69
+FIN,Finland,Self-reported health,2013,67
+FRA,France,Self-reported health,2013,64
+DEU,Germany,Self-reported health,2013,63
+GRC,Greece,Self-reported health,2013,74
+HUN,Hungary,Self-reported health,2013,52
+ISL,Iceland,Self-reported health,2013,76
+IRL,Ireland,Self-reported health,2013,82
+ITA,Italy,Self-reported health,2013,61
+JPN,Japan,Self-reported health,2013,29
+KOR,Korea,Self-reported health,2013,34
+LUX,Luxembourg,Self-reported health,2013,70
+MEX,Mexico,Self-reported health,2013,64
+NLD,Netherlands,Self-reported health,2013,73
+NZL,New Zealand,Self-reported health,2013,89
+NOR,Norway,Self-reported health,2013,71
+POL,Poland,Self-reported health,2013,54
+PRT,Portugal,Self-reported health,2013,44
+SVK,Slovak Republic,Self-reported health,2013,58
+ESP,Spain,Self-reported health,2013,72
+SWE,Sweden,Self-reported health,2013,78
+CHE,Switzerland,Self-reported health,2013,78
+TUR,Turkey,Self-reported health,2013,62
+GBR,United Kingdom,Self-reported health,2013,76
+USA,United States,Self-reported health,2013,89
+OTO,OECD - Total,Self-reported health,2013,66
+BRA,Brazil,Self-reported health,2013,67
+CHL,Chile,Self-reported health,2013,51
+EST,Estonia,Self-reported health,2013,50
+ISR,Israel,Self-reported health,2013,80
+RUS,Russia,Self-reported health,2013,33
+SVN,Slovenia,Self-reported health,2013,57
+AUS,Australia,Self-reported health,2013,93
+AUT,Austria,Self-reported health,2013,82
+BEL,Belgium,Self-reported health,2013,87
+CAN,Canada,Self-reported health,2013,95
+CZE,Czech Republic,Self-reported health,2013,75
+DNK,Denmark,Self-reported health,2013,81
+FIN,Finland,Self-reported health,2013,81
+FRA,France,Self-reported health,2013,73
+DEU,Germany,Self-reported health,2013,77
+GRC,Greece,Self-reported health,2013,87
+HUN,Hungary,Self-reported health,2013,69
+ISL,Iceland,Self-reported health,2013,85
+IRL,Ireland,Self-reported health,2013,92
+ITA,Italy,Self-reported health,2013,74
+JPN,Japan,Self-reported health,2013,35
+KOR,Korea,Self-reported health,2013,44
+LUX,Luxembourg,Self-reported health,2013,83
+MEX,Mexico,Self-reported health,2013,78
+NLD,Netherlands,Self-reported health,2013,87
+NZL,New Zealand,Self-reported health,2013,95
+NOR,Norway,Self-reported health,2013,85
+POL,Poland,Self-reported health,2013,69
+PRT,Portugal,Self-reported health,2013,65
+SVK,Slovak Republic,Self-reported health,2013,74
+ESP,Spain,Self-reported health,2013,86
+SWE,Sweden,Self-reported health,2013,89
+CHE,Switzerland,Self-reported health,2013,80
+TUR,Turkey,Self-reported health,2013,75
+GBR,United Kingdom,Self-reported health,2013,88
+USA,United States,Self-reported health,2013,96
+OTO,OECD - Total,Self-reported health,2013,79
+BRA,Brazil,Self-reported health,2013,81
+CHL,Chile,Self-reported health,2013,69
+EST,Estonia,Self-reported health,2013,75
+ISR,Israel,Self-reported health,2013,96
+RUS,Russia,Self-reported health,2013,47
+SVN,Slovenia,Self-reported health,2013,75
+AUS,Australia,Self-reported health,2013,75
+AUT,Austria,Self-reported health,2013,54
+BEL,Belgium,Self-reported health,2013,57
+CAN,Canada,Self-reported health,2013,79
+CZE,Czech Republic,Self-reported health,2013,48
+DNK,Denmark,Self-reported health,2013,67
+FIN,Finland,Self-reported health,2013,55
+FRA,France,Self-reported health,2013,60
+DEU,Germany,Self-reported health,2013,51
+GRC,Greece,Self-reported health,2013,70
+HUN,Hungary,Self-reported health,2013,51
+ISL,Iceland,Self-reported health,2013,73
+IRL,Ireland,Self-reported health,2013,78
+ITA,Italy,Self-reported health,2013,59
+JPN,Japan,Self-reported health,2013,24
+KOR,Korea,Self-reported health,2013,31
+LUX,Luxembourg,Self-reported health,2013,63
+MEX,Mexico,Self-reported health,2013,57
+NLD,Netherlands,Self-reported health,2013,67
+NZL,New Zealand,Self-reported health,2013,92
+NOR,Norway,Self-reported health,2013,65
+POL,Poland,Self-reported health,2013,50
+PRT,Portugal,Self-reported health,2013,39
+SVK,Slovak Republic,Self-reported health,2013,58
+ESP,Spain,Self-reported health,2013,70
+SWE,Sweden,Self-reported health,2013,67
+CHE,Switzerland,Self-reported health,2013,70
+TUR,Turkey,Self-reported health,2013,61
+GBR,United Kingdom,Self-reported health,2013,68
+USA,United States,Self-reported health,2013,74
+OTO,OECD - Total,Self-reported health,2013,61
+BRA,Brazil,Self-reported health,2013,61
+CHL,Chile,Self-reported health,2013,49
+EST,Estonia,Self-reported health,2013,39
+ISR,Israel,Self-reported health,2013,88
+RUS,Russia,Self-reported health,2013,29
+SVN,Slovenia,Self-reported health,2013,45
+AUS,Australia,Life satisfaction,2013,7.2
+AUT,Austria,Life satisfaction,2013,7.4
+BEL,Belgium,Life satisfaction,2013,6.9
+CAN,Canada,Life satisfaction,2013,7.4
+CZE,Czech Republic,Life satisfaction,2013,6.3
+DNK,Denmark,Life satisfaction,2013,7.5
+FIN,Finland,Life satisfaction,2013,7.4
+FRA,France,Life satisfaction,2013,6.6
+DEU,Germany,Life satisfaction,2013,6.7
+GRC,Greece,Life satisfaction,2013,5.1
+HUN,Hungary,Life satisfaction,2013,4.7
+ISL,Iceland,Life satisfaction,2013,7.6
+IRL,Ireland,Life satisfaction,2013,7
+ITA,Italy,Life satisfaction,2013,5.8
+JPN,Japan,Life satisfaction,2013,6
+KOR,Korea,Life satisfaction,2013,6
+LUX,Luxembourg,Life satisfaction,2013,7
+MEX,Mexico,Life satisfaction,2013,7.3
+NLD,Netherlands,Life satisfaction,2013,7.5
+NZL,New Zealand,Life satisfaction,2013,7.2
+NOR,Norway,Life satisfaction,2013,7.7
+POL,Poland,Life satisfaction,2013,5.9
+PRT,Portugal,Life satisfaction,2013,5
+SVK,Slovak Republic,Life satisfaction,2013,5.9
+ESP,Spain,Life satisfaction,2013,6.3
+SWE,Sweden,Life satisfaction,2013,7.6
+CHE,Switzerland,Life satisfaction,2013,7.8
+TUR,Turkey,Life satisfaction,2013,5.3
+GBR,United Kingdom,Life satisfaction,2013,6.8
+USA,United States,Life satisfaction,2013,7
+OTO,OECD - Total,Life satisfaction,2013,6.6
+BRA,Brazil,Life satisfaction,2013,6.7
+CHL,Chile,Life satisfaction,2013,6.5
+EST,Estonia,Life satisfaction,2013,5.4
+ISR,Israel,Life satisfaction,2013,7.1
+RUS,Russia,Life satisfaction,2013,5.6
+SVN,Slovenia,Life satisfaction,2013,6.1
+AUS,Australia,Life satisfaction,2013,7.2
+AUT,Austria,Life satisfaction,2013,7.3
+BEL,Belgium,Life satisfaction,2013,6.8
+CAN,Canada,Life satisfaction,2013,7.3
+CZE,Czech Republic,Life satisfaction,2013,6.4
+DNK,Denmark,Life satisfaction,2013,7.5
+FIN,Finland,Life satisfaction,2013,7.2
+FRA,France,Life satisfaction,2013,6.7
+DEU,Germany,Life satisfaction,2013,6.7
+GRC,Greece,Life satisfaction,2013,5
+HUN,Hungary,Life satisfaction,2013,4.8
+ISL,Iceland,Life satisfaction,2013,7.5
+IRL,Ireland,Life satisfaction,2013,6.7
+ITA,Italy,Life satisfaction,2013,6
+JPN,Japan,Life satisfaction,2013,5.8
+KOR,Korea,Life satisfaction,2013,5.8
+LUX,Luxembourg,Life satisfaction,2013,7
+MEX,Mexico,Life satisfaction,2013,7.3
+NLD,Netherlands,Life satisfaction,2013,7.4
+NZL,New Zealand,Life satisfaction,2013,7.2
+NOR,Norway,Life satisfaction,2013,7.6
+POL,Poland,Life satisfaction,2013,5.7
+PRT,Portugal,Life satisfaction,2013,4.9
+SVK,Slovak Republic,Life satisfaction,2013,6
+ESP,Spain,Life satisfaction,2013,6.2
+SWE,Sweden,Life satisfaction,2013,7.5
+CHE,Switzerland,Life satisfaction,2013,7.7
+TUR,Turkey,Life satisfaction,2013,5.2
+GBR,United Kingdom,Life satisfaction,2013,6.8
+USA,United States,Life satisfaction,2013,6.9
+OTO,OECD - Total,Life satisfaction,2013,6.6
+BRA,Brazil,Life satisfaction,2013,6.6
+CHL,Chile,Life satisfaction,2013,6.7
+EST,Estonia,Life satisfaction,2013,5.2
+ISR,Israel,Life satisfaction,2013,7.2
+RUS,Russia,Life satisfaction,2013,5.6
+SVN,Slovenia,Life satisfaction,2013,6.2
+AUS,Australia,Life satisfaction,2013,7.2
+AUT,Austria,Life satisfaction,2013,7.5
+BEL,Belgium,Life satisfaction,2013,7
+CAN,Canada,Life satisfaction,2013,7.5
+CZE,Czech Republic,Life satisfaction,2013,6.3
+DNK,Denmark,Life satisfaction,2013,7.5
+FIN,Finland,Life satisfaction,2013,7.6
+FRA,France,Life satisfaction,2013,6.6
+DEU,Germany,Life satisfaction,2013,6.7
+GRC,Greece,Life satisfaction,2013,5.1
+HUN,Hungary,Life satisfaction,2013,4.6
+ISL,Iceland,Life satisfaction,2013,7.7
+IRL,Ireland,Life satisfaction,2013,7.2
+ITA,Italy,Life satisfaction,2013,5.7
+JPN,Japan,Life satisfaction,2013,6.2
+KOR,Korea,Life satisfaction,2013,6.2
+LUX,Luxembourg,Life satisfaction,2013,7
+MEX,Mexico,Life satisfaction,2013,7.3
+NLD,Netherlands,Life satisfaction,2013,7.5
+NZL,New Zealand,Life satisfaction,2013,7.3
+NOR,Norway,Life satisfaction,2013,7.7
+POL,Poland,Life satisfaction,2013,6
+PRT,Portugal,Life satisfaction,2013,5.1
+SVK,Slovak Republic,Life satisfaction,2013,5.9
+ESP,Spain,Life satisfaction,2013,6.4
+SWE,Sweden,Life satisfaction,2013,7.6
+CHE,Switzerland,Life satisfaction,2013,7.8
+TUR,Turkey,Life satisfaction,2013,5.4
+GBR,United Kingdom,Life satisfaction,2013,6.9
+USA,United States,Life satisfaction,2013,7.2
+OTO,OECD - Total,Life satisfaction,2013,6.7
+BRA,Brazil,Life satisfaction,2013,6.7
+CHL,Chile,Life satisfaction,2013,6.4
+EST,Estonia,Life satisfaction,2013,5.5
+ISR,Israel,Life satisfaction,2013,7
+RUS,Russia,Life satisfaction,2013,5.6
+SVN,Slovenia,Life satisfaction,2013,5.9
+AUS,Australia,Life satisfaction,2013,7.4
+AUT,Austria,Life satisfaction,2013,7.8
+BEL,Belgium,Life satisfaction,2013,7.5
+CAN,Canada,Life satisfaction,2013,7.7
+CZE,Czech Republic,Life satisfaction,2013,6.9
+DNK,Denmark,Life satisfaction,2013,7.8
+FIN,Finland,Life satisfaction,2013,8
+FRA,France,Life satisfaction,2013,7.2
+DEU,Germany,Life satisfaction,2013,7.3
+GRC,Greece,Life satisfaction,2013,5.8
+HUN,Hungary,Life satisfaction,2013,5.6
+ISL,Iceland,Life satisfaction,2013,7.8
+IRL,Ireland,Life satisfaction,2013,7.1
+ITA,Italy,Life satisfaction,2013,6.7
+JPN,Japan,Life satisfaction,2013,6.5
+KOR,Korea,Life satisfaction,2013,6.5
+LUX,Luxembourg,Life satisfaction,2013,7.7
+MEX,Mexico,Life satisfaction,2013,8
+NLD,Netherlands,Life satisfaction,2013,7.7
+NZL,New Zealand,Life satisfaction,2013,7.3
+NOR,Norway,Life satisfaction,2013,7.8
+POL,Poland,Life satisfaction,2013,6.5
+PRT,Portugal,Life satisfaction,2013,6.5
+SVK,Slovak Republic,Life satisfaction,2013,6.7
+ESP,Spain,Life satisfaction,2013,7.1
+SWE,Sweden,Life satisfaction,2013,7.6
+CHE,Switzerland,Life satisfaction,2013,8
+TUR,Turkey,Life satisfaction,2013,6.1
+GBR,United Kingdom,Life satisfaction,2013,7.2
+USA,United States,Life satisfaction,2013,7.4
+OTO,OECD - Total,Life satisfaction,2013,7.1
+BRA,Brazil,Life satisfaction,2013,7.1
+CHL,Chile,Life satisfaction,2013,7.4
+EST,Estonia,Life satisfaction,2013,5.9
+ISR,Israel,Life satisfaction,2013,7.4
+RUS,Russia,Life satisfaction,2013,6
+SVN,Slovenia,Life satisfaction,2013,7.1
+AUS,Australia,Life satisfaction,2013,7.1
+AUT,Austria,Life satisfaction,2013,6.9
+BEL,Belgium,Life satisfaction,2013,6.1
+CAN,Canada,Life satisfaction,2013,7.5
+CZE,Czech Republic,Life satisfaction,2013,6.6
+DNK,Denmark,Life satisfaction,2013,7.2
+FIN,Finland,Life satisfaction,2013,7
+FRA,France,Life satisfaction,2013,5.9
+DEU,Germany,Life satisfaction,2013,6.1
+GRC,Greece,Life satisfaction,2013,4.2
+HUN,Hungary,Life satisfaction,2013,4.1
+ISL,Iceland,Life satisfaction,2013,7.5
+IRL,Ireland,Life satisfaction,2013,7.3
+ITA,Italy,Life satisfaction,2013,5.3
+JPN,Japan,Life satisfaction,2013,5.6
+KOR,Korea,Life satisfaction,2013,4.6
+LUX,Luxembourg,Life satisfaction,2013,6.4
+MEX,Mexico,Life satisfaction,2013,6.6
+NLD,Netherlands,Life satisfaction,2013,6.9
+NZL,New Zealand,Life satisfaction,2013,7.4
+NOR,Norway,Life satisfaction,2013,7.5
+POL,Poland,Life satisfaction,2013,5.8
+PRT,Portugal,Life satisfaction,2013,4.1
+SVK,Slovak Republic,Life satisfaction,2013,5.6
+ESP,Spain,Life satisfaction,2013,5.6
+SWE,Sweden,Life satisfaction,2013,7.8
+CHE,Switzerland,Life satisfaction,2013,7.4
+TUR,Turkey,Life satisfaction,2013,4.9
+GBR,United Kingdom,Life satisfaction,2013,6.4
+USA,United States,Life satisfaction,2013,6.1
+OTO,OECD - Total,Life satisfaction,2013,6.2
+BRA,Brazil,Life satisfaction,2013,6.3
+CHL,Chile,Life satisfaction,2013,6
+EST,Estonia,Life satisfaction,2013,5.2
+ISR,Israel,Life satisfaction,2013,6.3
+RUS,Russia,Life satisfaction,2013,5.4
+SVN,Slovenia,Life satisfaction,2013,5.7
+AUS,Australia,Assault rate,2013,2.1
+AUT,Austria,Assault rate,2013,3
+BEL,Belgium,Assault rate,2013,6.7
+CAN,Canada,Assault rate,2013,1.3
+CZE,Czech Republic,Assault rate,2013,3
+DNK,Denmark,Assault rate,2013,3.9
+FIN,Finland,Assault rate,2013,2.4
+FRA,France,Assault rate,2013,5
+DEU,Germany,Assault rate,2013,3.6
+GRC,Greece,Assault rate,2013,3.7
+HUN,Hungary,Assault rate,2013,3.6
+ISL,Iceland,Assault rate,2013,2.7
+IRL,Ireland,Assault rate,2013,2.6
+ITA,Italy,Assault rate,2013,4.7
+JPN,Japan,Assault rate,2013,1.4
+KOR,Korea,Assault rate,2013,2.1
+LUX,Luxembourg,Assault rate,2013,4.3
+MEX,Mexico,Assault rate,2013,13.1
+NLD,Netherlands,Assault rate,2013,4.9
+NZL,New Zealand,Assault rate,2013,2.2
+NOR,Norway,Assault rate,2013,3.3
+POL,Poland,Assault rate,2013,1.8
+PRT,Portugal,Assault rate,2013,5.8
+SVK,Slovak Republic,Assault rate,2013,3
+ESP,Spain,Assault rate,2013,4.2
+SWE,Sweden,Assault rate,2013,5.1
+CHE,Switzerland,Assault rate,2013,4.2
+TUR,Turkey,Assault rate,2013,5.1
+GBR,United Kingdom,Assault rate,2013,1.9
+USA,United States,Assault rate,2013,1.5
+OTO,OECD - Total,Assault rate,2013,4
+BRA,Brazil,Assault rate,2013,7.9
+CHL,Chile,Assault rate,2013,8.3
+EST,Estonia,Assault rate,2013,5.5
+ISR,Israel,Assault rate,2013,6.5
+RUS,Russia,Assault rate,2013,2.8
+SVN,Slovenia,Assault rate,2013,3.9
+AUS,Australia,Assault rate,2013,2.5
+AUT,Austria,Assault rate,2013,4.5
+BEL,Belgium,Assault rate,2013,6.2
+CAN,Canada,Assault rate,2013,1.3
+CZE,Czech Republic,Assault rate,2013,4.1
+DNK,Denmark,Assault rate,2013,4.9
+FIN,Finland,Assault rate,2013,3.9
+FRA,France,Assault rate,2013,5.6
+DEU,Germany,Assault rate,2013,3.1
+GRC,Greece,Assault rate,2013,3.6
+HUN,Hungary,Assault rate,2013,3.4
+ISL,Iceland,Assault rate,2013,3
+IRL,Ireland,Assault rate,2013,2.1
+ITA,Italy,Assault rate,2013,5.4
+JPN,Japan,Assault rate,2013,1.2
+KOR,Korea,Assault rate,2013,1.9
+LUX,Luxembourg,Assault rate,2013,4.7
+MEX,Mexico,Assault rate,2013,15.4
+NLD,Netherlands,Assault rate,2013,6.5
+NZL,New Zealand,Assault rate,2013,3.2
+NOR,Norway,Assault rate,2013,4.3
+POL,Poland,Assault rate,2013,0.9
+PRT,Portugal,Assault rate,2013,5.5
+SVK,Slovak Republic,Assault rate,2013,3.8
+ESP,Spain,Assault rate,2013,4.1
+SWE,Sweden,Assault rate,2013,4.7
+CHE,Switzerland,Assault rate,2013,5.7
+TUR,Turkey,Assault rate,2013,6.4
+GBR,United Kingdom,Assault rate,2013,3.2
+USA,United States,Assault rate,2013,1.7
+OTO,OECD - Total,Assault rate,2013,4.4
+BRA,Brazil,Assault rate,2013,7.5
+CHL,Chile,Assault rate,2013,8.4
+EST,Estonia,Assault rate,2013,5.4
+ISR,Israel,Assault rate,2013,5.9
+RUS,Russia,Assault rate,2013,3.5
+SVN,Slovenia,Assault rate,2013,3.2
+AUS,Australia,Assault rate,2013,1.7
+AUT,Austria,Assault rate,2013,1.7
+BEL,Belgium,Assault rate,2013,7
+CAN,Canada,Assault rate,2013,1.3
+CZE,Czech Republic,Assault rate,2013,1.9
+DNK,Denmark,Assault rate,2013,3.1
+FIN,Finland,Assault rate,2013,0.9
+FRA,France,Assault rate,2013,4.4
+DEU,Germany,Assault rate,2013,4.1
+GRC,Greece,Assault rate,2013,3.8
+HUN,Hungary,Assault rate,2013,3.8
+ISL,Iceland,Assault rate,2013,2.3
+IRL,Ireland,Assault rate,2013,3.1
+ITA,Italy,Assault rate,2013,4.1
+JPN,Japan,Assault rate,2013,1.5
+KOR,Korea,Assault rate,2013,2.2
+LUX,Luxembourg,Assault rate,2013,3.9
+MEX,Mexico,Assault rate,2013,9.9
+NLD,Netherlands,Assault rate,2013,3.5
+NZL,New Zealand,Assault rate,2013,1.4
+NOR,Norway,Assault rate,2013,2.3
+POL,Poland,Assault rate,2013,2.6
+PRT,Portugal,Assault rate,2013,6.1
+SVK,Slovak Republic,Assault rate,2013,2.2
+ESP,Spain,Assault rate,2013,4.3
+SWE,Sweden,Assault rate,2013,5.5
+CHE,Switzerland,Assault rate,2013,2.8
+TUR,Turkey,Assault rate,2013,3.7
+GBR,United Kingdom,Assault rate,2013,0.8
+USA,United States,Assault rate,2013,1.3
+OTO,OECD - Total,Assault rate,2013,3.6
+BRA,Brazil,Assault rate,2013,8.2
+CHL,Chile,Assault rate,2013,8.1
+EST,Estonia,Assault rate,2013,5.5
+ISR,Israel,Assault rate,2013,6.8
+RUS,Russia,Assault rate,2013,2.3
+SVN,Slovenia,Assault rate,2013,4.5
+AUS,Australia,Homicide rate,2013,1
+AUT,Austria,Homicide rate,2013,0.6
+BEL,Belgium,Homicide rate,2013,1.7
+CAN,Canada,Homicide rate,2013,1.6
+CZE,Czech Republic,Homicide rate,2013,1.7
+DNK,Denmark,Homicide rate,2013,0.9
+FIN,Finland,Homicide rate,2013,2.2
+FRA,France,Homicide rate,2013,1.1
+DEU,Germany,Homicide rate,2013,0.8
+GRC,Greece,Homicide rate,2013,1.5
+HUN,Hungary,Homicide rate,2013,1.3
+ISL,Iceland,Homicide rate,2013,0.3
+IRL,Ireland,Homicide rate,2013,1.2
+ITA,Italy,Homicide rate,2013,0.9
+JPN,Japan,Homicide rate,2013,0.4
+KOR,Korea,Homicide rate,2013,2.6
+LUX,Luxembourg,Homicide rate,2013,2.5
+MEX,Mexico,Homicide rate,2013,23.7
+NLD,Netherlands,Homicide rate,2013,1.1
+NZL,New Zealand,Homicide rate,2013,0.9
+NOR,Norway,Homicide rate,2013,0.6
+POL,Poland,Homicide rate,2013,1.1
+PRT,Portugal,Homicide rate,2013,1.2
+SVK,Slovak Republic,Homicide rate,2013,1.5
+ESP,Spain,Homicide rate,2013,0.8
+SWE,Sweden,Homicide rate,2013,1
+CHE,Switzerland,Homicide rate,2013,0.7
+TUR,Turkey,Homicide rate,2013,3.3
+GBR,United Kingdom,Homicide rate,2013,1.2
+USA,United States,Homicide rate,2013,4.8
+OTO,OECD - Total,Homicide rate,2013,2.2
+BRA,Brazil,Homicide rate,2013,21
+CHL,Chile,Homicide rate,2013,3.7
+EST,Estonia,Homicide rate,2013,5.2
+ISR,Israel,Homicide rate,2013,2.1
+RUS,Russia,Homicide rate,2013,10.2
+SVN,Slovenia,Homicide rate,2013,0.7
+AUS,Australia,Homicide rate,2013,1.5
+AUT,Austria,Homicide rate,2013,0.8
+BEL,Belgium,Homicide rate,2013,2
+CAN,Canada,Homicide rate,2013,2.4
+CZE,Czech Republic,Homicide rate,2013,2.1
+DNK,Denmark,Homicide rate,2013,1.1
+FIN,Finland,Homicide rate,2013,3.2
+FRA,France,Homicide rate,2013,1.5
+DEU,Germany,Homicide rate,2013,0.9
+GRC,Greece,Homicide rate,2013,2.6
+HUN,Hungary,Homicide rate,2013,1.5
+ISL,Iceland,Homicide rate,2013,0
+IRL,Ireland,Homicide rate,2013,2
+ITA,Italy,Homicide rate,2013,1.4
+JPN,Japan,Homicide rate,2013,0.4
+KOR,Korea,Homicide rate,2013,2.5
+LUX,Luxembourg,Homicide rate,2013,3.4
+MEX,Mexico,Homicide rate,2013,44.5
+NLD,Netherlands,Homicide rate,2013,1.6
+NZL,New Zealand,Homicide rate,2013,1.1
+NOR,Norway,Homicide rate,2013,0.7
+POL,Poland,Homicide rate,2013,1.7
+PRT,Portugal,Homicide rate,2013,1.7
+SVK,Slovak Republic,Homicide rate,2013,2.2
+ESP,Spain,Homicide rate,2013,1.1
+SWE,Sweden,Homicide rate,2013,1.3
+CHE,Switzerland,Homicide rate,2013,0.7
+TUR,Turkey,Homicide rate,2013,5.1
+GBR,United Kingdom,Homicide rate,2013,1.6
+USA,United States,Homicide rate,2013,7.5
+OTO,OECD - Total,Homicide rate,2013,2.2
+BRA,Brazil,Homicide rate,2013,39
+CHL,Chile,Homicide rate,2013,6.5
+EST,Estonia,Homicide rate,2013,8.9
+ISR,Israel,Homicide rate,2013,3.4
+RUS,Russia,Homicide rate,2013,16.6
+SVN,Slovenia,Homicide rate,2013,0.7
+AUS,Australia,Homicide rate,2013,0.6
+AUT,Austria,Homicide rate,2013,0.4
+BEL,Belgium,Homicide rate,2013,1.3
+CAN,Canada,Homicide rate,2013,0.8
+CZE,Czech Republic,Homicide rate,2013,1.3
+DNK,Denmark,Homicide rate,2013,0.6
+FIN,Finland,Homicide rate,2013,1.2
+FRA,France,Homicide rate,2013,0.7
+DEU,Germany,Homicide rate,2013,0.8
+GRC,Greece,Homicide rate,2013,0.5
+HUN,Hungary,Homicide rate,2013,1.1
+ISL,Iceland,Homicide rate,2013,0
+IRL,Ireland,Homicide rate,2013,0.4
+ITA,Italy,Homicide rate,2013,0.4
+JPN,Japan,Homicide rate,2013,0.4
+KOR,Korea,Homicide rate,2013,2.6
+LUX,Luxembourg,Homicide rate,2013,1.4
+MEX,Mexico,Homicide rate,2013,4.8
+NLD,Netherlands,Homicide rate,2013,0.6
+NZL,New Zealand,Homicide rate,2013,0.7
+NOR,Norway,Homicide rate,2013,0.5
+POL,Poland,Homicide rate,2013,0.6
+PRT,Portugal,Homicide rate,2013,0.7
+SVK,Slovak Republic,Homicide rate,2013,0.9
+ESP,Spain,Homicide rate,2013,0.6
+SWE,Sweden,Homicide rate,2013,0.7
+CHE,Switzerland,Homicide rate,2013,0.6
+TUR,Turkey,Homicide rate,2013,1.2
+GBR,United Kingdom,Homicide rate,2013,0.8
+USA,United States,Homicide rate,2013,2.1
+OTO,OECD - Total,Homicide rate,2013,2.2
+BRA,Brazil,Homicide rate,2013,3.8
+CHL,Chile,Homicide rate,2013,1
+EST,Estonia,Homicide rate,2013,2.1
+ISR,Israel,Homicide rate,2013,0.8
+RUS,Russia,Homicide rate,2013,4.9
+SVN,Slovenia,Homicide rate,2013,0.8
+AUS,Australia,Employees working very long hours,2013,14.13
+AUT,Austria,Employees working very long hours,2013,8.76
+BEL,Belgium,Employees working very long hours,2013,4.43
+CAN,Canada,Employees working very long hours,2013,3.91
+CZE,Czech Republic,Employees working very long hours,2013,7.58
+DNK,Denmark,Employees working very long hours,2013,1.97
+FIN,Finland,Employees working very long hours,2013,3.89
+FRA,France,Employees working very long hours,2013,8.96
+DEU,Germany,Employees working very long hours,2013,5.41
+GRC,Greece,Employees working very long hours,2013,5.23
+HUN,Hungary,Employees working very long hours,2013,3.1
+ISL,Iceland,Employees working very long hours,2013,13.45
+IRL,Ireland,Employees working very long hours,2013,3.94
+ITA,Italy,Employees working very long hours,2013,4.07
+JPN,Japan,Employees working very long hours,2013,31.7
+KOR,Korea,Employees working very long hours,2013,27.66
+LUX,Luxembourg,Employees working very long hours,2013,2.62
+MEX,Mexico,Employees working very long hours,2013,28.63
+NLD,Netherlands,Employees working very long hours,2013,0.66
+NZL,New Zealand,Employees working very long hours,2013,13.02
+NOR,Norway,Employees working very long hours,2013,2.83
+POL,Poland,Employees working very long hours,2013,7.24
+PRT,Portugal,Employees working very long hours,2013,8.5
+SVK,Slovak Republic,Employees working very long hours,2013,6.38
+ESP,Spain,Employees working very long hours,2013,6.34
+SWE,Sweden,Employees working very long hours,2013,1.23
+CHE,Switzerland,Employees working very long hours,2013,5.87
+TUR,Turkey,Employees working very long hours,2013,46.13
+GBR,United Kingdom,Employees working very long hours,2013,12.06
+USA,United States,Employees working very long hours,2013,11.13
+OTO,OECD - Total,Employees working very long hours,2013,8.76
+BRA,Brazil,Employees working very long hours,2013,12.5
+CHL,Chile,Employees working very long hours,2013,16.32
+EST,Estonia,Employees working very long hours,2013,4.1
+ISR,Israel,Employees working very long hours,2013,17.58
+RUS,Russia,Employees working very long hours,2013,0.16
+SVN,Slovenia,Employees working very long hours,2013,5.55
+AUS,Australia,Employees working very long hours,2013,20.95
+AUT,Austria,Employees working very long hours,2013,13.47
+BEL,Belgium,Employees working very long hours,2013,6.56
+CAN,Canada,Employees working very long hours,2013,6.37
+CZE,Czech Republic,Employees working very long hours,2013,11.19
+DNK,Denmark,Employees working very long hours,2013,3.08
+FIN,Finland,Employees working very long hours,2013,5.96
+FRA,France,Employees working very long hours,2013,12.44
+DEU,Germany,Employees working very long hours,2013,8.18
+GRC,Greece,Employees working very long hours,2013,6.28
+HUN,Hungary,Employees working very long hours,2013,4.64
+ISL,Iceland,Employees working very long hours,2013,18.94
+IRL,Ireland,Employees working very long hours,2013,6.67
+ITA,Italy,Employees working very long hours,2013,5.7
+JPN,Japan,Employees working very long hours,2013,38.84
+KOR,Korea,Employees working very long hours,2013,35.02
+LUX,Luxembourg,Employees working very long hours,2013,3.75
+MEX,Mexico,Employees working very long hours,2013,35.12
+NLD,Netherlands,Employees working very long hours,2013,1.12
+NZL,New Zealand,Employees working very long hours,2013,19.53
+NOR,Norway,Employees working very long hours,2013,4.46
+POL,Poland,Employees working very long hours,2013,11.32
+PRT,Portugal,Employees working very long hours,2013,11.64
+SVK,Slovak Republic,Employees working very long hours,2013,9.34
+ESP,Spain,Employees working very long hours,2013,8.85
+SWE,Sweden,Employees working very long hours,2013,1.85
+CHE,Switzerland,Employees working very long hours,2013,8.68
+TUR,Turkey,Employees working very long hours,2013,49.81
+GBR,United Kingdom,Employees working very long hours,2013,18.12
+USA,United States,Employees working very long hours,2013,15.5
+OTO,OECD - Total,Employees working very long hours,2013,12.08
+BRA,Brazil,Employees working very long hours,2013,15.47
+CHL,Chile,Employees working very long hours,2013,19.98
+EST,Estonia,Employees working very long hours,2013,5.62
+ISR,Israel,Employees working very long hours,2013,26.91
+RUS,Russia,Employees working very long hours,2013,0.25
+SVN,Slovenia,Employees working very long hours,2013,7.93
+AUS,Australia,Employees working very long hours,2013,6.38
+AUT,Austria,Employees working very long hours,2013,3.58
+BEL,Belgium,Employees working very long hours,2013,2.12
+CAN,Canada,Employees working very long hours,2013,1.46
+CZE,Czech Republic,Employees working very long hours,2013,3.29
+DNK,Denmark,Employees working very long hours,2013,0.83
+FIN,Finland,Employees working very long hours,2013,1.88
+FRA,France,Employees working very long hours,2013,5.41
+DEU,Germany,Employees working very long hours,2013,2.39
+GRC,Greece,Employees working very long hours,2013,3.85
+HUN,Hungary,Employees working very long hours,2013,1.49
+ISL,Iceland,Employees working very long hours,2013,7.05
+IRL,Ireland,Employees working very long hours,2013,1.47
+ITA,Italy,Employees working very long hours,2013,2.03
+JPN,Japan,Employees working very long hours,2013,20.43
+KOR,Korea,Employees working very long hours,2013,17.06
+LUX,Luxembourg,Employees working very long hours,2013,1.18
+MEX,Mexico,Employees working very long hours,2013,17.58
+NLD,Netherlands,Employees working very long hours,2013,0.15
+NZL,New Zealand,Employees working very long hours,2013,6.25
+NOR,Norway,Employees working very long hours,2013,1.13
+POL,Poland,Employees working very long hours,2013,2.57
+PRT,Portugal,Employees working very long hours,2013,5.33
+SVK,Slovak Republic,Employees working very long hours,2013,2.99
+ESP,Spain,Employees working very long hours,2013,3.53
+SWE,Sweden,Employees working very long hours,2013,0.6
+CHE,Switzerland,Employees working very long hours,2013,2.86
+TUR,Turkey,Employees working very long hours,2013,34.6
+GBR,United Kingdom,Employees working very long hours,2013,5.83
+USA,United States,Employees working very long hours,2013,6.49
+OTO,OECD - Total,Employees working very long hours,2013,4.93
+BRA,Brazil,Employees working very long hours,2013,8.78
+CHL,Chile,Employees working very long hours,2013,9.78
+EST,Estonia,Employees working very long hours,2013,2.72
+ISR,Israel,Employees working very long hours,2013,7.91
+RUS,Russia,Employees working very long hours,2013,0.08
+SVN,Slovenia,Employees working very long hours,2013,2.95
+AUS,Australia,Time devoted to leisure and personal care,2013,14.41
+AUT,Austria,Time devoted to leisure and personal care,2013,14.46
+BEL,Belgium,Time devoted to leisure and personal care,2013,15.71
+CAN,Canada,Time devoted to leisure and personal care,2013,14.25
+CZE,Czech Republic,Time devoted to leisure and personal care,2013,14.34
+DNK,Denmark,Time devoted to leisure and personal care,2013,16.06
+FIN,Finland,Time devoted to leisure and personal care,2013,14.89
+FRA,France,Time devoted to leisure and personal care,2013,15.33
+DEU,Germany,Time devoted to leisure and personal care,2013,15.31
+GRC,Greece,Time devoted to leisure and personal care,2013,14.65
+HUN,Hungary,Time devoted to leisure and personal care,2013,14.9
+ISL,Iceland,Time devoted to leisure and personal care,2013,14.06
+IRL,Ireland,Time devoted to leisure and personal care,2013,15.18
+ITA,Italy,Time devoted to leisure and personal care,2013,14.89
+JPN,Japan,Time devoted to leisure and personal care,2013,13.96
+KOR,Korea,Time devoted to leisure and personal care,2013,14.63
+LUX,Luxembourg,Time devoted to leisure and personal care,2013,15.05
+MEX,Mexico,Time devoted to leisure and personal care,2013,12.66
+NLD,Netherlands,Time devoted to leisure and personal care,2013,15.66
+NZL,New Zealand,Time devoted to leisure and personal care,2013,14.87
+NOR,Norway,Time devoted to leisure and personal care,2013,15.56
+POL,Poland,Time devoted to leisure and personal care,2013,14.2
+PRT,Portugal,Time devoted to leisure and personal care,2013,14.71
+SVK,Slovak Republic,Time devoted to leisure and personal care,2013,14.78
+ESP,Spain,Time devoted to leisure and personal care,2013,15.85
+SWE,Sweden,Time devoted to leisure and personal care,2013,15.11
+CHE,Switzerland,Time devoted to leisure and personal care,2013,14.78
+TUR,Turkey,Time devoted to leisure and personal care,2013,11.73
+GBR,United Kingdom,Time devoted to leisure and personal care,2013,14.83
+USA,United States,Time devoted to leisure and personal care,2013,14.27
+OTO,OECD - Total,Time devoted to leisure and personal care,2013,14.87
+BRA,Brazil,Time devoted to leisure and personal care,2013,14.84
+CHL,Chile,Time devoted to leisure and personal care,2013,13.66
+EST,Estonia,Time devoted to leisure and personal care,2013,14.2
+ISR,Israel,Time devoted to leisure and personal care,2013,13.81
+RUS,Russia,Time devoted to leisure and personal care,2013,14.84
+SVN,Slovenia,Time devoted to leisure and personal care,2013,14.62
+AUS,Australia,Time devoted to leisure and personal care,2013,14.43
+AUT,Austria,Time devoted to leisure and personal care,2013,14.6
+BEL,Belgium,Time devoted to leisure and personal care,2013,15.82
+CAN,Canada,Time devoted to leisure and personal care,2013,14.33
+CZE,Czech Republic,Time devoted to leisure and personal care,2013,14.51
+DNK,Denmark,Time devoted to leisure and personal care,2013,16.06
+FIN,Finland,Time devoted to leisure and personal care,2013,15.03
+FRA,France,Time devoted to leisure and personal care,2013,15.55
+DEU,Germany,Time devoted to leisure and personal care,2013,15.36
+GRC,Greece,Time devoted to leisure and personal care,2013,14.8
+HUN,Hungary,Time devoted to leisure and personal care,2013,15.04
+ISL,Iceland,Time devoted to leisure and personal care,2013,14.24
+IRL,Ireland,Time devoted to leisure and personal care,2013,15.31
+ITA,Italy,Time devoted to leisure and personal care,2013,15.19
+JPN,Japan,Time devoted to leisure and personal care,2013,14.12
+KOR,Korea,Time devoted to leisure and personal care,2013,14.97
+LUX,Luxembourg,Time devoted to leisure and personal care,2013,15.18
+MEX,Mexico,Time devoted to leisure and personal care,2013,12.92
+NLD,Netherlands,Time devoted to leisure and personal care,2013,15.76
+NZL,New Zealand,Time devoted to leisure and personal care,2013,14.83
+NOR,Norway,Time devoted to leisure and personal care,2013,15.5
+POL,Poland,Time devoted to leisure and personal care,2013,14.37
+PRT,Portugal,Time devoted to leisure and personal care,2013,14.86
+SVK,Slovak Republic,Time devoted to leisure and personal care,2013,14.93
+ESP,Spain,Time devoted to leisure and personal care,2013,16.21
+SWE,Sweden,Time devoted to leisure and personal care,2013,15.01
+CHE,Switzerland,Time devoted to leisure and personal care,2013,14.93
+TUR,Turkey,Time devoted to leisure and personal care,2013,12.04
+GBR,United Kingdom,Time devoted to leisure and personal care,2013,14.83
+USA,United States,Time devoted to leisure and personal care,2013,14.39
+OTO,OECD - Total,Time devoted to leisure and personal care,2013,15.01
+BRA,Brazil,Time devoted to leisure and personal care,2013,14.99
+CHL,Chile,Time devoted to leisure and personal care,2013,13.86
+EST,Estonia,Time devoted to leisure and personal care,2013,14.54
+ISR,Israel,Time devoted to leisure and personal care,2013,14.01
+RUS,Russia,Time devoted to leisure and personal care,2013,14.99
+SVN,Slovenia,Time devoted to leisure and personal care,2013,15.08
+AUS,Australia,Time devoted to leisure and personal care,2013,14.37
+AUT,Austria,Time devoted to leisure and personal care,2013,14.15
+BEL,Belgium,Time devoted to leisure and personal care,2013,15.47
+CAN,Canada,Time devoted to leisure and personal care,2013,14.15
+CZE,Czech Republic,Time devoted to leisure and personal care,2013,14.07
+DNK,Denmark,Time devoted to leisure and personal care,2013,16.06
+FIN,Finland,Time devoted to leisure and personal care,2013,14.66
+FRA,France,Time devoted to leisure and personal care,2013,14.9
+DEU,Germany,Time devoted to leisure and personal care,2013,15.31
+GRC,Greece,Time devoted to leisure and personal care,2013,14.4
+HUN,Hungary,Time devoted to leisure and personal care,2013,14.67
+ISL,Iceland,Time devoted to leisure and personal care,2013,13.77
+IRL,Ireland,Time devoted to leisure and personal care,2013,14.97
+ITA,Italy,Time devoted to leisure and personal care,2013,14.08
+JPN,Japan,Time devoted to leisure and personal care,2013,13.61
+KOR,Korea,Time devoted to leisure and personal care,2013,14.07
+LUX,Luxembourg,Time devoted to leisure and personal care,2013,14.83
+MEX,Mexico,Time devoted to leisure and personal care,2013,12.27
+NLD,Netherlands,Time devoted to leisure and personal care,2013,15.49
+NZL,New Zealand,Time devoted to leisure and personal care,2013,14.93
+NOR,Norway,Time devoted to leisure and personal care,2013,15.67
+POL,Poland,Time devoted to leisure and personal care,2013,13.83
+PRT,Portugal,Time devoted to leisure and personal care,2013,14.47
+SVK,Slovak Republic,Time devoted to leisure and personal care,2013,14.54
+ESP,Spain,Time devoted to leisure and personal care,2013,15.28
+SWE,Sweden,Time devoted to leisure and personal care,2013,15.3
+CHE,Switzerland,Time devoted to leisure and personal care,2013,14.54
+TUR,Turkey,Time devoted to leisure and personal care,2013,11.27
+GBR,United Kingdom,Time devoted to leisure and personal care,2013,14.83
+USA,United States,Time devoted to leisure and personal care,2013,14.12
+OTO,OECD - Total,Time devoted to leisure and personal care,2013,14.64
+BRA,Brazil,Time devoted to leisure and personal care,2013,14.61
+CHL,Chile,Time devoted to leisure and personal care,2013,13.34
+EST,Estonia,Time devoted to leisure and personal care,2013,13.85
+ISR,Israel,Time devoted to leisure and personal care,2013,13.5
+RUS,Russia,Time devoted to leisure and personal care,2013,14.61
+SVN,Slovenia,Time devoted to leisure and personal care,2013,14.12

@@ -1,0 +1,3391 @@
+LOCATION,Country,Indicator,Unit,Value
+AUS,Australia,Dwellings without basic facilities,Percentage,1.1
+AUT,Austria,Dwellings without basic facilities,Percentage,1
+BEL,Belgium,Dwellings without basic facilities,Percentage,1.9
+CAN,Canada,Dwellings without basic facilities,Percentage,0.2
+CZE,Czech Republic,Dwellings without basic facilities,Percentage,0.9
+DNK,Denmark,Dwellings without basic facilities,Percentage,0.4
+FIN,Finland,Dwellings without basic facilities,Percentage,0.6
+FRA,France,Dwellings without basic facilities,Percentage,0.5
+DEU,Germany,Dwellings without basic facilities,Percentage,0.9
+GRC,Greece,Dwellings without basic facilities,Percentage,0.5
+HUN,Hungary,Dwellings without basic facilities,Percentage,4.8
+ISL,Iceland,Dwellings without basic facilities,Percentage,0.4
+IRL,Ireland,Dwellings without basic facilities,Percentage,0.2
+ITA,Italy,Dwellings without basic facilities,Percentage,0.5
+JPN,Japan,Dwellings without basic facilities,Percentage,6.4
+KOR,Korea,Dwellings without basic facilities,Percentage,4.2
+LUX,Luxembourg,Dwellings without basic facilities,Percentage,0.7
+MEX,Mexico,Dwellings without basic facilities,Percentage,4.2
+NLD,Netherlands,Dwellings without basic facilities,Percentage,0
+NZL,New Zealand,Dwellings without basic facilities,Percentage,0.2
+NOR,Norway,Dwellings without basic facilities,Percentage,0.3
+POL,Poland,Dwellings without basic facilities,Percentage,3.5
+PRT,Portugal,Dwellings without basic facilities,Percentage,0.9
+SVK,Slovak Republic,Dwellings without basic facilities,Percentage,1.1
+ESP,Spain,Dwellings without basic facilities,Percentage,0
+SWE,Sweden,Dwellings without basic facilities,Percentage,0
+CHE,Switzerland,Dwellings without basic facilities,Percentage,0.1
+TUR,Turkey,Dwellings without basic facilities,Percentage,12.7
+GBR,United Kingdom,Dwellings without basic facilities,Percentage,0.3
+USA,United States,Dwellings without basic facilities,Percentage,0.1
+BRA,Brazil,Dwellings without basic facilities,Percentage,6.7
+CHL,Chile,Dwellings without basic facilities,Percentage,9.4
+EST,Estonia,Dwellings without basic facilities,Percentage,8.6
+ISR,Israel,Dwellings without basic facilities,Percentage,3.8
+RUS,Russia,Dwellings without basic facilities,Percentage,15.1
+SVN,Slovenia,Dwellings without basic facilities,Percentage,0.4
+AUS,Australia,Dwellings without basic facilities,Percentage,1.1
+AUT,Austria,Dwellings without basic facilities,Percentage,1
+BEL,Belgium,Dwellings without basic facilities,Percentage,1.9
+CAN,Canada,Dwellings without basic facilities,Percentage,0.2
+CZE,Czech Republic,Dwellings without basic facilities,Percentage,0.9
+DNK,Denmark,Dwellings without basic facilities,Percentage,0.4
+FIN,Finland,Dwellings without basic facilities,Percentage,0.6
+FRA,France,Dwellings without basic facilities,Percentage,0.5
+DEU,Germany,Dwellings without basic facilities,Percentage,0.9
+GRC,Greece,Dwellings without basic facilities,Percentage,0.5
+HUN,Hungary,Dwellings without basic facilities,Percentage,4.8
+ISL,Iceland,Dwellings without basic facilities,Percentage,0.4
+IRL,Ireland,Dwellings without basic facilities,Percentage,0.2
+ITA,Italy,Dwellings without basic facilities,Percentage,0.5
+JPN,Japan,Dwellings without basic facilities,Percentage,6.4
+KOR,Korea,Dwellings without basic facilities,Percentage,4.2
+LUX,Luxembourg,Dwellings without basic facilities,Percentage,0.7
+MEX,Mexico,Dwellings without basic facilities,Percentage,4.2
+NLD,Netherlands,Dwellings without basic facilities,Percentage,0
+NZL,New Zealand,Dwellings without basic facilities,Percentage,0.2
+NOR,Norway,Dwellings without basic facilities,Percentage,0.3
+POL,Poland,Dwellings without basic facilities,Percentage,3.5
+PRT,Portugal,Dwellings without basic facilities,Percentage,0.9
+SVK,Slovak Republic,Dwellings without basic facilities,Percentage,1.1
+ESP,Spain,Dwellings without basic facilities,Percentage,0
+SWE,Sweden,Dwellings without basic facilities,Percentage,0
+CHE,Switzerland,Dwellings without basic facilities,Percentage,0.1
+TUR,Turkey,Dwellings without basic facilities,Percentage,12.7
+GBR,United Kingdom,Dwellings without basic facilities,Percentage,0.3
+USA,United States,Dwellings without basic facilities,Percentage,0.1
+BRA,Brazil,Dwellings without basic facilities,Percentage,6.7
+CHL,Chile,Dwellings without basic facilities,Percentage,9.4
+EST,Estonia,Dwellings without basic facilities,Percentage,8.6
+ISR,Israel,Dwellings without basic facilities,Percentage,3.8
+RUS,Russia,Dwellings without basic facilities,Percentage,15.1
+SVN,Slovenia,Dwellings without basic facilities,Percentage,0.4
+AUS,Australia,Dwellings without basic facilities,Percentage,1.1
+AUT,Austria,Dwellings without basic facilities,Percentage,1
+BEL,Belgium,Dwellings without basic facilities,Percentage,1.9
+CAN,Canada,Dwellings without basic facilities,Percentage,0.2
+CZE,Czech Republic,Dwellings without basic facilities,Percentage,0.9
+DNK,Denmark,Dwellings without basic facilities,Percentage,0.4
+FIN,Finland,Dwellings without basic facilities,Percentage,0.6
+FRA,France,Dwellings without basic facilities,Percentage,0.5
+DEU,Germany,Dwellings without basic facilities,Percentage,0.9
+GRC,Greece,Dwellings without basic facilities,Percentage,0.5
+HUN,Hungary,Dwellings without basic facilities,Percentage,4.8
+ISL,Iceland,Dwellings without basic facilities,Percentage,0.4
+IRL,Ireland,Dwellings without basic facilities,Percentage,0.2
+ITA,Italy,Dwellings without basic facilities,Percentage,0.5
+JPN,Japan,Dwellings without basic facilities,Percentage,6.4
+KOR,Korea,Dwellings without basic facilities,Percentage,4.2
+LUX,Luxembourg,Dwellings without basic facilities,Percentage,0.7
+MEX,Mexico,Dwellings without basic facilities,Percentage,4.2
+NLD,Netherlands,Dwellings without basic facilities,Percentage,0
+NZL,New Zealand,Dwellings without basic facilities,Percentage,0.2
+NOR,Norway,Dwellings without basic facilities,Percentage,0.3
+POL,Poland,Dwellings without basic facilities,Percentage,3.5
+PRT,Portugal,Dwellings without basic facilities,Percentage,0.9
+SVK,Slovak Republic,Dwellings without basic facilities,Percentage,1.1
+ESP,Spain,Dwellings without basic facilities,Percentage,0
+SWE,Sweden,Dwellings without basic facilities,Percentage,0
+CHE,Switzerland,Dwellings without basic facilities,Percentage,0.1
+TUR,Turkey,Dwellings without basic facilities,Percentage,12.7
+GBR,United Kingdom,Dwellings without basic facilities,Percentage,0.3
+USA,United States,Dwellings without basic facilities,Percentage,0.1
+BRA,Brazil,Dwellings without basic facilities,Percentage,6.7
+CHL,Chile,Dwellings without basic facilities,Percentage,9.4
+EST,Estonia,Dwellings without basic facilities,Percentage,8.6
+ISR,Israel,Dwellings without basic facilities,Percentage,3.8
+RUS,Russia,Dwellings without basic facilities,Percentage,15.1
+SVN,Slovenia,Dwellings without basic facilities,Percentage,0.4
+AUS,Australia,Housing expenditure,Percentage,20
+AUT,Austria,Housing expenditure,Percentage,21
+BEL,Belgium,Housing expenditure,Percentage,20
+CAN,Canada,Housing expenditure,Percentage,22
+CZE,Czech Republic,Housing expenditure,Percentage,25
+DNK,Denmark,Housing expenditure,Percentage,24
+FIN,Finland,Housing expenditure,Percentage,22
+FRA,France,Housing expenditure,Percentage,21
+DEU,Germany,Housing expenditure,Percentage,21
+GRC,Greece,Housing expenditure,Percentage,27
+HUN,Hungary,Housing expenditure,Percentage,21
+ISL,Iceland,Housing expenditure,Percentage,21
+IRL,Ireland,Housing expenditure,Percentage,20
+ITA,Italy,Housing expenditure,Percentage,23
+JPN,Japan,Housing expenditure,Percentage,22
+KOR,Korea,Housing expenditure,Percentage,16
+LUX,Luxembourg,Housing expenditure,Percentage,23
+MEX,Mexico,Housing expenditure,Percentage,21
+NLD,Netherlands,Housing expenditure,Percentage,21
+NZL,New Zealand,Housing expenditure,Percentage,25
+NOR,Norway,Housing expenditure,Percentage,17
+POL,Poland,Housing expenditure,Percentage,23
+PRT,Portugal,Housing expenditure,Percentage,18
+SVK,Slovak Republic,Housing expenditure,Percentage,25
+ESP,Spain,Housing expenditure,Percentage,20
+SWE,Sweden,Housing expenditure,Percentage,21
+CHE,Switzerland,Housing expenditure,Percentage,23
+TUR,Turkey,Housing expenditure,Percentage,21
+GBR,United Kingdom,Housing expenditure,Percentage,24
+USA,United States,Housing expenditure,Percentage,19
+BRA,Brazil,Housing expenditure,Percentage,21
+CHL,Chile,Housing expenditure,Percentage,19
+EST,Estonia,Housing expenditure,Percentage,20
+ISR,Israel,Housing expenditure,Percentage,21
+RUS,Russia,Housing expenditure,Percentage,11
+SVN,Slovenia,Housing expenditure,Percentage,20
+AUS,Australia,Housing expenditure,Percentage,20
+AUT,Austria,Housing expenditure,Percentage,21
+BEL,Belgium,Housing expenditure,Percentage,20
+CAN,Canada,Housing expenditure,Percentage,22
+CZE,Czech Republic,Housing expenditure,Percentage,25
+DNK,Denmark,Housing expenditure,Percentage,24
+FIN,Finland,Housing expenditure,Percentage,22
+FRA,France,Housing expenditure,Percentage,21
+DEU,Germany,Housing expenditure,Percentage,21
+GRC,Greece,Housing expenditure,Percentage,27
+HUN,Hungary,Housing expenditure,Percentage,21
+ISL,Iceland,Housing expenditure,Percentage,21
+IRL,Ireland,Housing expenditure,Percentage,20
+ITA,Italy,Housing expenditure,Percentage,23
+JPN,Japan,Housing expenditure,Percentage,22
+KOR,Korea,Housing expenditure,Percentage,16
+LUX,Luxembourg,Housing expenditure,Percentage,23
+MEX,Mexico,Housing expenditure,Percentage,21
+NLD,Netherlands,Housing expenditure,Percentage,21
+NZL,New Zealand,Housing expenditure,Percentage,25
+NOR,Norway,Housing expenditure,Percentage,17
+POL,Poland,Housing expenditure,Percentage,23
+PRT,Portugal,Housing expenditure,Percentage,18
+SVK,Slovak Republic,Housing expenditure,Percentage,25
+ESP,Spain,Housing expenditure,Percentage,20
+SWE,Sweden,Housing expenditure,Percentage,21
+CHE,Switzerland,Housing expenditure,Percentage,23
+TUR,Turkey,Housing expenditure,Percentage,21
+GBR,United Kingdom,Housing expenditure,Percentage,24
+USA,United States,Housing expenditure,Percentage,19
+BRA,Brazil,Housing expenditure,Percentage,21
+CHL,Chile,Housing expenditure,Percentage,19
+EST,Estonia,Housing expenditure,Percentage,20
+ISR,Israel,Housing expenditure,Percentage,21
+RUS,Russia,Housing expenditure,Percentage,11
+SVN,Slovenia,Housing expenditure,Percentage,20
+AUS,Australia,Housing expenditure,Percentage,20
+AUT,Austria,Housing expenditure,Percentage,21
+BEL,Belgium,Housing expenditure,Percentage,20
+CAN,Canada,Housing expenditure,Percentage,22
+CZE,Czech Republic,Housing expenditure,Percentage,25
+DNK,Denmark,Housing expenditure,Percentage,24
+FIN,Finland,Housing expenditure,Percentage,22
+FRA,France,Housing expenditure,Percentage,21
+DEU,Germany,Housing expenditure,Percentage,21
+GRC,Greece,Housing expenditure,Percentage,27
+HUN,Hungary,Housing expenditure,Percentage,21
+ISL,Iceland,Housing expenditure,Percentage,21
+IRL,Ireland,Housing expenditure,Percentage,20
+ITA,Italy,Housing expenditure,Percentage,23
+JPN,Japan,Housing expenditure,Percentage,22
+KOR,Korea,Housing expenditure,Percentage,16
+LUX,Luxembourg,Housing expenditure,Percentage,23
+MEX,Mexico,Housing expenditure,Percentage,21
+NLD,Netherlands,Housing expenditure,Percentage,21
+NZL,New Zealand,Housing expenditure,Percentage,25
+NOR,Norway,Housing expenditure,Percentage,17
+POL,Poland,Housing expenditure,Percentage,23
+PRT,Portugal,Housing expenditure,Percentage,18
+SVK,Slovak Republic,Housing expenditure,Percentage,25
+ESP,Spain,Housing expenditure,Percentage,20
+SWE,Sweden,Housing expenditure,Percentage,21
+CHE,Switzerland,Housing expenditure,Percentage,23
+TUR,Turkey,Housing expenditure,Percentage,21
+GBR,United Kingdom,Housing expenditure,Percentage,24
+USA,United States,Housing expenditure,Percentage,19
+BRA,Brazil,Housing expenditure,Percentage,21
+CHL,Chile,Housing expenditure,Percentage,19
+EST,Estonia,Housing expenditure,Percentage,20
+ISR,Israel,Housing expenditure,Percentage,21
+RUS,Russia,Housing expenditure,Percentage,11
+SVN,Slovenia,Housing expenditure,Percentage,20
+AUS,Australia,Rooms per person,Ratio,2.3
+AUT,Austria,Rooms per person,Ratio,1.6
+BEL,Belgium,Rooms per person,Ratio,2.3
+CAN,Canada,Rooms per person,Ratio,2.5
+CZE,Czech Republic,Rooms per person,Ratio,1.4
+DNK,Denmark,Rooms per person,Ratio,2
+FIN,Finland,Rooms per person,Ratio,1.9
+FRA,France,Rooms per person,Ratio,1.8
+DEU,Germany,Rooms per person,Ratio,1.8
+GRC,Greece,Rooms per person,Ratio,1.2
+HUN,Hungary,Rooms per person,Ratio,1
+ISL,Iceland,Rooms per person,Ratio,1.6
+IRL,Ireland,Rooms per person,Ratio,2.1
+ITA,Italy,Rooms per person,Ratio,1.4
+JPN,Japan,Rooms per person,Ratio,1.8
+KOR,Korea,Rooms per person,Ratio,1.4
+LUX,Luxembourg,Rooms per person,Ratio,2
+MEX,Mexico,Rooms per person,Ratio,1
+NLD,Netherlands,Rooms per person,Ratio,2
+NZL,New Zealand,Rooms per person,Ratio,2.3
+NOR,Norway,Rooms per person,Ratio,2
+POL,Poland,Rooms per person,Ratio,1
+PRT,Portugal,Rooms per person,Ratio,1.6
+SVK,Slovak Republic,Rooms per person,Ratio,1.2
+ESP,Spain,Rooms per person,Ratio,1.9
+SWE,Sweden,Rooms per person,Ratio,1.7
+CHE,Switzerland,Rooms per person,Ratio,1.9
+TUR,Turkey,Rooms per person,Ratio,1.1
+GBR,United Kingdom,Rooms per person,Ratio,1.9
+USA,United States,Rooms per person,Ratio,2.3
+BRA,Brazil,Rooms per person,Ratio,1.4
+CHL,Chile,Rooms per person,Ratio,1.3
+EST,Estonia,Rooms per person,Ratio,1.6
+ISR,Israel,Rooms per person,Ratio,1.1
+RUS,Russia,Rooms per person,Ratio,0.9
+SVN,Slovenia,Rooms per person,Ratio,1.4
+AUS,Australia,Rooms per person,Ratio,2.3
+AUT,Austria,Rooms per person,Ratio,1.6
+BEL,Belgium,Rooms per person,Ratio,2.3
+CAN,Canada,Rooms per person,Ratio,2.5
+CZE,Czech Republic,Rooms per person,Ratio,1.4
+DNK,Denmark,Rooms per person,Ratio,2
+FIN,Finland,Rooms per person,Ratio,1.9
+FRA,France,Rooms per person,Ratio,1.8
+DEU,Germany,Rooms per person,Ratio,1.8
+GRC,Greece,Rooms per person,Ratio,1.2
+HUN,Hungary,Rooms per person,Ratio,1
+ISL,Iceland,Rooms per person,Ratio,1.6
+IRL,Ireland,Rooms per person,Ratio,2.1
+ITA,Italy,Rooms per person,Ratio,1.4
+JPN,Japan,Rooms per person,Ratio,1.8
+KOR,Korea,Rooms per person,Ratio,1.4
+LUX,Luxembourg,Rooms per person,Ratio,2
+MEX,Mexico,Rooms per person,Ratio,1
+NLD,Netherlands,Rooms per person,Ratio,2
+NZL,New Zealand,Rooms per person,Ratio,2.3
+NOR,Norway,Rooms per person,Ratio,2
+POL,Poland,Rooms per person,Ratio,1
+PRT,Portugal,Rooms per person,Ratio,1.6
+SVK,Slovak Republic,Rooms per person,Ratio,1.2
+ESP,Spain,Rooms per person,Ratio,1.9
+SWE,Sweden,Rooms per person,Ratio,1.7
+CHE,Switzerland,Rooms per person,Ratio,1.9
+TUR,Turkey,Rooms per person,Ratio,1.1
+GBR,United Kingdom,Rooms per person,Ratio,1.9
+USA,United States,Rooms per person,Ratio,2.3
+BRA,Brazil,Rooms per person,Ratio,1.4
+CHL,Chile,Rooms per person,Ratio,1.3
+EST,Estonia,Rooms per person,Ratio,1.6
+ISR,Israel,Rooms per person,Ratio,1.1
+RUS,Russia,Rooms per person,Ratio,0.9
+SVN,Slovenia,Rooms per person,Ratio,1.4
+AUS,Australia,Rooms per person,Ratio,2.3
+AUT,Austria,Rooms per person,Ratio,1.6
+BEL,Belgium,Rooms per person,Ratio,2.3
+CAN,Canada,Rooms per person,Ratio,2.5
+CZE,Czech Republic,Rooms per person,Ratio,1.4
+DNK,Denmark,Rooms per person,Ratio,2
+FIN,Finland,Rooms per person,Ratio,1.9
+FRA,France,Rooms per person,Ratio,1.8
+DEU,Germany,Rooms per person,Ratio,1.8
+GRC,Greece,Rooms per person,Ratio,1.2
+HUN,Hungary,Rooms per person,Ratio,1
+ISL,Iceland,Rooms per person,Ratio,1.6
+IRL,Ireland,Rooms per person,Ratio,2.1
+ITA,Italy,Rooms per person,Ratio,1.4
+JPN,Japan,Rooms per person,Ratio,1.8
+KOR,Korea,Rooms per person,Ratio,1.4
+LUX,Luxembourg,Rooms per person,Ratio,2
+MEX,Mexico,Rooms per person,Ratio,1
+NLD,Netherlands,Rooms per person,Ratio,2
+NZL,New Zealand,Rooms per person,Ratio,2.3
+NOR,Norway,Rooms per person,Ratio,2
+POL,Poland,Rooms per person,Ratio,1
+PRT,Portugal,Rooms per person,Ratio,1.6
+SVK,Slovak Republic,Rooms per person,Ratio,1.2
+ESP,Spain,Rooms per person,Ratio,1.9
+SWE,Sweden,Rooms per person,Ratio,1.7
+CHE,Switzerland,Rooms per person,Ratio,1.9
+TUR,Turkey,Rooms per person,Ratio,1.1
+GBR,United Kingdom,Rooms per person,Ratio,1.9
+USA,United States,Rooms per person,Ratio,2.3
+BRA,Brazil,Rooms per person,Ratio,1.4
+CHL,Chile,Rooms per person,Ratio,1.3
+EST,Estonia,Rooms per person,Ratio,1.6
+ISR,Israel,Rooms per person,Ratio,1.1
+RUS,Russia,Rooms per person,Ratio,0.9
+SVN,Slovenia,Rooms per person,Ratio,1.4
+AUS,Australia,Household net adjusted disposable income,US Dollar,31197
+AUT,Austria,Household net adjusted disposable income,US Dollar,29256
+BEL,Belgium,Household net adjusted disposable income,US Dollar,27811
+CAN,Canada,Household net adjusted disposable income,US Dollar,30212
+CZE,Czech Republic,Household net adjusted disposable income,US Dollar,17262
+DNK,Denmark,Household net adjusted disposable income,US Dollar,25172
+FIN,Finland,Household net adjusted disposable income,US Dollar,26904
+FRA,France,Household net adjusted disposable income,US Dollar,29322
+DEU,Germany,Household net adjusted disposable income,US Dollar,30721
+GRC,Greece,Household net adjusted disposable income,US Dollar,19095
+HUN,Hungary,Household net adjusted disposable income,US Dollar,15240
+ISL,Iceland,Household net adjusted disposable income,US Dollar,22415
+IRL,Ireland,Household net adjusted disposable income,US Dollar,23721
+ITA,Italy,Household net adjusted disposable income,US Dollar,24724
+JPN,Japan,Household net adjusted disposable income,US Dollar,25066
+KOR,Korea,Household net adjusted disposable income,US Dollar,18035
+LUX,Luxembourg,Household net adjusted disposable income,US Dollar,35635
+MEX,Mexico,Household net adjusted disposable income,US Dollar,12850
+NLD,Netherlands,Household net adjusted disposable income,US Dollar,25697
+NZL,New Zealand,Household net adjusted disposable income,US Dollar,21773
+NOR,Norway,Household net adjusted disposable income,US Dollar,32093
+POL,Poland,Household net adjusted disposable income,US Dollar,16234
+PRT,Portugal,Household net adjusted disposable income,US Dollar,18806
+SVK,Slovak Republic,Household net adjusted disposable income,US Dollar,17228
+ESP,Spain,Household net adjusted disposable income,US Dollar,22799
+SWE,Sweden,Household net adjusted disposable income,US Dollar,27546
+CHE,Switzerland,Household net adjusted disposable income,US Dollar,30745
+TUR,Turkey,Household net adjusted disposable income,US Dollar,13794
+GBR,United Kingdom,Household net adjusted disposable income,US Dollar,25828
+USA,United States,Household net adjusted disposable income,US Dollar,39531
+BRA,Brazil,Household net adjusted disposable income,US Dollar,10310
+CHL,Chile,Household net adjusted disposable income,US Dollar,13762
+EST,Estonia,Household net adjusted disposable income,US Dollar,14382
+ISR,Israel,Household net adjusted disposable income,US Dollar,20434
+RUS,Russia,Household net adjusted disposable income,US Dollar,17230
+SVN,Slovenia,Household net adjusted disposable income,US Dollar,19692
+AUS,Australia,Household net adjusted disposable income,US Dollar,31197
+AUT,Austria,Household net adjusted disposable income,US Dollar,29256
+BEL,Belgium,Household net adjusted disposable income,US Dollar,27811
+CAN,Canada,Household net adjusted disposable income,US Dollar,30212
+CZE,Czech Republic,Household net adjusted disposable income,US Dollar,17262
+DNK,Denmark,Household net adjusted disposable income,US Dollar,25172
+FIN,Finland,Household net adjusted disposable income,US Dollar,26904
+FRA,France,Household net adjusted disposable income,US Dollar,29322
+DEU,Germany,Household net adjusted disposable income,US Dollar,30721
+GRC,Greece,Household net adjusted disposable income,US Dollar,19095
+HUN,Hungary,Household net adjusted disposable income,US Dollar,15240
+ISL,Iceland,Household net adjusted disposable income,US Dollar,22415
+IRL,Ireland,Household net adjusted disposable income,US Dollar,23721
+ITA,Italy,Household net adjusted disposable income,US Dollar,24724
+JPN,Japan,Household net adjusted disposable income,US Dollar,25066
+KOR,Korea,Household net adjusted disposable income,US Dollar,18035
+LUX,Luxembourg,Household net adjusted disposable income,US Dollar,35635
+MEX,Mexico,Household net adjusted disposable income,US Dollar,12850
+NLD,Netherlands,Household net adjusted disposable income,US Dollar,25697
+NZL,New Zealand,Household net adjusted disposable income,US Dollar,21773
+NOR,Norway,Household net adjusted disposable income,US Dollar,32093
+POL,Poland,Household net adjusted disposable income,US Dollar,16234
+PRT,Portugal,Household net adjusted disposable income,US Dollar,18806
+SVK,Slovak Republic,Household net adjusted disposable income,US Dollar,17228
+ESP,Spain,Household net adjusted disposable income,US Dollar,22799
+SWE,Sweden,Household net adjusted disposable income,US Dollar,27546
+CHE,Switzerland,Household net adjusted disposable income,US Dollar,30745
+TUR,Turkey,Household net adjusted disposable income,US Dollar,13794
+GBR,United Kingdom,Household net adjusted disposable income,US Dollar,25828
+USA,United States,Household net adjusted disposable income,US Dollar,39531
+BRA,Brazil,Household net adjusted disposable income,US Dollar,10310
+CHL,Chile,Household net adjusted disposable income,US Dollar,13762
+EST,Estonia,Household net adjusted disposable income,US Dollar,14382
+ISR,Israel,Household net adjusted disposable income,US Dollar,20434
+RUS,Russia,Household net adjusted disposable income,US Dollar,17230
+SVN,Slovenia,Household net adjusted disposable income,US Dollar,19692
+AUS,Australia,Household net adjusted disposable income,US Dollar,31197
+AUT,Austria,Household net adjusted disposable income,US Dollar,29256
+BEL,Belgium,Household net adjusted disposable income,US Dollar,27811
+CAN,Canada,Household net adjusted disposable income,US Dollar,30212
+CZE,Czech Republic,Household net adjusted disposable income,US Dollar,17262
+DNK,Denmark,Household net adjusted disposable income,US Dollar,25172
+FIN,Finland,Household net adjusted disposable income,US Dollar,26904
+FRA,France,Household net adjusted disposable income,US Dollar,29322
+DEU,Germany,Household net adjusted disposable income,US Dollar,30721
+GRC,Greece,Household net adjusted disposable income,US Dollar,19095
+HUN,Hungary,Household net adjusted disposable income,US Dollar,15240
+ISL,Iceland,Household net adjusted disposable income,US Dollar,22415
+IRL,Ireland,Household net adjusted disposable income,US Dollar,23721
+ITA,Italy,Household net adjusted disposable income,US Dollar,24724
+JPN,Japan,Household net adjusted disposable income,US Dollar,25066
+KOR,Korea,Household net adjusted disposable income,US Dollar,18035
+LUX,Luxembourg,Household net adjusted disposable income,US Dollar,35635
+MEX,Mexico,Household net adjusted disposable income,US Dollar,12850
+NLD,Netherlands,Household net adjusted disposable income,US Dollar,25697
+NZL,New Zealand,Household net adjusted disposable income,US Dollar,21773
+NOR,Norway,Household net adjusted disposable income,US Dollar,32093
+POL,Poland,Household net adjusted disposable income,US Dollar,16234
+PRT,Portugal,Household net adjusted disposable income,US Dollar,18806
+SVK,Slovak Republic,Household net adjusted disposable income,US Dollar,17228
+ESP,Spain,Household net adjusted disposable income,US Dollar,22799
+SWE,Sweden,Household net adjusted disposable income,US Dollar,27546
+CHE,Switzerland,Household net adjusted disposable income,US Dollar,30745
+TUR,Turkey,Household net adjusted disposable income,US Dollar,13794
+GBR,United Kingdom,Household net adjusted disposable income,US Dollar,25828
+USA,United States,Household net adjusted disposable income,US Dollar,39531
+BRA,Brazil,Household net adjusted disposable income,US Dollar,10310
+CHL,Chile,Household net adjusted disposable income,US Dollar,13762
+EST,Estonia,Household net adjusted disposable income,US Dollar,14382
+ISR,Israel,Household net adjusted disposable income,US Dollar,20434
+RUS,Russia,Household net adjusted disposable income,US Dollar,17230
+SVN,Slovenia,Household net adjusted disposable income,US Dollar,19692
+AUS,Australia,Household net adjusted disposable income,US Dollar,63087
+AUT,Austria,Household net adjusted disposable income,US Dollar,52736
+BEL,Belgium,Household net adjusted disposable income,US Dollar,48785
+CAN,Canada,Household net adjusted disposable income,US Dollar,59707
+CZE,Czech Republic,Household net adjusted disposable income,US Dollar,30777
+DNK,Denmark,Household net adjusted disposable income,US Dollar,43644
+FIN,Finland,Household net adjusted disposable income,US Dollar,47029
+FRA,France,Household net adjusted disposable income,US Dollar,57460
+DEU,Germany,Household net adjusted disposable income,US Dollar,57580
+GRC,Greece,Household net adjusted disposable income,US Dollar,38487
+HUN,Hungary,Household net adjusted disposable income,US Dollar,27926
+ISL,Iceland,Household net adjusted disposable income,US Dollar,38385
+IRL,Ireland,Household net adjusted disposable income,US Dollar,48345
+ITA,Italy,Household net adjusted disposable income,US Dollar,48444
+JPN,Japan,Household net adjusted disposable income,US Dollar,50150
+KOR,Korea,Household net adjusted disposable income,US Dollar,34184
+LUX,Luxembourg,Household net adjusted disposable income,US Dollar,64203
+MEX,Mexico,Household net adjusted disposable income,US Dollar,33060
+NLD,Netherlands,Household net adjusted disposable income,US Dollar,48498
+NZL,New Zealand,Household net adjusted disposable income,US Dollar,43261
+NOR,Norway,Household net adjusted disposable income,US Dollar,54999
+POL,Poland,Household net adjusted disposable income,US Dollar,31305
+PRT,Portugal,Household net adjusted disposable income,US Dollar,39702
+SVK,Slovak Republic,Household net adjusted disposable income,US Dollar,30595
+ESP,Spain,Household net adjusted disposable income,US Dollar,45165
+SWE,Sweden,Household net adjusted disposable income,US Dollar,49009
+CHE,Switzerland,Household net adjusted disposable income,US Dollar,58794
+TUR,Turkey,Household net adjusted disposable income,US Dollar,32578
+GBR,United Kingdom,Household net adjusted disposable income,US Dollar,53785
+USA,United States,Household net adjusted disposable income,US Dollar,85996
+BRA,Brazil,Household net adjusted disposable income,US Dollar,28423
+CHL,Chile,Household net adjusted disposable income,US Dollar,38697
+EST,Estonia,Household net adjusted disposable income,US Dollar,28006
+ISR,Israel,Household net adjusted disposable income,US Dollar,43562
+RUS,Russia,Household net adjusted disposable income,US Dollar,33860
+SVN,Slovenia,Household net adjusted disposable income,US Dollar,33405
+AUS,Australia,Household net adjusted disposable income,US Dollar,11150
+AUT,Austria,Household net adjusted disposable income,US Dollar,13287
+BEL,Belgium,Household net adjusted disposable income,US Dollar,12350
+CAN,Canada,Household net adjusted disposable income,US Dollar,11280
+CZE,Czech Republic,Household net adjusted disposable income,US Dollar,8376
+DNK,Denmark,Household net adjusted disposable income,US Dollar,12183
+FIN,Finland,Household net adjusted disposable income,US Dollar,12790
+FRA,France,Household net adjusted disposable income,US Dollar,12653
+DEU,Germany,Household net adjusted disposable income,US Dollar,13381
+GRC,Greece,Household net adjusted disposable income,US Dollar,6378
+HUN,Hungary,Household net adjusted disposable income,US Dollar,6899
+ISL,Iceland,Household net adjusted disposable income,US Dollar,10892
+IRL,Ireland,Household net adjusted disposable income,US Dollar,9023
+ITA,Italy,Household net adjusted disposable income,US Dollar,8616
+JPN,Japan,Household net adjusted disposable income,US Dollar,8105
+KOR,Korea,Household net adjusted disposable income,US Dollar,5969
+LUX,Luxembourg,Household net adjusted disposable income,US Dollar,16191
+MEX,Mexico,Household net adjusted disposable income,US Dollar,2594
+NLD,Netherlands,Household net adjusted disposable income,US Dollar,11274
+NZL,New Zealand,Household net adjusted disposable income,US Dollar,8481
+NOR,Norway,Household net adjusted disposable income,US Dollar,14916
+POL,Poland,Household net adjusted disposable income,US Dollar,6403
+PRT,Portugal,Household net adjusted disposable income,US Dollar,6870
+SVK,Slovak Republic,Household net adjusted disposable income,US Dollar,7830
+ESP,Spain,Household net adjusted disposable income,US Dollar,7144
+SWE,Sweden,Household net adjusted disposable income,US Dollar,12101
+CHE,Switzerland,Household net adjusted disposable income,US Dollar,12880
+TUR,Turkey,Household net adjusted disposable income,US Dollar,3891
+GBR,United Kingdom,Household net adjusted disposable income,US Dollar,9530
+USA,United States,Household net adjusted disposable income,US Dollar,10854
+BRA,Brazil,Household net adjusted disposable income,US Dollar,2129
+CHL,Chile,Household net adjusted disposable income,US Dollar,2983
+EST,Estonia,Household net adjusted disposable income,US Dollar,5287
+ISR,Israel,Household net adjusted disposable income,US Dollar,5597
+RUS,Russia,Household net adjusted disposable income,US Dollar,5735
+SVN,Slovenia,Household net adjusted disposable income,US Dollar,9138
+AUS,Australia,Household net financial wealth,US Dollar,38482
+AUT,Austria,Household net financial wealth,US Dollar,48125
+BEL,Belgium,Household net financial wealth,US Dollar,78368
+CAN,Canada,Household net financial wealth,US Dollar,63261
+CZE,Czech Republic,Household net financial wealth,US Dollar,17875
+DNK,Denmark,Household net financial wealth,US Dollar,39951
+FIN,Finland,Household net financial wealth,US Dollar,20190
+FRA,France,Household net financial wealth,US Dollar,47668
+DEU,Germany,Household net financial wealth,US Dollar,49484
+GRC,Greece,Household net financial wealth,US Dollar,14004
+HUN,Hungary,Household net financial wealth,US Dollar,13652
+ISL,Iceland,Household net financial wealth,US Dollar,43045
+IRL,Ireland,Household net financial wealth,US Dollar,28099
+ITA,Italy,Household net financial wealth,US Dollar,54147
+JPN,Japan,Household net financial wealth,US Dollar,85309
+KOR,Korea,Household net financial wealth,US Dollar,28290
+LUX,Luxembourg,Household net financial wealth,US Dollar,57159
+MEX,Mexico,Household net financial wealth,US Dollar,10449
+NLD,Netherlands,Household net financial wealth,US Dollar,71073
+NZL,New Zealand,Household net financial wealth,US Dollar,7480
+NOR,Norway,Household net financial wealth,US Dollar,8365
+POL,Poland,Household net financial wealth,US Dollar,10406
+PRT,Portugal,Household net financial wealth,US Dollar,29640
+SVK,Slovak Republic,Household net financial wealth,US Dollar,9651
+ESP,Spain,Household net financial wealth,US Dollar,23920
+SWE,Sweden,Household net financial wealth,US Dollar,55301
+CHE,Switzerland,Household net financial wealth,US Dollar,100812
+TUR,Turkey,Household net financial wealth,US Dollar,3317
+GBR,United Kingdom,Household net financial wealth,US Dollar,60065
+USA,United States,Household net financial wealth,US Dollar,132822
+BRA,Brazil,Household net financial wealth,US Dollar,6875
+CHL,Chile,Household net financial wealth,US Dollar,18141
+EST,Estonia,Household net financial wealth,US Dollar,7843
+ISR,Israel,Household net financial wealth,US Dollar,55932
+RUS,Russia,Household net financial wealth,US Dollar,3331
+SVN,Slovenia,Household net financial wealth,US Dollar,18912
+AUS,Australia,Household net financial wealth,US Dollar,38482
+AUT,Austria,Household net financial wealth,US Dollar,48125
+BEL,Belgium,Household net financial wealth,US Dollar,78368
+CAN,Canada,Household net financial wealth,US Dollar,63261
+CZE,Czech Republic,Household net financial wealth,US Dollar,17875
+DNK,Denmark,Household net financial wealth,US Dollar,39951
+FIN,Finland,Household net financial wealth,US Dollar,20190
+FRA,France,Household net financial wealth,US Dollar,47668
+DEU,Germany,Household net financial wealth,US Dollar,49484
+GRC,Greece,Household net financial wealth,US Dollar,14004
+HUN,Hungary,Household net financial wealth,US Dollar,13652
+ISL,Iceland,Household net financial wealth,US Dollar,43045
+IRL,Ireland,Household net financial wealth,US Dollar,28099
+ITA,Italy,Household net financial wealth,US Dollar,54147
+JPN,Japan,Household net financial wealth,US Dollar,85309
+KOR,Korea,Household net financial wealth,US Dollar,28290
+LUX,Luxembourg,Household net financial wealth,US Dollar,57159
+MEX,Mexico,Household net financial wealth,US Dollar,10449
+NLD,Netherlands,Household net financial wealth,US Dollar,71073
+NZL,New Zealand,Household net financial wealth,US Dollar,7480
+NOR,Norway,Household net financial wealth,US Dollar,8365
+POL,Poland,Household net financial wealth,US Dollar,10406
+PRT,Portugal,Household net financial wealth,US Dollar,29640
+SVK,Slovak Republic,Household net financial wealth,US Dollar,9651
+ESP,Spain,Household net financial wealth,US Dollar,23920
+SWE,Sweden,Household net financial wealth,US Dollar,55301
+CHE,Switzerland,Household net financial wealth,US Dollar,100812
+TUR,Turkey,Household net financial wealth,US Dollar,3317
+GBR,United Kingdom,Household net financial wealth,US Dollar,60065
+USA,United States,Household net financial wealth,US Dollar,132822
+BRA,Brazil,Household net financial wealth,US Dollar,6875
+CHL,Chile,Household net financial wealth,US Dollar,18141
+EST,Estonia,Household net financial wealth,US Dollar,7843
+ISR,Israel,Household net financial wealth,US Dollar,55932
+RUS,Russia,Household net financial wealth,US Dollar,3331
+SVN,Slovenia,Household net financial wealth,US Dollar,18912
+AUS,Australia,Household net financial wealth,US Dollar,38482
+AUT,Austria,Household net financial wealth,US Dollar,48125
+BEL,Belgium,Household net financial wealth,US Dollar,78368
+CAN,Canada,Household net financial wealth,US Dollar,63261
+CZE,Czech Republic,Household net financial wealth,US Dollar,17875
+DNK,Denmark,Household net financial wealth,US Dollar,39951
+FIN,Finland,Household net financial wealth,US Dollar,20190
+FRA,France,Household net financial wealth,US Dollar,47668
+DEU,Germany,Household net financial wealth,US Dollar,49484
+GRC,Greece,Household net financial wealth,US Dollar,14004
+HUN,Hungary,Household net financial wealth,US Dollar,13652
+ISL,Iceland,Household net financial wealth,US Dollar,43045
+IRL,Ireland,Household net financial wealth,US Dollar,28099
+ITA,Italy,Household net financial wealth,US Dollar,54147
+JPN,Japan,Household net financial wealth,US Dollar,85309
+KOR,Korea,Household net financial wealth,US Dollar,28290
+LUX,Luxembourg,Household net financial wealth,US Dollar,57159
+MEX,Mexico,Household net financial wealth,US Dollar,10449
+NLD,Netherlands,Household net financial wealth,US Dollar,71073
+NZL,New Zealand,Household net financial wealth,US Dollar,7480
+NOR,Norway,Household net financial wealth,US Dollar,8365
+POL,Poland,Household net financial wealth,US Dollar,10406
+PRT,Portugal,Household net financial wealth,US Dollar,29640
+SVK,Slovak Republic,Household net financial wealth,US Dollar,9651
+ESP,Spain,Household net financial wealth,US Dollar,23920
+SWE,Sweden,Household net financial wealth,US Dollar,55301
+CHE,Switzerland,Household net financial wealth,US Dollar,100812
+TUR,Turkey,Household net financial wealth,US Dollar,3317
+GBR,United Kingdom,Household net financial wealth,US Dollar,60065
+USA,United States,Household net financial wealth,US Dollar,132822
+BRA,Brazil,Household net financial wealth,US Dollar,6875
+CHL,Chile,Household net financial wealth,US Dollar,18141
+EST,Estonia,Household net financial wealth,US Dollar,7843
+ISR,Israel,Household net financial wealth,US Dollar,55932
+RUS,Russia,Household net financial wealth,US Dollar,3331
+SVN,Slovenia,Household net financial wealth,US Dollar,18912
+AUS,Australia,Employment rate,Percentage,72
+AUT,Austria,Employment rate,Percentage,73
+BEL,Belgium,Employment rate,Percentage,62
+CAN,Canada,Employment rate,Percentage,72
+CZE,Czech Republic,Employment rate,Percentage,67
+DNK,Denmark,Employment rate,Percentage,73
+FIN,Finland,Employment rate,Percentage,70
+FRA,France,Employment rate,Percentage,64
+DEU,Germany,Employment rate,Percentage,73
+GRC,Greece,Employment rate,Percentage,51
+HUN,Hungary,Employment rate,Percentage,57
+ISL,Iceland,Employment rate,Percentage,80
+IRL,Ireland,Employment rate,Percentage,59
+ITA,Italy,Employment rate,Percentage,58
+JPN,Japan,Employment rate,Percentage,71
+KOR,Korea,Employment rate,Percentage,64
+LUX,Luxembourg,Employment rate,Percentage,66
+MEX,Mexico,Employment rate,Percentage,61
+NLD,Netherlands,Employment rate,Percentage,75
+NZL,New Zealand,Employment rate,Percentage,72
+NOR,Norway,Employment rate,Percentage,76
+POL,Poland,Employment rate,Percentage,60
+PRT,Portugal,Employment rate,Percentage,62
+SVK,Slovak Republic,Employment rate,Percentage,60
+ESP,Spain,Employment rate,Percentage,56
+SWE,Sweden,Employment rate,Percentage,74
+CHE,Switzerland,Employment rate,Percentage,79
+TUR,Turkey,Employment rate,Percentage,49
+GBR,United Kingdom,Employment rate,Percentage,71
+USA,United States,Employment rate,Percentage,67
+BRA,Brazil,Employment rate,Percentage,67
+CHL,Chile,Employment rate,Percentage,62
+EST,Estonia,Employment rate,Percentage,67
+ISR,Israel,Employment rate,Percentage,67
+RUS,Russia,Employment rate,Percentage,69
+SVN,Slovenia,Employment rate,Percentage,64
+AUS,Australia,Employment rate,Percentage,78
+AUT,Austria,Employment rate,Percentage,78
+BEL,Belgium,Employment rate,Percentage,67
+CAN,Canada,Employment rate,Percentage,75
+CZE,Czech Republic,Employment rate,Percentage,75
+DNK,Denmark,Employment rate,Percentage,75
+FIN,Finland,Employment rate,Percentage,71
+FRA,France,Employment rate,Percentage,68
+DEU,Germany,Employment rate,Percentage,78
+GRC,Greece,Employment rate,Percentage,61
+HUN,Hungary,Employment rate,Percentage,63
+ISL,Iceland,Employment rate,Percentage,82
+IRL,Ireland,Employment rate,Percentage,62
+ITA,Italy,Employment rate,Percentage,68
+JPN,Japan,Employment rate,Percentage,80
+KOR,Korea,Employment rate,Percentage,75
+LUX,Luxembourg,Employment rate,Percentage,72
+MEX,Mexico,Employment rate,Percentage,79
+NLD,Netherlands,Employment rate,Percentage,80
+NZL,New Zealand,Employment rate,Percentage,78
+NOR,Norway,Employment rate,Percentage,78
+POL,Poland,Employment rate,Percentage,66
+PRT,Portugal,Employment rate,Percentage,65
+SVK,Slovak Republic,Employment rate,Percentage,67
+ESP,Spain,Employment rate,Percentage,61
+SWE,Sweden,Employment rate,Percentage,76
+CHE,Switzerland,Employment rate,Percentage,85
+TUR,Turkey,Employment rate,Percentage,69
+GBR,United Kingdom,Employment rate,Percentage,76
+USA,United States,Employment rate,Percentage,72
+BRA,Brazil,Employment rate,Percentage,79
+CHL,Chile,Employment rate,Percentage,74
+EST,Estonia,Employment rate,Percentage,70
+ISR,Israel,Employment rate,Percentage,71
+RUS,Russia,Employment rate,Percentage,74
+SVN,Slovenia,Employment rate,Percentage,67
+AUS,Australia,Employment rate,Percentage,67
+AUT,Austria,Employment rate,Percentage,67
+BEL,Belgium,Employment rate,Percentage,57
+CAN,Canada,Employment rate,Percentage,69
+CZE,Czech Republic,Employment rate,Percentage,58
+DNK,Denmark,Employment rate,Percentage,70
+FIN,Finland,Employment rate,Percentage,68
+FRA,France,Employment rate,Percentage,60
+DEU,Germany,Employment rate,Percentage,68
+GRC,Greece,Employment rate,Percentage,42
+HUN,Hungary,Employment rate,Percentage,52
+ISL,Iceland,Employment rate,Percentage,79
+IRL,Ireland,Employment rate,Percentage,55
+ITA,Italy,Employment rate,Percentage,48
+JPN,Japan,Employment rate,Percentage,61
+KOR,Korea,Employment rate,Percentage,53
+LUX,Luxembourg,Employment rate,Percentage,59
+MEX,Mexico,Employment rate,Percentage,45
+NLD,Netherlands,Employment rate,Percentage,70
+NZL,New Zealand,Employment rate,Percentage,67
+NOR,Norway,Employment rate,Percentage,74
+POL,Poland,Employment rate,Percentage,53
+PRT,Portugal,Employment rate,Percentage,59
+SVK,Slovak Republic,Employment rate,Percentage,53
+ESP,Spain,Employment rate,Percentage,51
+SWE,Sweden,Employment rate,Percentage,72
+CHE,Switzerland,Employment rate,Percentage,74
+TUR,Turkey,Employment rate,Percentage,29
+GBR,United Kingdom,Employment rate,Percentage,66
+USA,United States,Employment rate,Percentage,62
+BRA,Brazil,Employment rate,Percentage,55
+CHL,Chile,Employment rate,Percentage,50
+EST,Estonia,Employment rate,Percentage,65
+ISR,Israel,Employment rate,Percentage,62
+RUS,Russia,Employment rate,Percentage,65
+SVN,Slovenia,Employment rate,Percentage,61
+AUS,Australia,Employment rate,Percentage,83
+AUT,Austria,Employment rate,Percentage,86
+BEL,Belgium,Employment rate,Percentage,82
+CAN,Canada,Employment rate,Percentage,81
+CZE,Czech Republic,Employment rate,Percentage,82
+DNK,Denmark,Employment rate,Percentage,85
+FIN,Finland,Employment rate,Percentage,85
+FRA,France,Employment rate,Percentage,81
+DEU,Germany,Employment rate,Percentage,88
+GRC,Greece,Employment rate,Percentage,68
+HUN,Hungary,Employment rate,Percentage,80
+ISL,Iceland,Employment rate,Percentage,90
+IRL,Ireland,Employment rate,Percentage,79
+ITA,Italy,Employment rate,Percentage,77
+JPN,Japan,Employment rate,Percentage,81
+KOR,Korea,Employment rate,Percentage,77
+LUX,Luxembourg,Employment rate,Percentage,85
+MEX,Mexico,Employment rate,Percentage,71
+NLD,Netherlands,Employment rate,Percentage,87
+NZL,New Zealand,Employment rate,Percentage,83
+NOR,Norway,Employment rate,Percentage,90
+POL,Poland,Employment rate,Percentage,83
+PRT,Portugal,Employment rate,Percentage,78
+SVK,Slovak Republic,Employment rate,Percentage,77
+ESP,Spain,Employment rate,Percentage,74
+SWE,Sweden,Employment rate,Percentage,88
+CHE,Switzerland,Employment rate,Percentage,88
+TUR,Turkey,Employment rate,Percentage,73
+GBR,United Kingdom,Employment rate,Percentage,83
+USA,United States,Employment rate,Percentage,80
+BRA,Brazil,Employment rate,Percentage,84
+CHL,Chile,Employment rate,Percentage,70
+EST,Estonia,Employment rate,Percentage,82
+ISR,Israel,Employment rate,Percentage,89
+RUS,Russia,Employment rate,Percentage,83
+SVN,Slovenia,Employment rate,Percentage,85
+AUS,Australia,Employment rate,Percentage,59
+AUT,Austria,Employment rate,Percentage,50
+BEL,Belgium,Employment rate,Percentage,38
+CAN,Canada,Employment rate,Percentage,47
+CZE,Czech Republic,Employment rate,Percentage,22
+DNK,Denmark,Employment rate,Percentage,57
+FIN,Finland,Employment rate,Percentage,41
+FRA,France,Employment rate,Percentage,45
+DEU,Germany,Employment rate,Percentage,46
+GRC,Greece,Employment rate,Percentage,41
+HUN,Hungary,Employment rate,Percentage,26
+ISL,Iceland,Employment rate,Percentage,70
+IRL,Ireland,Employment rate,Percentage,35
+ITA,Italy,Employment rate,Percentage,44
+JPN,Japan,Employment rate,Percentage,69
+KOR,Korea,Employment rate,Percentage,45
+LUX,Luxembourg,Employment rate,Percentage,45
+MEX,Mexico,Employment rate,Percentage,59
+NLD,Netherlands,Employment rate,Percentage,60
+NZL,New Zealand,Employment rate,Percentage,57
+NOR,Norway,Employment rate,Percentage,62
+POL,Poland,Employment rate,Percentage,24
+PRT,Portugal,Employment rate,Percentage,57
+SVK,Slovak Republic,Employment rate,Percentage,15
+ESP,Spain,Employment rate,Percentage,49
+SWE,Sweden,Employment rate,Percentage,49
+CHE,Switzerland,Employment rate,Percentage,45
+TUR,Turkey,Employment rate,Percentage,46
+GBR,United Kingdom,Employment rate,Percentage,55
+USA,United States,Employment rate,Percentage,34
+BRA,Brazil,Employment rate,Percentage,60
+CHL,Chile,Employment rate,Percentage,58
+EST,Estonia,Employment rate,Percentage,32
+ISR,Israel,Employment rate,Percentage,33
+RUS,Russia,Employment rate,Percentage,28
+SVN,Slovenia,Employment rate,Percentage,35
+AUS,Australia,Job security,Percentage,4.4
+AUT,Austria,Job security,Percentage,3.4
+BEL,Belgium,Job security,Percentage,4.5
+CAN,Canada,Job security,Percentage,6.6
+CZE,Czech Republic,Job security,Percentage,4.2
+DNK,Denmark,Job security,Percentage,5.8
+FIN,Finland,Job security,Percentage,6.4
+FRA,France,Job security,Percentage,6.5
+DEU,Germany,Job security,Percentage,3.2
+GRC,Greece,Job security,Percentage,12
+HUN,Hungary,Job security,Percentage,6.7
+ISL,Iceland,Job security,Percentage,4.3
+IRL,Ireland,Job security,Percentage,6.4
+ITA,Italy,Job security,Percentage,5.5
+JPN,Japan,Job security,Percentage,2.9
+KOR,Korea,Job security,Percentage,3
+LUX,Luxembourg,Job security,Percentage,4
+MEX,Mexico,Job security,Percentage,4.7
+NLD,Netherlands,Job security,Percentage,3.6
+NZL,New Zealand,Job security,Percentage,5.8
+NOR,Norway,Job security,Percentage,2.9
+POL,Poland,Job security,Percentage,7.3
+PRT,Portugal,Job security,Percentage,9.1
+SVK,Slovak Republic,Job security,Percentage,5.8
+ESP,Spain,Job security,Percentage,17.7
+SWE,Sweden,Job security,Percentage,6.5
+CHE,Switzerland,Job security,Percentage,2.8
+TUR,Turkey,Job security,Percentage,7.8
+GBR,United Kingdom,Job security,Percentage,5.6
+USA,United States,Job security,Percentage,6.3
+BRA,Brazil,Job security,Percentage,4.8
+CHL,Chile,Job security,Percentage,4.7
+EST,Estonia,Job security,Percentage,5.3
+ISR,Israel,Job security,Percentage,6.5
+RUS,Russia,Job security,Percentage,4
+SVN,Slovenia,Job security,Percentage,5
+AUS,Australia,Job security,Percentage,4.3
+AUT,Austria,Job security,Percentage,3.4
+BEL,Belgium,Job security,Percentage,4.5
+CAN,Canada,Job security,Percentage,7
+CZE,Czech Republic,Job security,Percentage,3.6
+DNK,Denmark,Job security,Percentage,5.8
+FIN,Finland,Job security,Percentage,6.5
+FRA,France,Job security,Percentage,6.3
+DEU,Germany,Job security,Percentage,3.2
+GRC,Greece,Job security,Percentage,10.8
+HUN,Hungary,Job security,Percentage,6.8
+ISL,Iceland,Job security,Percentage,4.6
+IRL,Ireland,Job security,Percentage,6.7
+ITA,Italy,Job security,Percentage,5.2
+JPN,Japan,Job security,Percentage,2.6
+KOR,Korea,Job security,Percentage,3.1
+LUX,Luxembourg,Job security,Percentage,3.5
+MEX,Mexico,Job security,Percentage,4.6
+NLD,Netherlands,Job security,Percentage,3.6
+NZL,New Zealand,Job security,Percentage,5.3
+NOR,Norway,Job security,Percentage,3.3
+POL,Poland,Job security,Percentage,6.9
+PRT,Portugal,Job security,Percentage,9
+SVK,Slovak Republic,Job security,Percentage,5.4
+ESP,Spain,Job security,Percentage,17.5
+SWE,Sweden,Job security,Percentage,6.6
+CHE,Switzerland,Job security,Percentage,2.7
+TUR,Turkey,Job security,Percentage,7.5
+GBR,United Kingdom,Job security,Percentage,5.6
+USA,United States,Job security,Percentage,6.4
+BRA,Brazil,Job security,Percentage,3.8
+CHL,Chile,Job security,Percentage,4.1
+EST,Estonia,Job security,Percentage,5.7
+ISR,Israel,Job security,Percentage,6.4
+RUS,Russia,Job security,Percentage,4.4
+SVN,Slovenia,Job security,Percentage,4.6
+AUS,Australia,Job security,Percentage,4.6
+AUT,Austria,Job security,Percentage,3.5
+BEL,Belgium,Job security,Percentage,4.6
+CAN,Canada,Job security,Percentage,6.1
+CZE,Czech Republic,Job security,Percentage,4.9
+DNK,Denmark,Job security,Percentage,5.9
+FIN,Finland,Job security,Percentage,6.2
+FRA,France,Job security,Percentage,6.7
+DEU,Germany,Job security,Percentage,3.1
+GRC,Greece,Job security,Percentage,13.7
+HUN,Hungary,Job security,Percentage,6.6
+ISL,Iceland,Job security,Percentage,3.9
+IRL,Ireland,Job security,Percentage,6.2
+ITA,Italy,Job security,Percentage,6.1
+JPN,Japan,Job security,Percentage,3.2
+KOR,Korea,Job security,Percentage,2.9
+LUX,Luxembourg,Job security,Percentage,4.6
+MEX,Mexico,Job security,Percentage,4.8
+NLD,Netherlands,Job security,Percentage,3.6
+NZL,New Zealand,Job security,Percentage,6.3
+NOR,Norway,Job security,Percentage,2.4
+POL,Poland,Job security,Percentage,7.9
+PRT,Portugal,Job security,Percentage,9.2
+SVK,Slovak Republic,Job security,Percentage,6.3
+ESP,Spain,Job security,Percentage,17.9
+SWE,Sweden,Job security,Percentage,6.4
+CHE,Switzerland,Job security,Percentage,2.9
+TUR,Turkey,Job security,Percentage,8.6
+GBR,United Kingdom,Job security,Percentage,5.6
+USA,United States,Job security,Percentage,6.2
+BRA,Brazil,Job security,Percentage,4.8
+CHL,Chile,Job security,Percentage,5.3
+EST,Estonia,Job security,Percentage,4.9
+ISR,Israel,Job security,Percentage,6.7
+RUS,Russia,Job security,Percentage,3.7
+SVN,Slovenia,Job security,Percentage,5.4
+AUS,Australia,Long-term unemployment rate,Percentage,1.06
+AUT,Austria,Long-term unemployment rate,Percentage,1.07
+BEL,Belgium,Long-term unemployment rate,Percentage,3.37
+CAN,Canada,Long-term unemployment rate,Percentage,0.9
+CZE,Czech Republic,Long-term unemployment rate,Percentage,3.03
+DNK,Denmark,Long-term unemployment rate,Percentage,2.11
+FIN,Finland,Long-term unemployment rate,Percentage,1.65
+FRA,France,Long-term unemployment rate,Percentage,3.98
+DEU,Germany,Long-term unemployment rate,Percentage,2.52
+GRC,Greece,Long-term unemployment rate,Percentage,14.37
+HUN,Hungary,Long-term unemployment rate,Percentage,5.05
+ISL,Iceland,Long-term unemployment rate,Percentage,1.68
+IRL,Ireland,Long-term unemployment rate,Percentage,9.24
+ITA,Italy,Long-term unemployment rate,Percentage,5.67
+JPN,Japan,Long-term unemployment rate,Percentage,1.67
+KOR,Korea,Long-term unemployment rate,Percentage,0.01
+LUX,Luxembourg,Long-term unemployment rate,Percentage,1.56
+MEX,Mexico,Long-term unemployment rate,Percentage,0.09
+NLD,Netherlands,Long-term unemployment rate,Percentage,1.78
+NZL,New Zealand,Long-term unemployment rate,Percentage,0.91
+NOR,Norway,Long-term unemployment rate,Percentage,0.28
+POL,Poland,Long-term unemployment rate,Percentage,3.51
+PRT,Portugal,Long-term unemployment rate,Percentage,7.62
+SVK,Slovak Republic,Long-term unemployment rate,Percentage,8.89
+ESP,Spain,Long-term unemployment rate,Percentage,11.13
+SWE,Sweden,Long-term unemployment rate,Percentage,1.4
+CHE,Switzerland,Long-term unemployment rate,Percentage,1.48
+TUR,Turkey,Long-term unemployment rate,Percentage,2.29
+GBR,United Kingdom,Long-term unemployment rate,Percentage,2.75
+USA,United States,Long-term unemployment rate,Percentage,2.36
+BRA,Brazil,Long-term unemployment rate,Percentage,2.17
+CHL,Chile,Long-term unemployment rate,Percentage,2.01
+EST,Estonia,Long-term unemployment rate,Percentage,5.46
+ISR,Israel,Long-term unemployment rate,Percentage,0.91
+RUS,Russia,Long-term unemployment rate,Percentage,1.69
+SVN,Slovenia,Long-term unemployment rate,Percentage,4.23
+AUS,Australia,Long-term unemployment rate,Percentage,1.09
+AUT,Austria,Long-term unemployment rate,Percentage,1.11
+BEL,Belgium,Long-term unemployment rate,Percentage,3.52
+CAN,Canada,Long-term unemployment rate,Percentage,0.98
+CZE,Czech Republic,Long-term unemployment rate,Percentage,2.51
+DNK,Denmark,Long-term unemployment rate,Percentage,2.14
+FIN,Finland,Long-term unemployment rate,Percentage,2.06
+FRA,France,Long-term unemployment rate,Percentage,4
+DEU,Germany,Long-term unemployment rate,Percentage,2.71
+GRC,Greece,Long-term unemployment rate,Percentage,12.1
+HUN,Hungary,Long-term unemployment rate,Percentage,5.23
+ISL,Iceland,Long-term unemployment rate,Percentage,1.75
+IRL,Ireland,Long-term unemployment rate,Percentage,12.37
+ITA,Italy,Long-term unemployment rate,Percentage,5.08
+JPN,Japan,Long-term unemployment rate,Percentage,2.11
+KOR,Korea,Long-term unemployment rate,Percentage,0.01
+LUX,Luxembourg,Long-term unemployment rate,Percentage,1.3
+MEX,Mexico,Long-term unemployment rate,Percentage,0.08
+NLD,Netherlands,Long-term unemployment rate,Percentage,1.84
+NZL,New Zealand,Long-term unemployment rate,Percentage,0.92
+NOR,Norway,Long-term unemployment rate,Percentage,0.34
+POL,Poland,Long-term unemployment rate,Percentage,3.2
+PRT,Portugal,Long-term unemployment rate,Percentage,7.66
+SVK,Slovak Republic,Long-term unemployment rate,Percentage,8.8
+ESP,Spain,Long-term unemployment rate,Percentage,10.76
+SWE,Sweden,Long-term unemployment rate,Percentage,1.58
+CHE,Switzerland,Long-term unemployment rate,Percentage,1.32
+TUR,Turkey,Long-term unemployment rate,Percentage,1.81
+GBR,United Kingdom,Long-term unemployment rate,Percentage,3.2
+USA,United States,Long-term unemployment rate,Percentage,2.44
+BRA,Brazil,Long-term unemployment rate,Percentage,2.18
+CHL,Chile,Long-term unemployment rate,Percentage,2.02
+EST,Estonia,Long-term unemployment rate,Percentage,6.02
+ISR,Israel,Long-term unemployment rate,Percentage,0.9
+RUS,Russia,Long-term unemployment rate,Percentage,1.76
+SVN,Slovenia,Long-term unemployment rate,Percentage,4.09
+AUS,Australia,Long-term unemployment rate,Percentage,1.024861
+AUT,Austria,Long-term unemployment rate,Percentage,1.021201
+BEL,Belgium,Long-term unemployment rate,Percentage,3.190288
+CAN,Canada,Long-term unemployment rate,Percentage,0.826211
+CZE,Czech Republic,Long-term unemployment rate,Percentage,3.691716
+DNK,Denmark,Long-term unemployment rate,Percentage,2.07828
+FIN,Finland,Long-term unemployment rate,Percentage,1.200141
+FRA,France,Long-term unemployment rate,Percentage,3.951675
+DEU,Germany,Long-term unemployment rate,Percentage,2.306091
+GRC,Greece,Long-term unemployment rate,Percentage,17.42861
+HUN,Hungary,Long-term unemployment rate,Percentage,4.846185
+ISL,Iceland,Long-term unemployment rate,Percentage,1.614746
+IRL,Ireland,Long-term unemployment rate,Percentage,5.393908
+ITA,Italy,Long-term unemployment rate,Percentage,6.490257
+JPN,Japan,Long-term unemployment rate,Percentage,1.077302
+KOR,Korea,Long-term unemployment rate,Percentage,0.010368
+LUX,Luxembourg,Long-term unemployment rate,Percentage,1.875709
+MEX,Mexico,Long-term unemployment rate,Percentage,0.108317
+NLD,Netherlands,Long-term unemployment rate,Percentage,1.702632
+NZL,New Zealand,Long-term unemployment rate,Percentage,0.905021
+NOR,Norway,Long-term unemployment rate,Percentage,0.206034
+POL,Poland,Long-term unemployment rate,Percentage,3.880038
+PRT,Portugal,Long-term unemployment rate,Percentage,7.584437
+SVK,Slovak Republic,Long-term unemployment rate,Percentage,9.010596
+ESP,Spain,Long-term unemployment rate,Percentage,11.56583
+SWE,Sweden,Long-term unemployment rate,Percentage,1.188768
+CHE,Switzerland,Long-term unemployment rate,Percentage,1.66776
+TUR,Turkey,Long-term unemployment rate,Percentage,3.433646
+GBR,United Kingdom,Long-term unemployment rate,Percentage,2.221508
+USA,United States,Long-term unemployment rate,Percentage,2.280097
+BRA,Brazil,Long-term unemployment rate,Percentage,2.094624
+CHL,Chile,Long-term unemployment rate,Percentage,1.938295
+EST,Estonia,Long-term unemployment rate,Percentage,4.901571
+ISR,Israel,Long-term unemployment rate,Percentage,0.916026
+RUS,Russia,Long-term unemployment rate,Percentage,1.613013
+SVN,Slovenia,Long-term unemployment rate,Percentage,4.40026
+AUS,Australia,Long-term unemployment rate,Percentage,0.64
+AUT,Austria,Long-term unemployment rate,Percentage,0.58
+BEL,Belgium,Long-term unemployment rate,Percentage,1.8
+CAN,Canada,Long-term unemployment rate,Percentage,0.64
+CZE,Czech Republic,Long-term unemployment rate,Percentage,1.15
+DNK,Denmark,Long-term unemployment rate,Percentage,1.46
+FIN,Finland,Long-term unemployment rate,Percentage,0.84
+FRA,France,Long-term unemployment rate,Percentage,2.34
+DEU,Germany,Long-term unemployment rate,Percentage,1.06
+GRC,Greece,Long-term unemployment rate,Percentage,11.46
+HUN,Hungary,Long-term unemployment rate,Percentage,2.08
+ISL,Iceland,Long-term unemployment rate,Percentage,1.07
+IRL,Ireland,Long-term unemployment rate,Percentage,4.89
+ITA,Italy,Long-term unemployment rate,Percentage,3.69
+JPN,Japan,Long-term unemployment rate,Percentage,1.22
+KOR,Korea,Long-term unemployment rate,Percentage,0.01
+LUX,Luxembourg,Long-term unemployment rate,Percentage,1.1
+MEX,Mexico,Long-term unemployment rate,Percentage,0.11
+NLD,Netherlands,Long-term unemployment rate,Percentage,1.13
+NZL,New Zealand,Long-term unemployment rate,Percentage,0.61
+NOR,Norway,Long-term unemployment rate,Percentage,0.12
+POL,Poland,Long-term unemployment rate,Percentage,1.93
+PRT,Portugal,Long-term unemployment rate,Percentage,5.54
+SVK,Slovak Republic,Long-term unemployment rate,Percentage,3.83
+ESP,Spain,Long-term unemployment rate,Percentage,6.5
+SWE,Sweden,Long-term unemployment rate,Percentage,0.68
+CHE,Switzerland,Long-term unemployment rate,Percentage,1
+TUR,Turkey,Long-term unemployment rate,Percentage,2.46
+GBR,United Kingdom,Long-term unemployment rate,Percentage,1.59
+USA,United States,Long-term unemployment rate,Percentage,1.36
+BRA,Brazil,Long-term unemployment rate,Percentage,1.13
+CHL,Chile,Long-term unemployment rate,Percentage,1.95
+EST,Estonia,Long-term unemployment rate,Percentage,3.61
+ISR,Israel,Long-term unemployment rate,Percentage,0.67
+RUS,Russia,Long-term unemployment rate,Percentage,1.12
+SVN,Slovenia,Long-term unemployment rate,Percentage,2.57
+AUS,Australia,Long-term unemployment rate,Percentage,1.79
+AUT,Austria,Long-term unemployment rate,Percentage,2.21
+BEL,Belgium,Long-term unemployment rate,Percentage,6.64
+CAN,Canada,Long-term unemployment rate,Percentage,1.94
+CZE,Czech Republic,Long-term unemployment rate,Percentage,11.12
+DNK,Denmark,Long-term unemployment rate,Percentage,3.22
+FIN,Finland,Long-term unemployment rate,Percentage,3.55
+FRA,France,Long-term unemployment rate,Percentage,6.58
+DEU,Germany,Long-term unemployment rate,Percentage,5.74
+GRC,Greece,Long-term unemployment rate,Percentage,14.98
+HUN,Hungary,Long-term unemployment rate,Percentage,11.53
+ISL,Iceland,Long-term unemployment rate,Percentage,2.53
+IRL,Ireland,Long-term unemployment rate,Percentage,15.28
+ITA,Italy,Long-term unemployment rate,Percentage,7.29
+JPN,Japan,Long-term unemployment rate,Percentage,2.1
+KOR,Korea,Long-term unemployment rate,Percentage,0.01
+LUX,Luxembourg,Long-term unemployment rate,Percentage,2.4
+MEX,Mexico,Long-term unemployment rate,Percentage,0.09
+NLD,Netherlands,Long-term unemployment rate,Percentage,2.75
+NZL,New Zealand,Long-term unemployment rate,Percentage,1.49
+NOR,Norway,Long-term unemployment rate,Percentage,0.58
+POL,Poland,Long-term unemployment rate,Percentage,6.97
+PRT,Portugal,Long-term unemployment rate,Percentage,8.76
+SVK,Slovak Republic,Long-term unemployment rate,Percentage,28.16
+ESP,Spain,Long-term unemployment rate,Percentage,14.47
+SWE,Sweden,Long-term unemployment rate,Percentage,3.22
+CHE,Switzerland,Long-term unemployment rate,Percentage,3.79
+TUR,Turkey,Long-term unemployment rate,Percentage,2.23
+GBR,United Kingdom,Long-term unemployment rate,Percentage,4.57
+USA,United States,Long-term unemployment rate,Percentage,5.32
+BRA,Brazil,Long-term unemployment rate,Percentage,2.8
+CHL,Chile,Long-term unemployment rate,Percentage,1.46
+EST,Estonia,Long-term unemployment rate,Percentage,12.05
+ISR,Israel,Long-term unemployment rate,Percentage,1.41
+RUS,Russia,Long-term unemployment rate,Percentage,3.9
+SVN,Slovenia,Long-term unemployment rate,Percentage,7.47
+AUS,Australia,Personal earnings,US Dollar,46585
+AUT,Austria,Personal earnings,US Dollar,43837
+BEL,Belgium,Personal earnings,US Dollar,47276
+CAN,Canada,Personal earnings,US Dollar,44017
+CZE,Czech Republic,Personal earnings,US Dollar,20645
+DNK,Denmark,Personal earnings,US Dollar,45642
+FIN,Finland,Personal earnings,US Dollar,38976
+FRA,France,Personal earnings,US Dollar,38625
+DEU,Germany,Personal earnings,US Dollar,41782
+GRC,Greece,Personal earnings,US Dollar,27434
+HUN,Hungary,Personal earnings,US Dollar,20514
+ISL,Iceland,Personal earnings,US Dollar,39433
+IRL,Ireland,Personal earnings,US Dollar,50853
+ITA,Italy,Personal earnings,US Dollar,33571
+JPN,Japan,Personal earnings,US Dollar,36039
+KOR,Korea,Personal earnings,US Dollar,34056
+LUX,Luxembourg,Personal earnings,US Dollar,52542
+MEX,Mexico,Personal earnings,US Dollar,14653
+NLD,Netherlands,Personal earnings,US Dollar,45362
+NZL,New Zealand,Personal earnings,US Dollar,31394
+NOR,Norway,Personal earnings,US Dollar,46618
+POL,Poland,Personal earnings,US Dollar,21140
+PRT,Portugal,Personal earnings,US Dollar,23419
+SVK,Slovak Republic,Personal earnings,US Dollar,20428
+ESP,Spain,Personal earnings,US Dollar,34747
+SWE,Sweden,Personal earnings,US Dollar,38789
+CHE,Switzerland,Personal earnings,US Dollar,52307
+TUR,Turkey,Personal earnings,US Dollar,17460
+GBR,United Kingdom,Personal earnings,US Dollar,40649
+USA,United States,Personal earnings,US Dollar,54214
+BRA,Brazil,Personal earnings,US Dollar,7909
+CHL,Chile,Personal earnings,US Dollar,15438
+EST,Estonia,Personal earnings,US Dollar,17488
+ISR,Israel,Personal earnings,US Dollar,27577
+RUS,Russia,Personal earnings,US Dollar,21311
+SVN,Slovenia,Personal earnings,US Dollar,33040
+AUS,Australia,Personal earnings,US Dollar,50084
+AUT,Austria,Personal earnings,US Dollar,47785
+BEL,Belgium,Personal earnings,US Dollar,48253
+CAN,Canada,Personal earnings,US Dollar,47796
+CZE,Czech Republic,Personal earnings,US Dollar,22905
+DNK,Denmark,Personal earnings,US Dollar,47967
+FIN,Finland,Personal earnings,US Dollar,43731
+FRA,France,Personal earnings,US Dollar,41915
+DEU,Germany,Personal earnings,US Dollar,44767
+GRC,Greece,Personal earnings,US Dollar,28790
+HUN,Hungary,Personal earnings,US Dollar,22280
+ISL,Iceland,Personal earnings,US Dollar,44075
+IRL,Ireland,Personal earnings,US Dollar,55238
+ITA,Italy,Personal earnings,US Dollar,35272
+JPN,Japan,Personal earnings,US Dollar,39864
+KOR,Korea,Personal earnings,US Dollar,38690
+LUX,Luxembourg,Personal earnings,US Dollar,54204
+MEX,Mexico,Personal earnings,US Dollar,15720
+NLD,Netherlands,Personal earnings,US Dollar,46907
+NZL,New Zealand,Personal earnings,US Dollar,32966
+NOR,Norway,Personal earnings,US Dollar,49921
+POL,Poland,Personal earnings,US Dollar,21462
+PRT,Portugal,Personal earnings,US Dollar,24131
+SVK,Slovak Republic,Personal earnings,US Dollar,22780
+ESP,Spain,Personal earnings,US Dollar,35884
+SWE,Sweden,Personal earnings,US Dollar,42599
+CHE,Switzerland,Personal earnings,US Dollar,56232
+TUR,Turkey,Personal earnings,US Dollar,17410
+GBR,United Kingdom,Personal earnings,US Dollar,44391
+USA,United States,Personal earnings,US Dollar,59807
+BRA,Brazil,Personal earnings,US Dollar,8477
+CHL,Chile,Personal earnings,US Dollar,16200
+EST,Estonia,Personal earnings,US Dollar,20193
+ISR,Israel,Personal earnings,US Dollar,31023
+RUS,Russia,Personal earnings,US Dollar,22877
+SVN,Slovenia,Personal earnings,US Dollar,34290
+AUS,Australia,Personal earnings,US Dollar,40338
+AUT,Austria,Personal earnings,US Dollar,36529
+BEL,Belgium,Personal earnings,US Dollar,44358
+CAN,Canada,Personal earnings,US Dollar,39474
+CZE,Czech Republic,Personal earnings,US Dollar,17831
+DNK,Denmark,Personal earnings,US Dollar,41429
+FIN,Finland,Personal earnings,US Dollar,34048
+FRA,France,Personal earnings,US Dollar,33814
+DEU,Germany,Personal earnings,US Dollar,36523
+GRC,Greece,Personal earnings,US Dollar,25596
+HUN,Hungary,Personal earnings,US Dollar,18644
+ISL,Iceland,Personal earnings,US Dollar,33823
+IRL,Ireland,Personal earnings,US Dollar,42365
+ITA,Italy,Personal earnings,US Dollar,30896
+JPN,Japan,Personal earnings,US Dollar,28158
+KOR,Korea,Personal earnings,US Dollar,24773
+LUX,Luxembourg,Personal earnings,US Dollar,46684
+MEX,Mexico,Personal earnings,US Dollar,13275
+NLD,Netherlands,Personal earnings,US Dollar,37435
+NZL,New Zealand,Personal earnings,US Dollar,29195
+NOR,Norway,Personal earnings,US Dollar,42580
+POL,Poland,Personal earnings,US Dollar,20769
+PRT,Portugal,Personal earnings,US Dollar,22615
+SVK,Slovak Republic,Personal earnings,US Dollar,17684
+ESP,Spain,Personal earnings,US Dollar,33128
+SWE,Sweden,Personal earnings,US Dollar,34027
+CHE,Switzerland,Personal earnings,US Dollar,45399
+TUR,Turkey,Personal earnings,US Dollar,16373
+GBR,United Kingdom,Personal earnings,US Dollar,34757
+USA,United States,Personal earnings,US Dollar,47156
+BRA,Brazil,Personal earnings,US Dollar,7316
+CHL,Chile,Personal earnings,US Dollar,14080
+EST,Estonia,Personal earnings,US Dollar,14264
+ISR,Israel,Personal earnings,US Dollar,22773
+RUS,Russia,Personal earnings,US Dollar,19064
+SVN,Slovenia,Personal earnings,US Dollar,30933
+AUS,Australia,Personal earnings,US Dollar,60686
+AUT,Austria,Personal earnings,US Dollar,56023
+BEL,Belgium,Personal earnings,US Dollar,57436
+CAN,Canada,Personal earnings,US Dollar,60751
+CZE,Czech Republic,Personal earnings,US Dollar,25557
+DNK,Denmark,Personal earnings,US Dollar,53798
+FIN,Finland,Personal earnings,US Dollar,48082
+FRA,France,Personal earnings,US Dollar,49091
+DEU,Germany,Personal earnings,US Dollar,53941
+GRC,Greece,Personal earnings,US Dollar,34036
+HUN,Hungary,Personal earnings,US Dollar,25820
+ISL,Iceland,Personal earnings,US Dollar,49099
+IRL,Ireland,Personal earnings,US Dollar,75064
+ITA,Italy,Personal earnings,US Dollar,40110
+JPN,Japan,Personal earnings,US Dollar,46311
+KOR,Korea,Personal earnings,US Dollar,48487
+LUX,Luxembourg,Personal earnings,US Dollar,67314
+MEX,Mexico,Personal earnings,US Dollar,18640
+NLD,Netherlands,Personal earnings,US Dollar,56879
+NZL,New Zealand,Personal earnings,US Dollar,40041
+NOR,Norway,Personal earnings,US Dollar,51634
+POL,Poland,Personal earnings,US Dollar,27498
+PRT,Portugal,Personal earnings,US Dollar,30883
+SVK,Slovak Republic,Personal earnings,US Dollar,24555
+ESP,Spain,Personal earnings,US Dollar,46387
+SWE,Sweden,Personal earnings,US Dollar,49299
+CHE,Switzerland,Personal earnings,US Dollar,60669
+TUR,Turkey,Personal earnings,US Dollar,23035
+GBR,United Kingdom,Personal earnings,US Dollar,51888
+USA,United States,Personal earnings,US Dollar,70619
+BRA,Brazil,Personal earnings,US Dollar,10067
+CHL,Chile,Personal earnings,US Dollar,18461
+EST,Estonia,Personal earnings,US Dollar,22908
+ISR,Israel,Personal earnings,US Dollar,37793
+RUS,Russia,Personal earnings,US Dollar,27099
+SVN,Slovenia,Personal earnings,US Dollar,40954
+AUS,Australia,Personal earnings,US Dollar,27273
+AUT,Austria,Personal earnings,US Dollar,26167
+BEL,Belgium,Personal earnings,US Dollar,32554
+CAN,Canada,Personal earnings,US Dollar,25572
+CZE,Czech Republic,Personal earnings,US Dollar,11700
+DNK,Denmark,Personal earnings,US Dollar,27841
+FIN,Finland,Personal earnings,US Dollar,26057
+FRA,France,Personal earnings,US Dollar,22796
+DEU,Germany,Personal earnings,US Dollar,25618
+GRC,Greece,Personal earnings,US Dollar,17450
+HUN,Hungary,Personal earnings,US Dollar,10126
+ISL,Iceland,Personal earnings,US Dollar,24831
+IRL,Ireland,Personal earnings,US Dollar,30968
+ITA,Italy,Personal earnings,US Dollar,24018
+JPN,Japan,Personal earnings,US Dollar,22718
+KOR,Korea,Personal earnings,US Dollar,16793
+LUX,Luxembourg,Personal earnings,US Dollar,31204
+MEX,Mexico,Personal earnings,US Dollar,7219
+NLD,Netherlands,Personal earnings,US Dollar,29242
+NZL,New Zealand,Personal earnings,US Dollar,19615
+NOR,Norway,Personal earnings,US Dollar,32180
+POL,Poland,Personal earnings,US Dollar,11458
+PRT,Portugal,Personal earnings,US Dollar,12460
+SVK,Slovak Republic,Personal earnings,US Dollar,10712
+ESP,Spain,Personal earnings,US Dollar,21235
+SWE,Sweden,Personal earnings,US Dollar,22911
+CHE,Switzerland,Personal earnings,US Dollar,32467
+TUR,Turkey,Personal earnings,US Dollar,7334
+GBR,United Kingdom,Personal earnings,US Dollar,22080
+USA,United States,Personal earnings,US Dollar,23975
+BRA,Brazil,Personal earnings,US Dollar,3474
+CHL,Chile,Personal earnings,US Dollar,7384
+EST,Estonia,Personal earnings,US Dollar,9237
+ISR,Israel,Personal earnings,US Dollar,13115
+RUS,Russia,Personal earnings,US Dollar,11258
+SVN,Slovenia,Personal earnings,US Dollar,18872
+AUS,Australia,Quality of support network,Percentage,93
+AUT,Austria,Quality of support network,Percentage,95
+BEL,Belgium,Quality of support network,Percentage,91
+CAN,Canada,Quality of support network,Percentage,94
+CZE,Czech Republic,Quality of support network,Percentage,87
+DNK,Denmark,Quality of support network,Percentage,96
+FIN,Finland,Quality of support network,Percentage,93
+FRA,France,Quality of support network,Percentage,91
+DEU,Germany,Quality of support network,Percentage,93
+GRC,Greece,Quality of support network,Percentage,68
+HUN,Hungary,Quality of support network,Percentage,87
+ISL,Iceland,Quality of support network,Percentage,96
+IRL,Ireland,Quality of support network,Percentage,95
+ITA,Italy,Quality of support network,Percentage,91
+JPN,Japan,Quality of support network,Percentage,90
+KOR,Korea,Quality of support network,Percentage,77
+LUX,Luxembourg,Quality of support network,Percentage,88
+MEX,Mexico,Quality of support network,Percentage,74
+NLD,Netherlands,Quality of support network,Percentage,92
+NZL,New Zealand,Quality of support network,Percentage,96
+NOR,Norway,Quality of support network,Percentage,93
+POL,Poland,Quality of support network,Percentage,89
+PRT,Portugal,Quality of support network,Percentage,85
+SVK,Slovak Republic,Quality of support network,Percentage,88
+ESP,Spain,Quality of support network,Percentage,92
+SWE,Sweden,Quality of support network,Percentage,91
+CHE,Switzerland,Quality of support network,Percentage,94
+TUR,Turkey,Quality of support network,Percentage,79
+GBR,United Kingdom,Quality of support network,Percentage,94
+USA,United States,Quality of support network,Percentage,90
+BRA,Brazil,Quality of support network,Percentage,90
+CHL,Chile,Quality of support network,Percentage,85
+EST,Estonia,Quality of support network,Percentage,89
+ISR,Israel,Quality of support network,Percentage,89
+RUS,Russia,Quality of support network,Percentage,84
+SVN,Slovenia,Quality of support network,Percentage,93
+AUS,Australia,Quality of support network,Percentage,92
+AUT,Austria,Quality of support network,Percentage,94
+BEL,Belgium,Quality of support network,Percentage,91
+CAN,Canada,Quality of support network,Percentage,92
+CZE,Czech Republic,Quality of support network,Percentage,85
+DNK,Denmark,Quality of support network,Percentage,94
+FIN,Finland,Quality of support network,Percentage,92
+FRA,France,Quality of support network,Percentage,89
+DEU,Germany,Quality of support network,Percentage,93
+GRC,Greece,Quality of support network,Percentage,68
+HUN,Hungary,Quality of support network,Percentage,87
+ISL,Iceland,Quality of support network,Percentage,95
+IRL,Ireland,Quality of support network,Percentage,95
+ITA,Italy,Quality of support network,Percentage,91
+JPN,Japan,Quality of support network,Percentage,90
+KOR,Korea,Quality of support network,Percentage,74
+LUX,Luxembourg,Quality of support network,Percentage,85
+MEX,Mexico,Quality of support network,Percentage,74
+NLD,Netherlands,Quality of support network,Percentage,94
+NZL,New Zealand,Quality of support network,Percentage,94
+NOR,Norway,Quality of support network,Percentage,93
+POL,Poland,Quality of support network,Percentage,89
+PRT,Portugal,Quality of support network,Percentage,85
+SVK,Slovak Republic,Quality of support network,Percentage,87
+ESP,Spain,Quality of support network,Percentage,94
+SWE,Sweden,Quality of support network,Percentage,89
+CHE,Switzerland,Quality of support network,Percentage,93
+TUR,Turkey,Quality of support network,Percentage,78
+GBR,United Kingdom,Quality of support network,Percentage,95
+USA,United States,Quality of support network,Percentage,88
+BRA,Brazil,Quality of support network,Percentage,91
+CHL,Chile,Quality of support network,Percentage,86
+EST,Estonia,Quality of support network,Percentage,89
+ISR,Israel,Quality of support network,Percentage,89
+RUS,Russia,Quality of support network,Percentage,85
+SVN,Slovenia,Quality of support network,Percentage,94
+AUS,Australia,Quality of support network,Percentage,94
+AUT,Austria,Quality of support network,Percentage,95
+BEL,Belgium,Quality of support network,Percentage,91
+CAN,Canada,Quality of support network,Percentage,95
+CZE,Czech Republic,Quality of support network,Percentage,88
+DNK,Denmark,Quality of support network,Percentage,97
+FIN,Finland,Quality of support network,Percentage,94
+FRA,France,Quality of support network,Percentage,92
+DEU,Germany,Quality of support network,Percentage,92
+GRC,Greece,Quality of support network,Percentage,68
+HUN,Hungary,Quality of support network,Percentage,87
+ISL,Iceland,Quality of support network,Percentage,96
+IRL,Ireland,Quality of support network,Percentage,95
+ITA,Italy,Quality of support network,Percentage,92
+JPN,Japan,Quality of support network,Percentage,90
+KOR,Korea,Quality of support network,Percentage,79
+LUX,Luxembourg,Quality of support network,Percentage,92
+MEX,Mexico,Quality of support network,Percentage,74
+NLD,Netherlands,Quality of support network,Percentage,89
+NZL,New Zealand,Quality of support network,Percentage,97
+NOR,Norway,Quality of support network,Percentage,93
+POL,Poland,Quality of support network,Percentage,90
+PRT,Portugal,Quality of support network,Percentage,85
+SVK,Slovak Republic,Quality of support network,Percentage,89
+ESP,Spain,Quality of support network,Percentage,90
+SWE,Sweden,Quality of support network,Percentage,92
+CHE,Switzerland,Quality of support network,Percentage,96
+TUR,Turkey,Quality of support network,Percentage,80
+GBR,United Kingdom,Quality of support network,Percentage,92
+USA,United States,Quality of support network,Percentage,92
+BRA,Brazil,Quality of support network,Percentage,89
+CHL,Chile,Quality of support network,Percentage,85
+EST,Estonia,Quality of support network,Percentage,88
+ISR,Israel,Quality of support network,Percentage,90
+RUS,Russia,Quality of support network,Percentage,83
+SVN,Slovenia,Quality of support network,Percentage,92
+AUS,Australia,Quality of support network,Percentage,94
+AUT,Austria,Quality of support network,Percentage,97
+BEL,Belgium,Quality of support network,Percentage,92
+CAN,Canada,Quality of support network,Percentage,94
+CZE,Czech Republic,Quality of support network,Percentage,90
+DNK,Denmark,Quality of support network,Percentage,97
+FIN,Finland,Quality of support network,Percentage,96
+FRA,France,Quality of support network,Percentage,93
+DEU,Germany,Quality of support network,Percentage,94
+GRC,Greece,Quality of support network,Percentage,77
+HUN,Hungary,Quality of support network,Percentage,92
+ISL,Iceland,Quality of support network,Percentage,96
+IRL,Ireland,Quality of support network,Percentage,97
+ITA,Italy,Quality of support network,Percentage,93
+JPN,Japan,Quality of support network,Percentage,93
+KOR,Korea,Quality of support network,Percentage,82
+LUX,Luxembourg,Quality of support network,Percentage,94
+MEX,Mexico,Quality of support network,Percentage,78
+NLD,Netherlands,Quality of support network,Percentage,93
+NZL,New Zealand,Quality of support network,Percentage,96
+NOR,Norway,Quality of support network,Percentage,94
+POL,Poland,Quality of support network,Percentage,94
+PRT,Portugal,Quality of support network,Percentage,93
+SVK,Slovak Republic,Quality of support network,Percentage,89
+ESP,Spain,Quality of support network,Percentage,93
+SWE,Sweden,Quality of support network,Percentage,91
+CHE,Switzerland,Quality of support network,Percentage,95
+TUR,Turkey,Quality of support network,Percentage,91
+GBR,United Kingdom,Quality of support network,Percentage,96
+USA,United States,Quality of support network,Percentage,96
+BRA,Brazil,Quality of support network,Percentage,94
+CHL,Chile,Quality of support network,Percentage,93
+EST,Estonia,Quality of support network,Percentage,89
+ISR,Israel,Quality of support network,Percentage,91
+RUS,Russia,Quality of support network,Percentage,86
+SVN,Slovenia,Quality of support network,Percentage,98
+AUS,Australia,Quality of support network,Percentage,93
+AUT,Austria,Quality of support network,Percentage,97
+BEL,Belgium,Quality of support network,Percentage,88
+CAN,Canada,Quality of support network,Percentage,97
+CZE,Czech Republic,Quality of support network,Percentage,87
+DNK,Denmark,Quality of support network,Percentage,90
+FIN,Finland,Quality of support network,Percentage,89
+FRA,France,Quality of support network,Percentage,88
+DEU,Germany,Quality of support network,Percentage,87
+GRC,Greece,Quality of support network,Percentage,60
+HUN,Hungary,Quality of support network,Percentage,82
+ISL,Iceland,Quality of support network,Percentage,97
+IRL,Ireland,Quality of support network,Percentage,87
+ITA,Italy,Quality of support network,Percentage,89
+JPN,Japan,Quality of support network,Percentage,86
+KOR,Korea,Quality of support network,Percentage,42
+LUX,Luxembourg,Quality of support network,Percentage,86
+MEX,Mexico,Quality of support network,Percentage,70
+NLD,Netherlands,Quality of support network,Percentage,84
+NZL,New Zealand,Quality of support network,Percentage,99
+NOR,Norway,Quality of support network,Percentage,91
+POL,Poland,Quality of support network,Percentage,91
+PRT,Portugal,Quality of support network,Percentage,79
+SVK,Slovak Republic,Quality of support network,Percentage,93
+ESP,Spain,Quality of support network,Percentage,86
+SWE,Sweden,Quality of support network,Percentage,82
+CHE,Switzerland,Quality of support network,Percentage,95
+TUR,Turkey,Quality of support network,Percentage,76
+GBR,United Kingdom,Quality of support network,Percentage,85
+USA,United States,Quality of support network,Percentage,84
+BRA,Brazil,Quality of support network,Percentage,87
+CHL,Chile,Quality of support network,Percentage,72
+EST,Estonia,Quality of support network,Percentage,88
+ISR,Israel,Quality of support network,Percentage,67
+RUS,Russia,Quality of support network,Percentage,85
+SVN,Slovenia,Quality of support network,Percentage,88
+AUS,Australia,Educational attainment,Percentage,74
+AUT,Austria,Educational attainment,Percentage,82
+BEL,Belgium,Educational attainment,Percentage,71
+CAN,Canada,Educational attainment,Percentage,89
+CZE,Czech Republic,Educational attainment,Percentage,92
+DNK,Denmark,Educational attainment,Percentage,77
+FIN,Finland,Educational attainment,Percentage,84
+FRA,France,Educational attainment,Percentage,72
+DEU,Germany,Educational attainment,Percentage,86
+GRC,Greece,Educational attainment,Percentage,67
+HUN,Hungary,Educational attainment,Percentage,82
+ISL,Iceland,Educational attainment,Percentage,71
+IRL,Ireland,Educational attainment,Percentage,73
+ITA,Italy,Educational attainment,Percentage,56
+JPN,Japan,Educational attainment,Percentage,93
+KOR,Korea,Educational attainment,Percentage,81
+LUX,Luxembourg,Educational attainment,Percentage,77
+MEX,Mexico,Educational attainment,Percentage,36
+NLD,Netherlands,Educational attainment,Percentage,72
+NZL,New Zealand,Educational attainment,Percentage,74
+NOR,Norway,Educational attainment,Percentage,82
+POL,Poland,Educational attainment,Percentage,89
+PRT,Portugal,Educational attainment,Percentage,35
+SVK,Slovak Republic,Educational attainment,Percentage,91
+ESP,Spain,Educational attainment,Percentage,54
+SWE,Sweden,Educational attainment,Percentage,87
+CHE,Switzerland,Educational attainment,Percentage,86
+TUR,Turkey,Educational attainment,Percentage,32
+GBR,United Kingdom,Educational attainment,Percentage,77
+USA,United States,Educational attainment,Percentage,89
+BRA,Brazil,Educational attainment,Percentage,43
+CHL,Chile,Educational attainment,Percentage,72
+EST,Estonia,Educational attainment,Percentage,89
+ISR,Israel,Educational attainment,Percentage,83
+RUS,Russia,Educational attainment,Percentage,94
+SVN,Slovenia,Educational attainment,Percentage,84
+AUS,Australia,Educational attainment,Percentage,76
+AUT,Austria,Educational attainment,Percentage,87
+BEL,Belgium,Educational attainment,Percentage,71
+CAN,Canada,Educational attainment,Percentage,88
+CZE,Czech Republic,Educational attainment,Percentage,95
+DNK,Denmark,Educational attainment,Percentage,77
+FIN,Finland,Educational attainment,Percentage,81
+FRA,France,Educational attainment,Percentage,73
+DEU,Germany,Educational attainment,Percentage,89
+GRC,Greece,Educational attainment,Percentage,67
+HUN,Hungary,Educational attainment,Percentage,85
+ISL,Iceland,Educational attainment,Percentage,73
+IRL,Ireland,Educational attainment,Percentage,70
+ITA,Italy,Educational attainment,Percentage,55
+JPN,Japan,Educational attainment,Percentage,94
+KOR,Korea,Educational attainment,Percentage,86
+LUX,Luxembourg,Educational attainment,Percentage,79
+MEX,Mexico,Educational attainment,Percentage,38
+NLD,Netherlands,Educational attainment,Percentage,74
+NZL,New Zealand,Educational attainment,Percentage,75
+NOR,Norway,Educational attainment,Percentage,82
+POL,Poland,Educational attainment,Percentage,89
+PRT,Portugal,Educational attainment,Percentage,32
+SVK,Slovak Republic,Educational attainment,Percentage,93
+ESP,Spain,Educational attainment,Percentage,53
+SWE,Sweden,Educational attainment,Percentage,86
+CHE,Switzerland,Educational attainment,Percentage,89
+TUR,Turkey,Educational attainment,Percentage,36
+GBR,United Kingdom,Educational attainment,Percentage,79
+USA,United States,Educational attainment,Percentage,88
+BRA,Brazil,Educational attainment,Percentage,41
+CHL,Chile,Educational attainment,Percentage,73
+EST,Estonia,Educational attainment,Percentage,86
+ISR,Israel,Educational attainment,Percentage,82
+RUS,Russia,Educational attainment,Percentage,93
+SVN,Slovenia,Educational attainment,Percentage,86
+AUS,Australia,Educational attainment,Percentage,73
+AUT,Austria,Educational attainment,Percentage,78
+BEL,Belgium,Educational attainment,Percentage,72
+CAN,Canada,Educational attainment,Percentage,90
+CZE,Czech Republic,Educational attainment,Percentage,90
+DNK,Denmark,Educational attainment,Percentage,77
+FIN,Finland,Educational attainment,Percentage,86
+FRA,France,Educational attainment,Percentage,71
+DEU,Germany,Educational attainment,Percentage,84
+GRC,Greece,Educational attainment,Percentage,67
+HUN,Hungary,Educational attainment,Percentage,79
+ISL,Iceland,Educational attainment,Percentage,68
+IRL,Ireland,Educational attainment,Percentage,76
+ITA,Italy,Educational attainment,Percentage,57
+JPN,Japan,Educational attainment,Percentage,92
+KOR,Korea,Educational attainment,Percentage,77
+LUX,Luxembourg,Educational attainment,Percentage,75
+MEX,Mexico,Educational attainment,Percentage,35
+NLD,Netherlands,Educational attainment,Percentage,71
+NZL,New Zealand,Educational attainment,Percentage,73
+NOR,Norway,Educational attainment,Percentage,82
+POL,Poland,Educational attainment,Percentage,89
+PRT,Portugal,Educational attainment,Percentage,38
+SVK,Slovak Republic,Educational attainment,Percentage,89
+ESP,Spain,Educational attainment,Percentage,55
+SWE,Sweden,Educational attainment,Percentage,89
+CHE,Switzerland,Educational attainment,Percentage,83
+TUR,Turkey,Educational attainment,Percentage,27
+GBR,United Kingdom,Educational attainment,Percentage,74
+USA,United States,Educational attainment,Percentage,90
+BRA,Brazil,Educational attainment,Percentage,46
+CHL,Chile,Educational attainment,Percentage,72
+EST,Estonia,Educational attainment,Percentage,91
+ISR,Israel,Educational attainment,Percentage,84
+RUS,Russia,Educational attainment,Percentage,95
+SVN,Slovenia,Educational attainment,Percentage,83
+AUS,Australia,Student skills,Average score,514
+AUT,Austria,Student skills,Average score,498
+BEL,Belgium,Student skills,Average score,507
+CAN,Canada,Student skills,Average score,522
+CZE,Czech Republic,Student skills,Average score,496
+DNK,Denmark,Student skills,Average score,500
+FIN,Finland,Student skills,Average score,529
+FRA,France,Student skills,Average score,499
+DEU,Germany,Student skills,Average score,514
+GRC,Greece,Student skills,Average score,468
+HUN,Hungary,Student skills,Average score,486
+ISL,Iceland,Student skills,Average score,486
+IRL,Ireland,Student skills,Average score,518
+ITA,Italy,Student skills,Average score,489
+JPN,Japan,Student skills,Average score,538
+KOR,Korea,Student skills,Average score,537
+LUX,Luxembourg,Student skills,Average score,487
+MEX,Mexico,Student skills,Average score,417
+NLD,Netherlands,Student skills,Average score,522
+NZL,New Zealand,Student skills,Average score,511
+NOR,Norway,Student skills,Average score,498
+POL,Poland,Student skills,Average score,520
+PRT,Portugal,Student skills,Average score,488
+SVK,Slovak Republic,Student skills,Average score,469
+ESP,Spain,Student skills,Average score,490
+SWE,Sweden,Student skills,Average score,484
+CHE,Switzerland,Student skills,Average score,515
+TUR,Turkey,Student skills,Average score,462
+GBR,United Kingdom,Student skills,Average score,505
+USA,United States,Student skills,Average score,494
+BRA,Brazil,Student skills,Average score,406
+CHL,Chile,Student skills,Average score,439
+EST,Estonia,Student skills,Average score,523
+ISR,Israel,Student skills,Average score,474
+RUS,Russia,Student skills,Average score,475
+SVN,Slovenia,Student skills,Average score,497
+AUS,Australia,Student skills,Average score,510
+AUT,Austria,Student skills,Average score,496
+BEL,Belgium,Student skills,Average score,504
+CAN,Canada,Student skills,Average score,518
+CZE,Czech Republic,Student skills,Average score,492
+DNK,Denmark,Student skills,Average score,499
+FIN,Finland,Student skills,Average score,516
+FRA,France,Student skills,Average score,491
+DEU,Germany,Student skills,Average score,509
+GRC,Greece,Student skills,Average score,458
+HUN,Hungary,Student skills,Average score,481
+ISL,Iceland,Student skills,Average score,475
+IRL,Ireland,Student skills,Average score,516
+ITA,Italy,Student skills,Average score,485
+JPN,Japan,Student skills,Average score,538
+KOR,Korea,Student skills,Average score,537
+LUX,Luxembourg,Student skills,Average score,489
+MEX,Mexico,Student skills,Average score,416
+NLD,Netherlands,Student skills,Average score,519
+NZL,New Zealand,Student skills,Average score,508
+NOR,Norway,Student skills,Average score,490
+POL,Poland,Student skills,Average score,513
+PRT,Portugal,Student skills,Average score,483
+SVK,Slovak Republic,Student skills,Average score,465
+ESP,Spain,Student skills,Average score,490
+SWE,Sweden,Student skills,Average score,474
+CHE,Switzerland,Student skills,Average score,513
+TUR,Turkey,Student skills,Average score,454
+GBR,United Kingdom,Student skills,Average score,505
+USA,United States,Student skills,Average score,489
+BRA,Brazil,Student skills,Average score,403
+CHL,Chile,Student skills,Average score,439
+EST,Estonia,Student skills,Average score,516
+ISR,Israel,Student skills,Average score,468
+RUS,Russia,Student skills,Average score,466
+SVN,Slovenia,Student skills,Average score,486
+AUS,Australia,Student skills,Average score,518
+AUT,Austria,Student skills,Average score,500
+BEL,Belgium,Student skills,Average score,511
+CAN,Canada,Student skills,Average score,526
+CZE,Czech Republic,Student skills,Average score,501
+DNK,Denmark,Student skills,Average score,501
+FIN,Finland,Student skills,Average score,544
+FRA,France,Student skills,Average score,506
+DEU,Germany,Student skills,Average score,519
+GRC,Greece,Student skills,Average score,478
+HUN,Hungary,Student skills,Average score,491
+ISL,Iceland,Student skills,Average score,496
+IRL,Ireland,Student skills,Average score,520
+ITA,Italy,Student skills,Average score,492
+JPN,Japan,Student skills,Average score,538
+KOR,Korea,Student skills,Average score,537
+LUX,Luxembourg,Student skills,Average score,486
+MEX,Mexico,Student skills,Average score,419
+NLD,Netherlands,Student skills,Average score,524
+NZL,New Zealand,Student skills,Average score,515
+NOR,Norway,Student skills,Average score,507
+POL,Poland,Student skills,Average score,527
+PRT,Portugal,Student skills,Average score,493
+SVK,Slovak Republic,Student skills,Average score,472
+ESP,Spain,Student skills,Average score,491
+SWE,Sweden,Student skills,Average score,494
+CHE,Switzerland,Student skills,Average score,518
+TUR,Turkey,Student skills,Average score,470
+GBR,United Kingdom,Student skills,Average score,505
+USA,United States,Student skills,Average score,500
+BRA,Brazil,Student skills,Average score,408
+CHL,Chile,Student skills,Average score,438
+EST,Estonia,Student skills,Average score,529
+ISR,Israel,Student skills,Average score,479
+RUS,Russia,Student skills,Average score,483
+SVN,Slovenia,Student skills,Average score,509
+AUS,Australia,Student skills,Average score,559
+AUT,Austria,Student skills,Average score,552
+BEL,Belgium,Student skills,Average score,573
+CAN,Canada,Student skills,Average score,562
+CZE,Czech Republic,Student skills,Average score,553
+DNK,Denmark,Student skills,Average score,547
+FIN,Finland,Student skills,Average score,567
+FRA,France,Student skills,Average score,570
+DEU,Germany,Student skills,Average score,572
+GRC,Greece,Student skills,Average score,518
+HUN,Hungary,Student skills,Average score,549
+ISL,Iceland,Student skills,Average score,518
+IRL,Ireland,Student skills,Average score,565
+ITA,Italy,Student skills,Average score,531
+JPN,Japan,Student skills,Average score,578
+KOR,Korea,Student skills,Average score,580
+LUX,Luxembourg,Student skills,Average score,550
+MEX,Mexico,Student skills,Average score,456
+NLD,Netherlands,Student skills,Average score,564
+NZL,New Zealand,Student skills,Average score,572
+NOR,Norway,Student skills,Average score,530
+POL,Poland,Student skills,Average score,575
+PRT,Portugal,Student skills,Average score,550
+SVK,Slovak Republic,Student skills,Average score,542
+ESP,Spain,Student skills,Average score,539
+SWE,Sweden,Student skills,Average score,527
+CHE,Switzerland,Student skills,Average score,567
+TUR,Turkey,Student skills,Average score,515
+GBR,United Kingdom,Student skills,Average score,558
+USA,United States,Student skills,Average score,547
+BRA,Brazil,Student skills,Average score,449
+CHL,Chile,Student skills,Average score,495
+EST,Estonia,Student skills,Average score,566
+ISR,Israel,Student skills,Average score,530
+RUS,Russia,Student skills,Average score,524
+SVN,Slovenia,Student skills,Average score,554
+AUS,Australia,Student skills,Average score,467
+AUT,Austria,Student skills,Average score,449
+BEL,Belgium,Student skills,Average score,453
+CAN,Canada,Student skills,Average score,490
+CZE,Czech Republic,Student skills,Average score,453
+DNK,Denmark,Student skills,Average score,453
+FIN,Finland,Student skills,Average score,494
+FRA,France,Student skills,Average score,441
+DEU,Germany,Student skills,Average score,465
+GRC,Greece,Student skills,Average score,419
+HUN,Hungary,Student skills,Average score,428
+ISL,Iceland,Student skills,Average score,454
+IRL,Ireland,Student skills,Average score,469
+ITA,Italy,Student skills,Average score,448
+JPN,Japan,Student skills,Average score,502
+KOR,Korea,Student skills,Average score,509
+LUX,Luxembourg,Student skills,Average score,429
+MEX,Mexico,Student skills,Average score,386
+NLD,Netherlands,Student skills,Average score,473
+NZL,New Zealand,Student skills,Average score,448
+NOR,Norway,Student skills,Average score,464
+POL,Poland,Student skills,Average score,476
+PRT,Portugal,Student skills,Average score,438
+SVK,Slovak Republic,Student skills,Average score,392
+ESP,Spain,Student skills,Average score,447
+SWE,Sweden,Student skills,Average score,442
+CHE,Switzerland,Student skills,Average score,469
+TUR,Turkey,Student skills,Average score,427
+GBR,United Kingdom,Student skills,Average score,461
+USA,United States,Student skills,Average score,449
+BRA,Brazil,Student skills,Average score,365
+CHL,Chile,Student skills,Average score,390
+EST,Estonia,Student skills,Average score,503
+ISR,Israel,Student skills,Average score,415
+RUS,Russia,Student skills,Average score,436
+SVN,Slovenia,Student skills,Average score,454
+AUS,Australia,Years in education,Years,18.8
+AUT,Austria,Years in education,Years,16.9
+BEL,Belgium,Years in education,Years,18.8
+CAN,Canada,Years in education,Years,17
+CZE,Czech Republic,Years in education,Years,17.9
+DNK,Denmark,Years in education,Years,19.2
+FIN,Finland,Years in education,Years,19.7
+FRA,France,Years in education,Years,16.5
+DEU,Germany,Years in education,Years,18.1
+GRC,Greece,Years in education,Years,18.6
+HUN,Hungary,Years in education,Years,17.5
+ISL,Iceland,Years in education,Years,19.5
+IRL,Ireland,Years in education,Years,17.5
+ITA,Italy,Years in education,Years,17
+JPN,Japan,Years in education,Years,16.2
+KOR,Korea,Years in education,Years,17.5
+LUX,Luxembourg,Years in education,Years,14.1
+MEX,Mexico,Years in education,Years,15.2
+NLD,Netherlands,Years in education,Years,18.6
+NZL,New Zealand,Years in education,Years,18.1
+NOR,Norway,Years in education,Years,17.9
+POL,Poland,Years in education,Years,18.3
+PRT,Portugal,Years in education,Years,17.8
+SVK,Slovak Republic,Years in education,Years,16.4
+ESP,Spain,Years in education,Years,17.6
+SWE,Sweden,Years in education,Years,19.2
+CHE,Switzerland,Years in education,Years,17.1
+TUR,Turkey,Years in education,Years,16
+GBR,United Kingdom,Years in education,Years,16.6
+USA,United States,Years in education,Years,17.1
+BRA,Brazil,Years in education,Years,16.3
+CHL,Chile,Years in education,Years,16.4
+EST,Estonia,Years in education,Years,17.5
+ISR,Israel,Years in education,Years,15.7
+RUS,Russia,Years in education,Years,15.8
+SVN,Slovenia,Years in education,Years,18.3
+AUS,Australia,Years in education,Years,18.4
+AUT,Austria,Years in education,Years,16.7
+BEL,Belgium,Years in education,Years,18.3
+CAN,Canada,Years in education,Years,16.6
+CZE,Czech Republic,Years in education,Years,17.4
+DNK,Denmark,Years in education,Years,18.7
+FIN,Finland,Years in education,Years,19.2
+FRA,France,Years in education,Years,16.1
+DEU,Germany,Years in education,Years,18.2
+GRC,Greece,Years in education,Years,18.5
+HUN,Hungary,Years in education,Years,17.3
+ISL,Iceland,Years in education,Years,18.7
+IRL,Ireland,Years in education,Years,17.5
+ITA,Italy,Years in education,Years,16.6
+JPN,Japan,Years in education,Years,16
+KOR,Korea,Years in education,Years,18.3
+LUX,Luxembourg,Years in education,Years,14.1
+MEX,Mexico,Years in education,Years,15.1
+NLD,Netherlands,Years in education,Years,18.6
+NZL,New Zealand,Years in education,Years,17.6
+NOR,Norway,Years in education,Years,17.5
+POL,Poland,Years in education,Years,17.5
+PRT,Portugal,Years in education,Years,17.6
+SVK,Slovak Republic,Years in education,Years,15.9
+ESP,Spain,Years in education,Years,17.3
+SWE,Sweden,Years in education,Years,18.3
+CHE,Switzerland,Years in education,Years,17.3
+TUR,Turkey,Years in education,Years,16.4
+GBR,United Kingdom,Years in education,Years,16.2
+USA,United States,Years in education,Years,16.5
+BRA,Brazil,Years in education,Years,16
+CHL,Chile,Years in education,Years,16.4
+EST,Estonia,Years in education,Years,16.9
+ISR,Israel,Years in education,Years,15.5
+RUS,Russia,Years in education,Years,15.4
+SVN,Slovenia,Years in education,Years,17.3
+AUS,Australia,Years in education,Years,18.9
+AUT,Austria,Years in education,Years,17.2
+BEL,Belgium,Years in education,Years,19.3
+CAN,Canada,Years in education,Years,17.5
+CZE,Czech Republic,Years in education,Years,18.5
+DNK,Denmark,Years in education,Years,19.7
+FIN,Finland,Years in education,Years,20.2
+FRA,France,Years in education,Years,16.8
+DEU,Germany,Years in education,Years,17.9
+GRC,Greece,Years in education,Years,18.7
+HUN,Hungary,Years in education,Years,17.8
+ISL,Iceland,Years in education,Years,20.3
+IRL,Ireland,Years in education,Years,17.5
+ITA,Italy,Years in education,Years,17.4
+JPN,Japan,Years in education,Years,16.4
+KOR,Korea,Years in education,Years,16.7
+LUX,Luxembourg,Years in education,Years,14.2
+MEX,Mexico,Years in education,Years,15.3
+NLD,Netherlands,Years in education,Years,18.7
+NZL,New Zealand,Years in education,Years,18.7
+NOR,Norway,Years in education,Years,18.4
+POL,Poland,Years in education,Years,19.2
+PRT,Portugal,Years in education,Years,18
+SVK,Slovak Republic,Years in education,Years,16.9
+ESP,Spain,Years in education,Years,17.9
+SWE,Sweden,Years in education,Years,20.1
+CHE,Switzerland,Years in education,Years,17
+TUR,Turkey,Years in education,Years,15.5
+GBR,United Kingdom,Years in education,Years,17
+USA,United States,Years in education,Years,17.8
+BRA,Brazil,Years in education,Years,16.6
+CHL,Chile,Years in education,Years,16.5
+EST,Estonia,Years in education,Years,18.2
+ISR,Israel,Years in education,Years,16
+RUS,Russia,Years in education,Years,16.8
+SVN,Slovenia,Years in education,Years,19.3
+AUS,Australia,Air pollution,Micrograms per cubic metre,13
+AUT,Austria,Air pollution,Micrograms per cubic metre,27
+BEL,Belgium,Air pollution,Micrograms per cubic metre,21
+CAN,Canada,Air pollution,Micrograms per cubic metre,15
+CZE,Czech Republic,Air pollution,Micrograms per cubic metre,16
+DNK,Denmark,Air pollution,Micrograms per cubic metre,15
+FIN,Finland,Air pollution,Micrograms per cubic metre,15
+FRA,France,Air pollution,Micrograms per cubic metre,12
+DEU,Germany,Air pollution,Micrograms per cubic metre,16
+GRC,Greece,Air pollution,Micrograms per cubic metre,27
+HUN,Hungary,Air pollution,Micrograms per cubic metre,15
+ISL,Iceland,Air pollution,Micrograms per cubic metre,18
+IRL,Ireland,Air pollution,Micrograms per cubic metre,13
+ITA,Italy,Air pollution,Micrograms per cubic metre,21
+JPN,Japan,Air pollution,Micrograms per cubic metre,24
+KOR,Korea,Air pollution,Micrograms per cubic metre,30
+LUX,Luxembourg,Air pollution,Micrograms per cubic metre,12
+MEX,Mexico,Air pollution,Micrograms per cubic metre,30
+NLD,Netherlands,Air pollution,Micrograms per cubic metre,30
+NZL,New Zealand,Air pollution,Micrograms per cubic metre,11
+NOR,Norway,Air pollution,Micrograms per cubic metre,16
+POL,Poland,Air pollution,Micrograms per cubic metre,33
+PRT,Portugal,Air pollution,Micrograms per cubic metre,18
+SVK,Slovak Republic,Air pollution,Micrograms per cubic metre,13
+ESP,Spain,Air pollution,Micrograms per cubic metre,24
+SWE,Sweden,Air pollution,Micrograms per cubic metre,10
+CHE,Switzerland,Air pollution,Micrograms per cubic metre,20
+TUR,Turkey,Air pollution,Micrograms per cubic metre,35
+GBR,United Kingdom,Air pollution,Micrograms per cubic metre,13
+USA,United States,Air pollution,Micrograms per cubic metre,18
+BRA,Brazil,Air pollution,Micrograms per cubic metre,18
+CHL,Chile,Air pollution,Micrograms per cubic metre,46
+EST,Estonia,Air pollution,Micrograms per cubic metre,9
+ISR,Israel,Air pollution,Micrograms per cubic metre,21
+RUS,Russia,Air pollution,Micrograms per cubic metre,15
+SVN,Slovenia,Air pollution,Micrograms per cubic metre,26
+AUS,Australia,Air pollution,Micrograms per cubic metre,13
+AUT,Austria,Air pollution,Micrograms per cubic metre,27
+BEL,Belgium,Air pollution,Micrograms per cubic metre,21
+CAN,Canada,Air pollution,Micrograms per cubic metre,15
+CZE,Czech Republic,Air pollution,Micrograms per cubic metre,16
+DNK,Denmark,Air pollution,Micrograms per cubic metre,15
+FIN,Finland,Air pollution,Micrograms per cubic metre,15
+FRA,France,Air pollution,Micrograms per cubic metre,12
+DEU,Germany,Air pollution,Micrograms per cubic metre,16
+GRC,Greece,Air pollution,Micrograms per cubic metre,27
+HUN,Hungary,Air pollution,Micrograms per cubic metre,15
+ISL,Iceland,Air pollution,Micrograms per cubic metre,18
+IRL,Ireland,Air pollution,Micrograms per cubic metre,13
+ITA,Italy,Air pollution,Micrograms per cubic metre,21
+JPN,Japan,Air pollution,Micrograms per cubic metre,24
+KOR,Korea,Air pollution,Micrograms per cubic metre,30
+LUX,Luxembourg,Air pollution,Micrograms per cubic metre,12
+MEX,Mexico,Air pollution,Micrograms per cubic metre,30
+NLD,Netherlands,Air pollution,Micrograms per cubic metre,30
+NZL,New Zealand,Air pollution,Micrograms per cubic metre,11
+NOR,Norway,Air pollution,Micrograms per cubic metre,16
+POL,Poland,Air pollution,Micrograms per cubic metre,33
+PRT,Portugal,Air pollution,Micrograms per cubic metre,18
+SVK,Slovak Republic,Air pollution,Micrograms per cubic metre,13
+ESP,Spain,Air pollution,Micrograms per cubic metre,24
+SWE,Sweden,Air pollution,Micrograms per cubic metre,10
+CHE,Switzerland,Air pollution,Micrograms per cubic metre,20
+TUR,Turkey,Air pollution,Micrograms per cubic metre,35
+GBR,United Kingdom,Air pollution,Micrograms per cubic metre,13
+USA,United States,Air pollution,Micrograms per cubic metre,18
+BRA,Brazil,Air pollution,Micrograms per cubic metre,18
+CHL,Chile,Air pollution,Micrograms per cubic metre,46
+EST,Estonia,Air pollution,Micrograms per cubic metre,9
+ISR,Israel,Air pollution,Micrograms per cubic metre,21
+RUS,Russia,Air pollution,Micrograms per cubic metre,15
+SVN,Slovenia,Air pollution,Micrograms per cubic metre,26
+AUS,Australia,Air pollution,Micrograms per cubic metre,13
+AUT,Austria,Air pollution,Micrograms per cubic metre,27
+BEL,Belgium,Air pollution,Micrograms per cubic metre,21
+CAN,Canada,Air pollution,Micrograms per cubic metre,15
+CZE,Czech Republic,Air pollution,Micrograms per cubic metre,16
+DNK,Denmark,Air pollution,Micrograms per cubic metre,15
+FIN,Finland,Air pollution,Micrograms per cubic metre,15
+FRA,France,Air pollution,Micrograms per cubic metre,12
+DEU,Germany,Air pollution,Micrograms per cubic metre,16
+GRC,Greece,Air pollution,Micrograms per cubic metre,27
+HUN,Hungary,Air pollution,Micrograms per cubic metre,15
+ISL,Iceland,Air pollution,Micrograms per cubic metre,18
+IRL,Ireland,Air pollution,Micrograms per cubic metre,13
+ITA,Italy,Air pollution,Micrograms per cubic metre,21
+JPN,Japan,Air pollution,Micrograms per cubic metre,24
+KOR,Korea,Air pollution,Micrograms per cubic metre,30
+LUX,Luxembourg,Air pollution,Micrograms per cubic metre,12
+MEX,Mexico,Air pollution,Micrograms per cubic metre,30
+NLD,Netherlands,Air pollution,Micrograms per cubic metre,30
+NZL,New Zealand,Air pollution,Micrograms per cubic metre,11
+NOR,Norway,Air pollution,Micrograms per cubic metre,16
+POL,Poland,Air pollution,Micrograms per cubic metre,33
+PRT,Portugal,Air pollution,Micrograms per cubic metre,18
+SVK,Slovak Republic,Air pollution,Micrograms per cubic metre,13
+ESP,Spain,Air pollution,Micrograms per cubic metre,24
+SWE,Sweden,Air pollution,Micrograms per cubic metre,10
+CHE,Switzerland,Air pollution,Micrograms per cubic metre,20
+TUR,Turkey,Air pollution,Micrograms per cubic metre,35
+GBR,United Kingdom,Air pollution,Micrograms per cubic metre,13
+USA,United States,Air pollution,Micrograms per cubic metre,18
+BRA,Brazil,Air pollution,Micrograms per cubic metre,18
+CHL,Chile,Air pollution,Micrograms per cubic metre,46
+EST,Estonia,Air pollution,Micrograms per cubic metre,9
+ISR,Israel,Air pollution,Micrograms per cubic metre,21
+RUS,Russia,Air pollution,Micrograms per cubic metre,15
+SVN,Slovenia,Air pollution,Micrograms per cubic metre,26
+AUS,Australia,Water quality,Percentage,93
+AUT,Austria,Water quality,Percentage,95
+BEL,Belgium,Water quality,Percentage,84
+CAN,Canada,Water quality,Percentage,90
+CZE,Czech Republic,Water quality,Percentage,81
+DNK,Denmark,Water quality,Percentage,95
+FIN,Finland,Water quality,Percentage,95
+FRA,France,Water quality,Percentage,85
+DEU,Germany,Water quality,Percentage,94
+GRC,Greece,Water quality,Percentage,66
+HUN,Hungary,Water quality,Percentage,77
+ISL,Iceland,Water quality,Percentage,97
+IRL,Ireland,Water quality,Percentage,84
+ITA,Italy,Water quality,Percentage,80
+JPN,Japan,Water quality,Percentage,86
+KOR,Korea,Water quality,Percentage,78
+LUX,Luxembourg,Water quality,Percentage,81
+MEX,Mexico,Water quality,Percentage,68
+NLD,Netherlands,Water quality,Percentage,94
+NZL,New Zealand,Water quality,Percentage,89
+NOR,Norway,Water quality,Percentage,96
+POL,Poland,Water quality,Percentage,77
+PRT,Portugal,Water quality,Percentage,87
+SVK,Slovak Republic,Water quality,Percentage,82
+ESP,Spain,Water quality,Percentage,75
+SWE,Sweden,Water quality,Percentage,97
+CHE,Switzerland,Water quality,Percentage,95
+TUR,Turkey,Water quality,Percentage,60
+GBR,United Kingdom,Water quality,Percentage,92
+USA,United States,Water quality,Percentage,87
+BRA,Brazil,Water quality,Percentage,67
+CHL,Chile,Water quality,Percentage,79
+EST,Estonia,Water quality,Percentage,80
+ISR,Israel,Water quality,Percentage,66
+RUS,Russia,Water quality,Percentage,44
+SVN,Slovenia,Water quality,Percentage,90
+AUS,Australia,Water quality,Percentage,94
+AUT,Austria,Water quality,Percentage,96
+BEL,Belgium,Water quality,Percentage,80
+CAN,Canada,Water quality,Percentage,92
+CZE,Czech Republic,Water quality,Percentage,82
+DNK,Denmark,Water quality,Percentage,96
+FIN,Finland,Water quality,Percentage,95
+FRA,France,Water quality,Percentage,85
+DEU,Germany,Water quality,Percentage,95
+GRC,Greece,Water quality,Percentage,67
+HUN,Hungary,Water quality,Percentage,75
+ISL,Iceland,Water quality,Percentage,97
+IRL,Ireland,Water quality,Percentage,88
+ITA,Italy,Water quality,Percentage,85
+JPN,Japan,Water quality,Percentage,88
+KOR,Korea,Water quality,Percentage,80
+LUX,Luxembourg,Water quality,Percentage,79
+MEX,Mexico,Water quality,Percentage,67
+NLD,Netherlands,Water quality,Percentage,95
+NZL,New Zealand,Water quality,Percentage,93
+NOR,Norway,Water quality,Percentage,96
+POL,Poland,Water quality,Percentage,80
+PRT,Portugal,Water quality,Percentage,88
+SVK,Slovak Republic,Water quality,Percentage,82
+ESP,Spain,Water quality,Percentage,78
+SWE,Sweden,Water quality,Percentage,96
+CHE,Switzerland,Water quality,Percentage,97
+TUR,Turkey,Water quality,Percentage,60
+GBR,United Kingdom,Water quality,Percentage,95
+USA,United States,Water quality,Percentage,89
+BRA,Brazil,Water quality,Percentage,69
+CHL,Chile,Water quality,Percentage,80
+EST,Estonia,Water quality,Percentage,81
+ISR,Israel,Water quality,Percentage,66
+RUS,Russia,Water quality,Percentage,47
+SVN,Slovenia,Water quality,Percentage,92
+AUS,Australia,Water quality,Percentage,92
+AUT,Austria,Water quality,Percentage,94
+BEL,Belgium,Water quality,Percentage,87
+CAN,Canada,Water quality,Percentage,87
+CZE,Czech Republic,Water quality,Percentage,79
+DNK,Denmark,Water quality,Percentage,95
+FIN,Finland,Water quality,Percentage,96
+FRA,France,Water quality,Percentage,85
+DEU,Germany,Water quality,Percentage,94
+GRC,Greece,Water quality,Percentage,66
+HUN,Hungary,Water quality,Percentage,78
+ISL,Iceland,Water quality,Percentage,98
+IRL,Ireland,Water quality,Percentage,80
+ITA,Italy,Water quality,Percentage,75
+JPN,Japan,Water quality,Percentage,83
+KOR,Korea,Water quality,Percentage,76
+LUX,Luxembourg,Water quality,Percentage,82
+MEX,Mexico,Water quality,Percentage,69
+NLD,Netherlands,Water quality,Percentage,92
+NZL,New Zealand,Water quality,Percentage,86
+NOR,Norway,Water quality,Percentage,96
+POL,Poland,Water quality,Percentage,74
+PRT,Portugal,Water quality,Percentage,86
+SVK,Slovak Republic,Water quality,Percentage,82
+ESP,Spain,Water quality,Percentage,73
+SWE,Sweden,Water quality,Percentage,97
+CHE,Switzerland,Water quality,Percentage,92
+TUR,Turkey,Water quality,Percentage,59
+GBR,United Kingdom,Water quality,Percentage,89
+USA,United States,Water quality,Percentage,86
+BRA,Brazil,Water quality,Percentage,66
+CHL,Chile,Water quality,Percentage,78
+EST,Estonia,Water quality,Percentage,80
+ISR,Israel,Water quality,Percentage,65
+RUS,Russia,Water quality,Percentage,42
+SVN,Slovenia,Water quality,Percentage,87
+AUS,Australia,Water quality,Percentage,95
+AUT,Austria,Water quality,Percentage,95
+BEL,Belgium,Water quality,Percentage,81
+CAN,Canada,Water quality,Percentage,92
+CZE,Czech Republic,Water quality,Percentage,90
+DNK,Denmark,Water quality,Percentage,97
+FIN,Finland,Water quality,Percentage,95
+FRA,France,Water quality,Percentage,81
+DEU,Germany,Water quality,Percentage,95
+GRC,Greece,Water quality,Percentage,67
+HUN,Hungary,Water quality,Percentage,79
+ISL,Iceland,Water quality,Percentage,98
+IRL,Ireland,Water quality,Percentage,82
+ITA,Italy,Water quality,Percentage,77
+JPN,Japan,Water quality,Percentage,86
+KOR,Korea,Water quality,Percentage,75
+LUX,Luxembourg,Water quality,Percentage,91
+MEX,Mexico,Water quality,Percentage,74
+NLD,Netherlands,Water quality,Percentage,93
+NZL,New Zealand,Water quality,Percentage,91
+NOR,Norway,Water quality,Percentage,97
+POL,Poland,Water quality,Percentage,79
+PRT,Portugal,Water quality,Percentage,86
+SVK,Slovak Republic,Water quality,Percentage,80
+ESP,Spain,Water quality,Percentage,73
+SWE,Sweden,Water quality,Percentage,97
+CHE,Switzerland,Water quality,Percentage,95
+TUR,Turkey,Water quality,Percentage,52
+GBR,United Kingdom,Water quality,Percentage,92
+USA,United States,Water quality,Percentage,88
+BRA,Brazil,Water quality,Percentage,82
+CHL,Chile,Water quality,Percentage,75
+EST,Estonia,Water quality,Percentage,83
+ISR,Israel,Water quality,Percentage,66
+RUS,Russia,Water quality,Percentage,40
+SVN,Slovenia,Water quality,Percentage,79
+AUS,Australia,Water quality,Percentage,81
+AUT,Austria,Water quality,Percentage,94
+BEL,Belgium,Water quality,Percentage,75
+CAN,Canada,Water quality,Percentage,88
+CZE,Czech Republic,Water quality,Percentage,71
+DNK,Denmark,Water quality,Percentage,93
+FIN,Finland,Water quality,Percentage,95
+FRA,France,Water quality,Percentage,90
+DEU,Germany,Water quality,Percentage,96
+GRC,Greece,Water quality,Percentage,66
+HUN,Hungary,Water quality,Percentage,75
+ISL,Iceland,Water quality,Percentage,97
+IRL,Ireland,Water quality,Percentage,93
+ITA,Italy,Water quality,Percentage,80
+JPN,Japan,Water quality,Percentage,85
+KOR,Korea,Water quality,Percentage,80
+LUX,Luxembourg,Water quality,Percentage,80
+MEX,Mexico,Water quality,Percentage,68
+NLD,Netherlands,Water quality,Percentage,95
+NZL,New Zealand,Water quality,Percentage,90
+NOR,Norway,Water quality,Percentage,95
+POL,Poland,Water quality,Percentage,86
+PRT,Portugal,Water quality,Percentage,87
+SVK,Slovak Republic,Water quality,Percentage,85
+ESP,Spain,Water quality,Percentage,80
+SWE,Sweden,Water quality,Percentage,94
+CHE,Switzerland,Water quality,Percentage,95
+TUR,Turkey,Water quality,Percentage,64
+GBR,United Kingdom,Water quality,Percentage,87
+USA,United States,Water quality,Percentage,90
+BRA,Brazil,Water quality,Percentage,69
+CHL,Chile,Water quality,Percentage,85
+EST,Estonia,Water quality,Percentage,83
+ISR,Israel,Water quality,Percentage,69
+RUS,Russia,Water quality,Percentage,52
+SVN,Slovenia,Water quality,Percentage,92
+AUS,Australia,Consultation on rule-making,Average score,10.5
+AUT,Austria,Consultation on rule-making,Average score,7.1
+BEL,Belgium,Consultation on rule-making,Average score,4.5
+CAN,Canada,Consultation on rule-making,Average score,10.5
+CZE,Czech Republic,Consultation on rule-making,Average score,6.8
+DNK,Denmark,Consultation on rule-making,Average score,7
+FIN,Finland,Consultation on rule-making,Average score,9
+FRA,France,Consultation on rule-making,Average score,3.5
+DEU,Germany,Consultation on rule-making,Average score,4.5
+GRC,Greece,Consultation on rule-making,Average score,6.5
+HUN,Hungary,Consultation on rule-making,Average score,7.9
+ISL,Iceland,Consultation on rule-making,Average score,5.1
+IRL,Ireland,Consultation on rule-making,Average score,9
+ITA,Italy,Consultation on rule-making,Average score,5
+JPN,Japan,Consultation on rule-making,Average score,7.3
+KOR,Korea,Consultation on rule-making,Average score,10.4
+LUX,Luxembourg,Consultation on rule-making,Average score,6
+MEX,Mexico,Consultation on rule-making,Average score,9
+NLD,Netherlands,Consultation on rule-making,Average score,6.1
+NZL,New Zealand,Consultation on rule-making,Average score,10.3
+NOR,Norway,Consultation on rule-making,Average score,8.1
+POL,Poland,Consultation on rule-making,Average score,10.8
+PRT,Portugal,Consultation on rule-making,Average score,6.5
+SVK,Slovak Republic,Consultation on rule-making,Average score,6.6
+ESP,Spain,Consultation on rule-making,Average score,7.3
+SWE,Sweden,Consultation on rule-making,Average score,10.9
+CHE,Switzerland,Consultation on rule-making,Average score,8.4
+TUR,Turkey,Consultation on rule-making,Average score,5.5
+GBR,United Kingdom,Consultation on rule-making,Average score,11.5
+USA,United States,Consultation on rule-making,Average score,8.3
+BRA,Brazil,Consultation on rule-making,Average score,4
+CHL,Chile,Consultation on rule-making,Average score,2
+EST,Estonia,Consultation on rule-making,Average score,3.3
+ISR,Israel,Consultation on rule-making,Average score,2.5
+RUS,Russia,Consultation on rule-making,Average score,2.5
+SVN,Slovenia,Consultation on rule-making,Average score,10.3
+AUS,Australia,Consultation on rule-making,Average score,10.5
+AUT,Austria,Consultation on rule-making,Average score,7.1
+BEL,Belgium,Consultation on rule-making,Average score,4.5
+CAN,Canada,Consultation on rule-making,Average score,10.5
+CZE,Czech Republic,Consultation on rule-making,Average score,6.8
+DNK,Denmark,Consultation on rule-making,Average score,7
+FIN,Finland,Consultation on rule-making,Average score,9
+FRA,France,Consultation on rule-making,Average score,3.5
+DEU,Germany,Consultation on rule-making,Average score,4.5
+GRC,Greece,Consultation on rule-making,Average score,6.5
+HUN,Hungary,Consultation on rule-making,Average score,7.9
+ISL,Iceland,Consultation on rule-making,Average score,5.1
+IRL,Ireland,Consultation on rule-making,Average score,9
+ITA,Italy,Consultation on rule-making,Average score,5
+JPN,Japan,Consultation on rule-making,Average score,7.3
+KOR,Korea,Consultation on rule-making,Average score,10.4
+LUX,Luxembourg,Consultation on rule-making,Average score,6
+MEX,Mexico,Consultation on rule-making,Average score,9
+NLD,Netherlands,Consultation on rule-making,Average score,6.1
+NZL,New Zealand,Consultation on rule-making,Average score,10.3
+NOR,Norway,Consultation on rule-making,Average score,8.1
+POL,Poland,Consultation on rule-making,Average score,10.8
+PRT,Portugal,Consultation on rule-making,Average score,6.5
+SVK,Slovak Republic,Consultation on rule-making,Average score,6.6
+ESP,Spain,Consultation on rule-making,Average score,7.3
+SWE,Sweden,Consultation on rule-making,Average score,10.9
+CHE,Switzerland,Consultation on rule-making,Average score,8.4
+TUR,Turkey,Consultation on rule-making,Average score,5.5
+GBR,United Kingdom,Consultation on rule-making,Average score,11.5
+USA,United States,Consultation on rule-making,Average score,8.3
+BRA,Brazil,Consultation on rule-making,Average score,4
+CHL,Chile,Consultation on rule-making,Average score,2
+EST,Estonia,Consultation on rule-making,Average score,3.3
+ISR,Israel,Consultation on rule-making,Average score,2.5
+RUS,Russia,Consultation on rule-making,Average score,2.5
+SVN,Slovenia,Consultation on rule-making,Average score,10.3
+AUS,Australia,Consultation on rule-making,Average score,10.5
+AUT,Austria,Consultation on rule-making,Average score,7.1
+BEL,Belgium,Consultation on rule-making,Average score,4.5
+CAN,Canada,Consultation on rule-making,Average score,10.5
+CZE,Czech Republic,Consultation on rule-making,Average score,6.8
+DNK,Denmark,Consultation on rule-making,Average score,7
+FIN,Finland,Consultation on rule-making,Average score,9
+FRA,France,Consultation on rule-making,Average score,3.5
+DEU,Germany,Consultation on rule-making,Average score,4.5
+GRC,Greece,Consultation on rule-making,Average score,6.5
+HUN,Hungary,Consultation on rule-making,Average score,7.9
+ISL,Iceland,Consultation on rule-making,Average score,5.1
+IRL,Ireland,Consultation on rule-making,Average score,9
+ITA,Italy,Consultation on rule-making,Average score,5
+JPN,Japan,Consultation on rule-making,Average score,7.3
+KOR,Korea,Consultation on rule-making,Average score,10.4
+LUX,Luxembourg,Consultation on rule-making,Average score,6
+MEX,Mexico,Consultation on rule-making,Average score,9
+NLD,Netherlands,Consultation on rule-making,Average score,6.1
+NZL,New Zealand,Consultation on rule-making,Average score,10.3
+NOR,Norway,Consultation on rule-making,Average score,8.1
+POL,Poland,Consultation on rule-making,Average score,10.8
+PRT,Portugal,Consultation on rule-making,Average score,6.5
+SVK,Slovak Republic,Consultation on rule-making,Average score,6.6
+ESP,Spain,Consultation on rule-making,Average score,7.3
+SWE,Sweden,Consultation on rule-making,Average score,10.9
+CHE,Switzerland,Consultation on rule-making,Average score,8.4
+TUR,Turkey,Consultation on rule-making,Average score,5.5
+GBR,United Kingdom,Consultation on rule-making,Average score,11.5
+USA,United States,Consultation on rule-making,Average score,8.3
+BRA,Brazil,Consultation on rule-making,Average score,4
+CHL,Chile,Consultation on rule-making,Average score,2
+EST,Estonia,Consultation on rule-making,Average score,3.3
+ISR,Israel,Consultation on rule-making,Average score,2.5
+RUS,Russia,Consultation on rule-making,Average score,2.5
+SVN,Slovenia,Consultation on rule-making,Average score,10.3
+AUS,Australia,Voter turnout,Percentage,93
+AUT,Austria,Voter turnout,Percentage,75
+BEL,Belgium,Voter turnout,Percentage,89
+CAN,Canada,Voter turnout,Percentage,61
+CZE,Czech Republic,Voter turnout,Percentage,59
+DNK,Denmark,Voter turnout,Percentage,88
+FIN,Finland,Voter turnout,Percentage,69
+FRA,France,Voter turnout,Percentage,80
+DEU,Germany,Voter turnout,Percentage,72
+GRC,Greece,Voter turnout,Percentage,62
+HUN,Hungary,Voter turnout,Percentage,64
+ISL,Iceland,Voter turnout,Percentage,81
+IRL,Ireland,Voter turnout,Percentage,70
+ITA,Italy,Voter turnout,Percentage,75
+JPN,Japan,Voter turnout,Percentage,59
+KOR,Korea,Voter turnout,Percentage,76
+LUX,Luxembourg,Voter turnout,Percentage,91
+MEX,Mexico,Voter turnout,Percentage,63
+NLD,Netherlands,Voter turnout,Percentage,75
+NZL,New Zealand,Voter turnout,Percentage,74
+NOR,Norway,Voter turnout,Percentage,78
+POL,Poland,Voter turnout,Percentage,55
+PRT,Portugal,Voter turnout,Percentage,58
+SVK,Slovak Republic,Voter turnout,Percentage,59
+ESP,Spain,Voter turnout,Percentage,69
+SWE,Sweden,Voter turnout,Percentage,85
+CHE,Switzerland,Voter turnout,Percentage,49
+TUR,Turkey,Voter turnout,Percentage,88
+GBR,United Kingdom,Voter turnout,Percentage,66
+USA,United States,Voter turnout,Percentage,67
+BRA,Brazil,Voter turnout,Percentage,79
+CHL,Chile,Voter turnout,Percentage,88
+EST,Estonia,Voter turnout,Percentage,64
+ISR,Israel,Voter turnout,Percentage,68
+RUS,Russia,Voter turnout,Percentage,65
+SVN,Slovenia,Voter turnout,Percentage,66
+AUS,Australia,Voter turnout,Percentage,93
+AUT,Austria,Voter turnout,Percentage,77
+BEL,Belgium,Voter turnout,Percentage,91
+CAN,Canada,Voter turnout,Percentage,61
+CZE,Czech Republic,Voter turnout,Percentage,59
+DNK,Denmark,Voter turnout,Percentage,88
+FIN,Finland,Voter turnout,Percentage,70
+FRA,France,Voter turnout,Percentage,85
+DEU,Germany,Voter turnout,Percentage,73
+GRC,Greece,Voter turnout,Percentage,62
+HUN,Hungary,Voter turnout,Percentage,65
+ISL,Iceland,Voter turnout,Percentage,81
+IRL,Ireland,Voter turnout,Percentage,73
+ITA,Italy,Voter turnout,Percentage,77
+JPN,Japan,Voter turnout,Percentage,60
+KOR,Korea,Voter turnout,Percentage,78
+LUX,Luxembourg,Voter turnout,Percentage,92
+MEX,Mexico,Voter turnout,Percentage,65
+NLD,Netherlands,Voter turnout,Percentage,73
+NZL,New Zealand,Voter turnout,Percentage,75
+NOR,Norway,Voter turnout,Percentage,78
+POL,Poland,Voter turnout,Percentage,58
+PRT,Portugal,Voter turnout,Percentage,58
+SVK,Slovak Republic,Voter turnout,Percentage,59
+ESP,Spain,Voter turnout,Percentage,69
+SWE,Sweden,Voter turnout,Percentage,83
+CHE,Switzerland,Voter turnout,Percentage,58
+TUR,Turkey,Voter turnout,Percentage,87
+GBR,United Kingdom,Voter turnout,Percentage,62
+USA,United States,Voter turnout,Percentage,64
+BRA,Brazil,Voter turnout,Percentage,78
+CHL,Chile,Voter turnout,Percentage,86
+EST,Estonia,Voter turnout,Percentage,60
+ISR,Israel,Voter turnout,Percentage,67
+RUS,Russia,Voter turnout,Percentage,61
+SVN,Slovenia,Voter turnout,Percentage,66
+AUS,Australia,Voter turnout,Percentage,93
+AUT,Austria,Voter turnout,Percentage,73
+BEL,Belgium,Voter turnout,Percentage,88
+CAN,Canada,Voter turnout,Percentage,62
+CZE,Czech Republic,Voter turnout,Percentage,60
+DNK,Denmark,Voter turnout,Percentage,88
+FIN,Finland,Voter turnout,Percentage,68
+FRA,France,Voter turnout,Percentage,75
+DEU,Germany,Voter turnout,Percentage,70
+GRC,Greece,Voter turnout,Percentage,63
+HUN,Hungary,Voter turnout,Percentage,63
+ISL,Iceland,Voter turnout,Percentage,82
+IRL,Ireland,Voter turnout,Percentage,67
+ITA,Italy,Voter turnout,Percentage,73
+JPN,Japan,Voter turnout,Percentage,59
+KOR,Korea,Voter turnout,Percentage,74
+LUX,Luxembourg,Voter turnout,Percentage,90
+MEX,Mexico,Voter turnout,Percentage,61
+NLD,Netherlands,Voter turnout,Percentage,76
+NZL,New Zealand,Voter turnout,Percentage,73
+NOR,Norway,Voter turnout,Percentage,78
+POL,Poland,Voter turnout,Percentage,53
+PRT,Portugal,Voter turnout,Percentage,58
+SVK,Slovak Republic,Voter turnout,Percentage,59
+ESP,Spain,Voter turnout,Percentage,68
+SWE,Sweden,Voter turnout,Percentage,87
+CHE,Switzerland,Voter turnout,Percentage,42
+TUR,Turkey,Voter turnout,Percentage,88
+GBR,United Kingdom,Voter turnout,Percentage,69
+USA,United States,Voter turnout,Percentage,69
+BRA,Brazil,Voter turnout,Percentage,79
+CHL,Chile,Voter turnout,Percentage,89
+EST,Estonia,Voter turnout,Percentage,66
+ISR,Israel,Voter turnout,Percentage,69
+RUS,Russia,Voter turnout,Percentage,69
+SVN,Slovenia,Voter turnout,Percentage,65
+AUS,Australia,Voter turnout,Percentage,94
+AUT,Austria,Voter turnout,Percentage,82
+BEL,Belgium,Voter turnout,Percentage,97
+CAN,Canada,Voter turnout,Percentage,63
+CZE,Czech Republic,Voter turnout,Percentage,68
+DNK,Denmark,Voter turnout,Percentage,90
+FIN,Finland,Voter turnout,Percentage,74
+FRA,France,Voter turnout,Percentage,89
+DEU,Germany,Voter turnout,Percentage,81
+GRC,Greece,Voter turnout,Percentage,70
+HUN,Hungary,Voter turnout,Percentage,72
+ISL,Iceland,Voter turnout,Percentage,84
+IRL,Ireland,Voter turnout,Percentage,69
+ITA,Italy,Voter turnout,Percentage,85
+JPN,Japan,Voter turnout,Percentage,59
+KOR,Korea,Voter turnout,Percentage,100
+LUX,Luxembourg,Voter turnout,Percentage,98
+MEX,Mexico,Voter turnout,Percentage,63
+NLD,Netherlands,Voter turnout,Percentage,84
+NZL,New Zealand,Voter turnout,Percentage,81
+NOR,Norway,Voter turnout,Percentage,85
+POL,Poland,Voter turnout,Percentage,68
+PRT,Portugal,Voter turnout,Percentage,63
+SVK,Slovak Republic,Voter turnout,Percentage,64
+ESP,Spain,Voter turnout,Percentage,76
+SWE,Sweden,Voter turnout,Percentage,89
+CHE,Switzerland,Voter turnout,Percentage,61
+TUR,Turkey,Voter turnout,Percentage,89
+GBR,United Kingdom,Voter turnout,Percentage,73
+USA,United States,Voter turnout,Percentage,75
+BRA,Brazil,Voter turnout,Percentage,81
+CHL,Chile,Voter turnout,Percentage,90
+EST,Estonia,Voter turnout,Percentage,68
+ISR,Israel,Voter turnout,Percentage,74
+RUS,Russia,Voter turnout,Percentage,70
+SVN,Slovenia,Voter turnout,Percentage,75
+AUS,Australia,Voter turnout,Percentage,92
+AUT,Austria,Voter turnout,Percentage,72
+BEL,Belgium,Voter turnout,Percentage,93
+CAN,Canada,Voter turnout,Percentage,60
+CZE,Czech Republic,Voter turnout,Percentage,49
+DNK,Denmark,Voter turnout,Percentage,86
+FIN,Finland,Voter turnout,Percentage,61
+FRA,France,Voter turnout,Percentage,79
+DEU,Germany,Voter turnout,Percentage,59
+GRC,Greece,Voter turnout,Percentage,57
+HUN,Hungary,Voter turnout,Percentage,53
+ISL,Iceland,Voter turnout,Percentage,74
+IRL,Ireland,Voter turnout,Percentage,67
+ITA,Italy,Voter turnout,Percentage,73
+JPN,Japan,Voter turnout,Percentage,59
+KOR,Korea,Voter turnout,Percentage,71
+LUX,Luxembourg,Voter turnout,Percentage,94
+MEX,Mexico,Voter turnout,Percentage,61
+NLD,Netherlands,Voter turnout,Percentage,65
+NZL,New Zealand,Voter turnout,Percentage,75
+NOR,Norway,Voter turnout,Percentage,72
+POL,Poland,Voter turnout,Percentage,43
+PRT,Portugal,Voter turnout,Percentage,56
+SVK,Slovak Republic,Voter turnout,Percentage,60
+ESP,Spain,Voter turnout,Percentage,66
+SWE,Sweden,Voter turnout,Percentage,83
+CHE,Switzerland,Voter turnout,Percentage,43
+TUR,Turkey,Voter turnout,Percentage,84
+GBR,United Kingdom,Voter turnout,Percentage,50
+USA,United States,Voter turnout,Percentage,53
+BRA,Brazil,Voter turnout,Percentage,80
+CHL,Chile,Voter turnout,Percentage,92
+EST,Estonia,Voter turnout,Percentage,56
+ISR,Israel,Voter turnout,Percentage,66
+RUS,Russia,Voter turnout,Percentage,66
+SVN,Slovenia,Voter turnout,Percentage,62
+AUS,Australia,Life expectancy,Years,82
+AUT,Austria,Life expectancy,Years,81.1
+BEL,Belgium,Life expectancy,Years,80.5
+CAN,Canada,Life expectancy,Years,81
+CZE,Czech Republic,Life expectancy,Years,78
+DNK,Denmark,Life expectancy,Years,79.9
+FIN,Finland,Life expectancy,Years,80.6
+FRA,France,Life expectancy,Years,82.2
+DEU,Germany,Life expectancy,Years,80.8
+GRC,Greece,Life expectancy,Years,80.8
+HUN,Hungary,Life expectancy,Years,75
+ISL,Iceland,Life expectancy,Years,82.4
+IRL,Ireland,Life expectancy,Years,80.6
+ITA,Italy,Life expectancy,Years,82.7
+JPN,Japan,Life expectancy,Years,82.7
+KOR,Korea,Life expectancy,Years,81.1
+LUX,Luxembourg,Life expectancy,Years,81.1
+MEX,Mexico,Life expectancy,Years,74.4
+NLD,Netherlands,Life expectancy,Years,81.3
+NZL,New Zealand,Life expectancy,Years,81.2
+NOR,Norway,Life expectancy,Years,81.4
+POL,Poland,Life expectancy,Years,76.9
+PRT,Portugal,Life expectancy,Years,80.8
+SVK,Slovak Republic,Life expectancy,Years,76.1
+ESP,Spain,Life expectancy,Years,82.4
+SWE,Sweden,Life expectancy,Years,81.9
+CHE,Switzerland,Life expectancy,Years,82.8
+TUR,Turkey,Life expectancy,Years,74.6
+GBR,United Kingdom,Life expectancy,Years,81.1
+USA,United States,Life expectancy,Years,78.7
+BRA,Brazil,Life expectancy,Years,73.4
+CHL,Chile,Life expectancy,Years,78.3
+EST,Estonia,Life expectancy,Years,76.3
+ISR,Israel,Life expectancy,Years,81.8
+RUS,Russia,Life expectancy,Years,69
+SVN,Slovenia,Life expectancy,Years,80.1
+AUS,Australia,Life expectancy,Years,79.7
+AUT,Austria,Life expectancy,Years,78.3
+BEL,Belgium,Life expectancy,Years,77.8
+CAN,Canada,Life expectancy,Years,78.7
+CZE,Czech Republic,Life expectancy,Years,74.8
+DNK,Denmark,Life expectancy,Years,77.8
+FIN,Finland,Life expectancy,Years,77.3
+FRA,France,Life expectancy,Years,78.7
+DEU,Germany,Life expectancy,Years,78.4
+GRC,Greece,Life expectancy,Years,78.5
+HUN,Hungary,Life expectancy,Years,71.2
+ISL,Iceland,Life expectancy,Years,80.7
+IRL,Ireland,Life expectancy,Years,78.3
+ITA,Italy,Life expectancy,Years,80.1
+JPN,Japan,Life expectancy,Years,79.4
+KOR,Korea,Life expectancy,Years,77.7
+LUX,Luxembourg,Life expectancy,Years,78.5
+MEX,Mexico,Life expectancy,Years,71.4
+NLD,Netherlands,Life expectancy,Years,79.4
+NZL,New Zealand,Life expectancy,Years,79.4
+NOR,Norway,Life expectancy,Years,79.1
+POL,Poland,Life expectancy,Years,72.6
+PRT,Portugal,Life expectancy,Years,77.6
+SVK,Slovak Republic,Life expectancy,Years,72.3
+ESP,Spain,Life expectancy,Years,79.4
+SWE,Sweden,Life expectancy,Years,79.9
+CHE,Switzerland,Life expectancy,Years,80.5
+TUR,Turkey,Life expectancy,Years,72
+GBR,United Kingdom,Life expectancy,Years,79.1
+USA,United States,Life expectancy,Years,76.3
+BRA,Brazil,Life expectancy,Years,70.1
+CHL,Chile,Life expectancy,Years,75.7
+EST,Estonia,Life expectancy,Years,71.2
+ISR,Israel,Life expectancy,Years,79.9
+RUS,Russia,Life expectancy,Years,63.2
+SVN,Slovenia,Life expectancy,Years,76.8
+AUS,Australia,Life expectancy,Years,84.2
+AUT,Austria,Life expectancy,Years,83.9
+BEL,Belgium,Life expectancy,Years,83.2
+CAN,Canada,Life expectancy,Years,83.3
+CZE,Czech Republic,Life expectancy,Years,81.1
+DNK,Denmark,Life expectancy,Years,81.9
+FIN,Finland,Life expectancy,Years,83.8
+FRA,France,Life expectancy,Years,85.7
+DEU,Germany,Life expectancy,Years,83.2
+GRC,Greece,Life expectancy,Years,83.1
+HUN,Hungary,Life expectancy,Years,78.7
+ISL,Iceland,Life expectancy,Years,84.1
+IRL,Ireland,Life expectancy,Years,82.8
+ITA,Italy,Life expectancy,Years,85.3
+JPN,Japan,Life expectancy,Years,85.9
+KOR,Korea,Life expectancy,Years,84.5
+LUX,Luxembourg,Life expectancy,Years,83.6
+MEX,Mexico,Life expectancy,Years,77.3
+NLD,Netherlands,Life expectancy,Years,83.1
+NZL,New Zealand,Life expectancy,Years,83
+NOR,Norway,Life expectancy,Years,83.6
+POL,Poland,Life expectancy,Years,81.1
+PRT,Portugal,Life expectancy,Years,84
+SVK,Slovak Republic,Life expectancy,Years,79.8
+ESP,Spain,Life expectancy,Years,85.4
+SWE,Sweden,Life expectancy,Years,83.8
+CHE,Switzerland,Life expectancy,Years,85
+TUR,Turkey,Life expectancy,Years,77.2
+GBR,United Kingdom,Life expectancy,Years,83.1
+USA,United States,Life expectancy,Years,81.1
+BRA,Brazil,Life expectancy,Years,77
+CHL,Chile,Life expectancy,Years,81
+EST,Estonia,Life expectancy,Years,81.3
+ISR,Israel,Life expectancy,Years,83.6
+RUS,Russia,Life expectancy,Years,75.1
+SVN,Slovenia,Life expectancy,Years,83.3
+AUS,Australia,Self-reported health,Percentage,85
+AUT,Austria,Self-reported health,Percentage,69
+BEL,Belgium,Self-reported health,Percentage,74
+CAN,Canada,Self-reported health,Percentage,88
+CZE,Czech Republic,Self-reported health,Percentage,60
+DNK,Denmark,Self-reported health,Percentage,71
+FIN,Finland,Self-reported health,Percentage,69
+FRA,France,Self-reported health,Percentage,68
+DEU,Germany,Self-reported health,Percentage,65
+GRC,Greece,Self-reported health,Percentage,76
+HUN,Hungary,Self-reported health,Percentage,56
+ISL,Iceland,Self-reported health,Percentage,78
+IRL,Ireland,Self-reported health,Percentage,83
+ITA,Italy,Self-reported health,Percentage,65
+JPN,Japan,Self-reported health,Percentage,30
+KOR,Korea,Self-reported health,Percentage,37
+LUX,Luxembourg,Self-reported health,Percentage,73
+MEX,Mexico,Self-reported health,Percentage,66
+NLD,Netherlands,Self-reported health,Percentage,76
+NZL,New Zealand,Self-reported health,Percentage,89
+NOR,Norway,Self-reported health,Percentage,73
+POL,Poland,Self-reported health,Percentage,58
+PRT,Portugal,Self-reported health,Percentage,50
+SVK,Slovak Republic,Self-reported health,Percentage,63
+ESP,Spain,Self-reported health,Percentage,75
+SWE,Sweden,Self-reported health,Percentage,80
+CHE,Switzerland,Self-reported health,Percentage,81
+TUR,Turkey,Self-reported health,Percentage,67
+GBR,United Kingdom,Self-reported health,Percentage,78
+USA,United States,Self-reported health,Percentage,90
+BRA,Brazil,Self-reported health,Percentage,69
+CHL,Chile,Self-reported health,Percentage,59
+EST,Estonia,Self-reported health,Percentage,52
+ISR,Israel,Self-reported health,Percentage,82
+RUS,Russia,Self-reported health,Percentage,37
+SVN,Slovenia,Self-reported health,Percentage,61
+AUS,Australia,Self-reported health,Percentage,85
+AUT,Austria,Self-reported health,Percentage,71
+BEL,Belgium,Self-reported health,Percentage,76
+CAN,Canada,Self-reported health,Percentage,89
+CZE,Czech Republic,Self-reported health,Percentage,63
+DNK,Denmark,Self-reported health,Percentage,73
+FIN,Finland,Self-reported health,Percentage,71
+FRA,France,Self-reported health,Percentage,71
+DEU,Germany,Self-reported health,Percentage,66
+GRC,Greece,Self-reported health,Percentage,79
+HUN,Hungary,Self-reported health,Percentage,60
+ISL,Iceland,Self-reported health,Percentage,79
+IRL,Ireland,Self-reported health,Percentage,84
+ITA,Italy,Self-reported health,Percentage,68
+JPN,Japan,Self-reported health,Percentage,32
+KOR,Korea,Self-reported health,Percentage,40
+LUX,Luxembourg,Self-reported health,Percentage,75
+MEX,Mexico,Self-reported health,Percentage,67
+NLD,Netherlands,Self-reported health,Percentage,80
+NZL,New Zealand,Self-reported health,Percentage,90
+NOR,Norway,Self-reported health,Percentage,75
+POL,Poland,Self-reported health,Percentage,61
+PRT,Portugal,Self-reported health,Percentage,55
+SVK,Slovak Republic,Self-reported health,Percentage,68
+ESP,Spain,Self-reported health,Percentage,78
+SWE,Sweden,Self-reported health,Percentage,82
+CHE,Switzerland,Self-reported health,Percentage,84
+TUR,Turkey,Self-reported health,Percentage,72
+GBR,United Kingdom,Self-reported health,Percentage,79
+USA,United States,Self-reported health,Percentage,90
+BRA,Brazil,Self-reported health,Percentage,72
+CHL,Chile,Self-reported health,Percentage,67
+EST,Estonia,Self-reported health,Percentage,55
+ISR,Israel,Self-reported health,Percentage,84
+RUS,Russia,Self-reported health,Percentage,45
+SVN,Slovenia,Self-reported health,Percentage,64
+AUS,Australia,Self-reported health,Percentage,85
+AUT,Austria,Self-reported health,Percentage,68
+BEL,Belgium,Self-reported health,Percentage,72
+CAN,Canada,Self-reported health,Percentage,88
+CZE,Czech Republic,Self-reported health,Percentage,57
+DNK,Denmark,Self-reported health,Percentage,69
+FIN,Finland,Self-reported health,Percentage,68
+FRA,France,Self-reported health,Percentage,64
+DEU,Germany,Self-reported health,Percentage,63
+GRC,Greece,Self-reported health,Percentage,74
+HUN,Hungary,Self-reported health,Percentage,53
+ISL,Iceland,Self-reported health,Percentage,76
+IRL,Ireland,Self-reported health,Percentage,83
+ITA,Italy,Self-reported health,Percentage,62
+JPN,Japan,Self-reported health,Percentage,29
+KOR,Korea,Self-reported health,Percentage,34
+LUX,Luxembourg,Self-reported health,Percentage,70
+MEX,Mexico,Self-reported health,Percentage,64
+NLD,Netherlands,Self-reported health,Percentage,74
+NZL,New Zealand,Self-reported health,Percentage,89
+NOR,Norway,Self-reported health,Percentage,71
+POL,Poland,Self-reported health,Percentage,55
+PRT,Portugal,Self-reported health,Percentage,45
+SVK,Slovak Republic,Self-reported health,Percentage,59
+ESP,Spain,Self-reported health,Percentage,72
+SWE,Sweden,Self-reported health,Percentage,78
+CHE,Switzerland,Self-reported health,Percentage,79
+TUR,Turkey,Self-reported health,Percentage,62
+GBR,United Kingdom,Self-reported health,Percentage,77
+USA,United States,Self-reported health,Percentage,89
+BRA,Brazil,Self-reported health,Percentage,66
+CHL,Chile,Self-reported health,Percentage,51
+EST,Estonia,Self-reported health,Percentage,50
+ISR,Israel,Self-reported health,Percentage,80
+RUS,Russia,Self-reported health,Percentage,33
+SVN,Slovenia,Self-reported health,Percentage,58
+AUS,Australia,Self-reported health,Percentage,93
+AUT,Austria,Self-reported health,Percentage,82
+BEL,Belgium,Self-reported health,Percentage,87
+CAN,Canada,Self-reported health,Percentage,95
+CZE,Czech Republic,Self-reported health,Percentage,75
+DNK,Denmark,Self-reported health,Percentage,81
+FIN,Finland,Self-reported health,Percentage,81
+FRA,France,Self-reported health,Percentage,74
+DEU,Germany,Self-reported health,Percentage,77
+GRC,Greece,Self-reported health,Percentage,87
+HUN,Hungary,Self-reported health,Percentage,69
+ISL,Iceland,Self-reported health,Percentage,85
+IRL,Ireland,Self-reported health,Percentage,94
+ITA,Italy,Self-reported health,Percentage,75
+JPN,Japan,Self-reported health,Percentage,35
+KOR,Korea,Self-reported health,Percentage,44
+LUX,Luxembourg,Self-reported health,Percentage,83
+MEX,Mexico,Self-reported health,Percentage,78
+NLD,Netherlands,Self-reported health,Percentage,87
+NZL,New Zealand,Self-reported health,Percentage,95
+NOR,Norway,Self-reported health,Percentage,85
+POL,Poland,Self-reported health,Percentage,69
+PRT,Portugal,Self-reported health,Percentage,66
+SVK,Slovak Republic,Self-reported health,Percentage,75
+ESP,Spain,Self-reported health,Percentage,86
+SWE,Sweden,Self-reported health,Percentage,89
+CHE,Switzerland,Self-reported health,Percentage,90
+TUR,Turkey,Self-reported health,Percentage,75
+GBR,United Kingdom,Self-reported health,Percentage,88
+USA,United States,Self-reported health,Percentage,96
+BRA,Brazil,Self-reported health,Percentage,82
+CHL,Chile,Self-reported health,Percentage,77
+EST,Estonia,Self-reported health,Percentage,75
+ISR,Israel,Self-reported health,Percentage,96
+RUS,Russia,Self-reported health,Percentage,47
+SVN,Slovenia,Self-reported health,Percentage,75
+AUS,Australia,Self-reported health,Percentage,75
+AUT,Austria,Self-reported health,Percentage,55
+BEL,Belgium,Self-reported health,Percentage,58
+CAN,Canada,Self-reported health,Percentage,79
+CZE,Czech Republic,Self-reported health,Percentage,49
+DNK,Denmark,Self-reported health,Percentage,68
+FIN,Finland,Self-reported health,Percentage,55
+FRA,France,Self-reported health,Percentage,61
+DEU,Germany,Self-reported health,Percentage,52
+GRC,Greece,Self-reported health,Percentage,70
+HUN,Hungary,Self-reported health,Percentage,52
+ISL,Iceland,Self-reported health,Percentage,74
+IRL,Ireland,Self-reported health,Percentage,79
+ITA,Italy,Self-reported health,Percentage,60
+JPN,Japan,Self-reported health,Percentage,24
+KOR,Korea,Self-reported health,Percentage,31
+LUX,Luxembourg,Self-reported health,Percentage,64
+MEX,Mexico,Self-reported health,Percentage,57
+NLD,Netherlands,Self-reported health,Percentage,67
+NZL,New Zealand,Self-reported health,Percentage,92
+NOR,Norway,Self-reported health,Percentage,66
+POL,Poland,Self-reported health,Percentage,52
+PRT,Portugal,Self-reported health,Percentage,40
+SVK,Slovak Republic,Self-reported health,Percentage,60
+ESP,Spain,Self-reported health,Percentage,71
+SWE,Sweden,Self-reported health,Percentage,68
+CHE,Switzerland,Self-reported health,Percentage,70
+TUR,Turkey,Self-reported health,Percentage,61
+GBR,United Kingdom,Self-reported health,Percentage,69
+USA,United States,Self-reported health,Percentage,74
+BRA,Brazil,Self-reported health,Percentage,61
+CHL,Chile,Self-reported health,Percentage,54
+EST,Estonia,Self-reported health,Percentage,39
+ISR,Israel,Self-reported health,Percentage,88
+RUS,Russia,Self-reported health,Percentage,30
+SVN,Slovenia,Self-reported health,Percentage,46
+AUS,Australia,Life satisfaction,Average score,7.4
+AUT,Austria,Life satisfaction,Average score,7.5
+BEL,Belgium,Life satisfaction,Average score,7.1
+CAN,Canada,Life satisfaction,Average score,7.6
+CZE,Czech Republic,Life satisfaction,Average score,6.7
+DNK,Denmark,Life satisfaction,Average score,7.6
+FIN,Finland,Life satisfaction,Average score,7.4
+FRA,France,Life satisfaction,Average score,6.7
+DEU,Germany,Life satisfaction,Average score,7
+GRC,Greece,Life satisfaction,Average score,4.7
+HUN,Hungary,Life satisfaction,Average score,4.9
+ISL,Iceland,Life satisfaction,Average score,7.5
+IRL,Ireland,Life satisfaction,Average score,6.8
+ITA,Italy,Life satisfaction,Average score,6
+JPN,Japan,Life satisfaction,Average score,6
+KOR,Korea,Life satisfaction,Average score,6
+LUX,Luxembourg,Life satisfaction,Average score,7.1
+MEX,Mexico,Life satisfaction,Average score,7.4
+NLD,Netherlands,Life satisfaction,Average score,7.4
+NZL,New Zealand,Life satisfaction,Average score,7.3
+NOR,Norway,Life satisfaction,Average score,7.7
+POL,Poland,Life satisfaction,Average score,5.7
+PRT,Portugal,Life satisfaction,Average score,5.2
+SVK,Slovak Republic,Life satisfaction,Average score,5.9
+ESP,Spain,Life satisfaction,Average score,6.2
+SWE,Sweden,Life satisfaction,Average score,7.4
+CHE,Switzerland,Life satisfaction,Average score,7.8
+TUR,Turkey,Life satisfaction,Average score,4.9
+GBR,United Kingdom,Life satisfaction,Average score,6.9
+USA,United States,Life satisfaction,Average score,7
+BRA,Brazil,Life satisfaction,Average score,7.2
+CHL,Chile,Life satisfaction,Average score,6.6
+EST,Estonia,Life satisfaction,Average score,5.4
+ISR,Israel,Life satisfaction,Average score,7.1
+RUS,Russia,Life satisfaction,Average score,5.5
+SVN,Slovenia,Life satisfaction,Average score,6
+AUS,Australia,Life satisfaction,Average score,7.2
+AUT,Austria,Life satisfaction,Average score,7.4
+BEL,Belgium,Life satisfaction,Average score,7.1
+CAN,Canada,Life satisfaction,Average score,7.6
+CZE,Czech Republic,Life satisfaction,Average score,6.7
+DNK,Denmark,Life satisfaction,Average score,7.6
+FIN,Finland,Life satisfaction,Average score,7.4
+FRA,France,Life satisfaction,Average score,6.6
+DEU,Germany,Life satisfaction,Average score,6.9
+GRC,Greece,Life satisfaction,Average score,4.6
+HUN,Hungary,Life satisfaction,Average score,5.1
+ISL,Iceland,Life satisfaction,Average score,7.4
+IRL,Ireland,Life satisfaction,Average score,6.7
+ITA,Italy,Life satisfaction,Average score,6.2
+JPN,Japan,Life satisfaction,Average score,5.8
+KOR,Korea,Life satisfaction,Average score,5.8
+LUX,Luxembourg,Life satisfaction,Average score,7.2
+MEX,Mexico,Life satisfaction,Average score,7.5
+NLD,Netherlands,Life satisfaction,Average score,7.4
+NZL,New Zealand,Life satisfaction,Average score,7.3
+NOR,Norway,Life satisfaction,Average score,7.6
+POL,Poland,Life satisfaction,Average score,5.6
+PRT,Portugal,Life satisfaction,Average score,5.1
+SVK,Slovak Republic,Life satisfaction,Average score,6.1
+ESP,Spain,Life satisfaction,Average score,6
+SWE,Sweden,Life satisfaction,Average score,7.1
+CHE,Switzerland,Life satisfaction,Average score,7.7
+TUR,Turkey,Life satisfaction,Average score,4.7
+GBR,United Kingdom,Life satisfaction,Average score,6.9
+USA,United States,Life satisfaction,Average score,6.9
+BRA,Brazil,Life satisfaction,Average score,7.2
+CHL,Chile,Life satisfaction,Average score,6.7
+EST,Estonia,Life satisfaction,Average score,5.4
+ISR,Israel,Life satisfaction,Average score,7.2
+RUS,Russia,Life satisfaction,Average score,5.6
+SVN,Slovenia,Life satisfaction,Average score,6.1
+AUS,Australia,Life satisfaction,Average score,7.5
+AUT,Austria,Life satisfaction,Average score,7.6
+BEL,Belgium,Life satisfaction,Average score,7.1
+CAN,Canada,Life satisfaction,Average score,7.6
+CZE,Czech Republic,Life satisfaction,Average score,6.7
+DNK,Denmark,Life satisfaction,Average score,7.6
+FIN,Finland,Life satisfaction,Average score,7.5
+FRA,France,Life satisfaction,Average score,6.7
+DEU,Germany,Life satisfaction,Average score,7.1
+GRC,Greece,Life satisfaction,Average score,4.8
+HUN,Hungary,Life satisfaction,Average score,4.8
+ISL,Iceland,Life satisfaction,Average score,7.6
+IRL,Ireland,Life satisfaction,Average score,6.8
+ITA,Italy,Life satisfaction,Average score,5.9
+JPN,Japan,Life satisfaction,Average score,6.2
+KOR,Korea,Life satisfaction,Average score,6.2
+LUX,Luxembourg,Life satisfaction,Average score,7.1
+MEX,Mexico,Life satisfaction,Average score,7.4
+NLD,Netherlands,Life satisfaction,Average score,7.4
+NZL,New Zealand,Life satisfaction,Average score,7.3
+NOR,Norway,Life satisfaction,Average score,7.7
+POL,Poland,Life satisfaction,Average score,5.9
+PRT,Portugal,Life satisfaction,Average score,5.2
+SVK,Slovak Republic,Life satisfaction,Average score,5.8
+ESP,Spain,Life satisfaction,Average score,6.3
+SWE,Sweden,Life satisfaction,Average score,7.7
+CHE,Switzerland,Life satisfaction,Average score,7.8
+TUR,Turkey,Life satisfaction,Average score,5.1
+GBR,United Kingdom,Life satisfaction,Average score,6.9
+USA,United States,Life satisfaction,Average score,7.2
+BRA,Brazil,Life satisfaction,Average score,7.2
+CHL,Chile,Life satisfaction,Average score,6.6
+EST,Estonia,Life satisfaction,Average score,5.4
+ISR,Israel,Life satisfaction,Average score,7
+RUS,Russia,Life satisfaction,Average score,5.5
+SVN,Slovenia,Life satisfaction,Average score,5.9
+AUS,Australia,Life satisfaction,Average score,7.5
+AUT,Austria,Life satisfaction,Average score,7.9
+BEL,Belgium,Life satisfaction,Average score,7.4
+CAN,Canada,Life satisfaction,Average score,7.7
+CZE,Czech Republic,Life satisfaction,Average score,7.5
+DNK,Denmark,Life satisfaction,Average score,7.6
+FIN,Finland,Life satisfaction,Average score,7.7
+FRA,France,Life satisfaction,Average score,7.2
+DEU,Germany,Life satisfaction,Average score,7.4
+GRC,Greece,Life satisfaction,Average score,5.8
+HUN,Hungary,Life satisfaction,Average score,6.1
+ISL,Iceland,Life satisfaction,Average score,7.8
+IRL,Ireland,Life satisfaction,Average score,7
+ITA,Italy,Life satisfaction,Average score,6.4
+JPN,Japan,Life satisfaction,Average score,6.5
+KOR,Korea,Life satisfaction,Average score,6.5
+LUX,Luxembourg,Life satisfaction,Average score,7.5
+MEX,Mexico,Life satisfaction,Average score,8
+NLD,Netherlands,Life satisfaction,Average score,7.7
+NZL,New Zealand,Life satisfaction,Average score,7.6
+NOR,Norway,Life satisfaction,Average score,7.8
+POL,Poland,Life satisfaction,Average score,6.7
+PRT,Portugal,Life satisfaction,Average score,6.3
+SVK,Slovak Republic,Life satisfaction,Average score,6.8
+ESP,Spain,Life satisfaction,Average score,7
+SWE,Sweden,Life satisfaction,Average score,7.7
+CHE,Switzerland,Life satisfaction,Average score,8
+TUR,Turkey,Life satisfaction,Average score,5.8
+GBR,United Kingdom,Life satisfaction,Average score,7.2
+USA,United States,Life satisfaction,Average score,7.4
+BRA,Brazil,Life satisfaction,Average score,7.1
+CHL,Chile,Life satisfaction,Average score,7.3
+EST,Estonia,Life satisfaction,Average score,6
+ISR,Israel,Life satisfaction,Average score,7.4
+RUS,Russia,Life satisfaction,Average score,6.1
+SVN,Slovenia,Life satisfaction,Average score,7
+AUS,Australia,Life satisfaction,Average score,6.9
+AUT,Austria,Life satisfaction,Average score,6.5
+BEL,Belgium,Life satisfaction,Average score,6.8
+CAN,Canada,Life satisfaction,Average score,7.4
+CZE,Czech Republic,Life satisfaction,Average score,6.9
+DNK,Denmark,Life satisfaction,Average score,7.8
+FIN,Finland,Life satisfaction,Average score,7.3
+FRA,France,Life satisfaction,Average score,6.1
+DEU,Germany,Life satisfaction,Average score,6.3
+GRC,Greece,Life satisfaction,Average score,4
+HUN,Hungary,Life satisfaction,Average score,4.5
+ISL,Iceland,Life satisfaction,Average score,7.4
+IRL,Ireland,Life satisfaction,Average score,6.4
+ITA,Italy,Life satisfaction,Average score,5.7
+JPN,Japan,Life satisfaction,Average score,5.6
+KOR,Korea,Life satisfaction,Average score,4.6
+LUX,Luxembourg,Life satisfaction,Average score,6.6
+MEX,Mexico,Life satisfaction,Average score,7
+NLD,Netherlands,Life satisfaction,Average score,6.8
+NZL,New Zealand,Life satisfaction,Average score,7.6
+NOR,Norway,Life satisfaction,Average score,7.5
+POL,Poland,Life satisfaction,Average score,5.5
+PRT,Portugal,Life satisfaction,Average score,4.5
+SVK,Slovak Republic,Life satisfaction,Average score,5.7
+ESP,Spain,Life satisfaction,Average score,5.8
+SWE,Sweden,Life satisfaction,Average score,7.2
+CHE,Switzerland,Life satisfaction,Average score,7.4
+TUR,Turkey,Life satisfaction,Average score,4.4
+GBR,United Kingdom,Life satisfaction,Average score,6.8
+USA,United States,Life satisfaction,Average score,6.1
+BRA,Brazil,Life satisfaction,Average score,7.1
+CHL,Chile,Life satisfaction,Average score,6
+EST,Estonia,Life satisfaction,Average score,5.3
+ISR,Israel,Life satisfaction,Average score,6.3
+RUS,Russia,Life satisfaction,Average score,5
+SVN,Slovenia,Life satisfaction,Average score,5.5
+AUS,Australia,Assault rate,Percentage,2.1
+AUT,Austria,Assault rate,Percentage,3.4
+BEL,Belgium,Assault rate,Percentage,6.6
+CAN,Canada,Assault rate,Percentage,1.3
+CZE,Czech Republic,Assault rate,Percentage,2.8
+DNK,Denmark,Assault rate,Percentage,3.9
+FIN,Finland,Assault rate,Percentage,2.4
+FRA,France,Assault rate,Percentage,5
+DEU,Germany,Assault rate,Percentage,3.6
+GRC,Greece,Assault rate,Percentage,3.7
+HUN,Hungary,Assault rate,Percentage,3.6
+ISL,Iceland,Assault rate,Percentage,2.7
+IRL,Ireland,Assault rate,Percentage,2.6
+ITA,Italy,Assault rate,Percentage,4.7
+JPN,Japan,Assault rate,Percentage,1.4
+KOR,Korea,Assault rate,Percentage,2.1
+LUX,Luxembourg,Assault rate,Percentage,4.3
+MEX,Mexico,Assault rate,Percentage,12.8
+NLD,Netherlands,Assault rate,Percentage,4.9
+NZL,New Zealand,Assault rate,Percentage,2.2
+NOR,Norway,Assault rate,Percentage,3.3
+POL,Poland,Assault rate,Percentage,1.4
+PRT,Portugal,Assault rate,Percentage,5.7
+SVK,Slovak Republic,Assault rate,Percentage,3
+ESP,Spain,Assault rate,Percentage,4.2
+SWE,Sweden,Assault rate,Percentage,5.1
+CHE,Switzerland,Assault rate,Percentage,4.2
+TUR,Turkey,Assault rate,Percentage,5
+GBR,United Kingdom,Assault rate,Percentage,1.9
+USA,United States,Assault rate,Percentage,1.5
+BRA,Brazil,Assault rate,Percentage,7.9
+CHL,Chile,Assault rate,Percentage,6.9
+EST,Estonia,Assault rate,Percentage,5.5
+ISR,Israel,Assault rate,Percentage,6.4
+RUS,Russia,Assault rate,Percentage,3.8
+SVN,Slovenia,Assault rate,Percentage,3.9
+AUS,Australia,Assault rate,Percentage,2.5
+AUT,Austria,Assault rate,Percentage,4.6
+BEL,Belgium,Assault rate,Percentage,6.2
+CAN,Canada,Assault rate,Percentage,1.3
+CZE,Czech Republic,Assault rate,Percentage,3.8
+DNK,Denmark,Assault rate,Percentage,4.9
+FIN,Finland,Assault rate,Percentage,3.9
+FRA,France,Assault rate,Percentage,5.6
+DEU,Germany,Assault rate,Percentage,3.1
+GRC,Greece,Assault rate,Percentage,3.6
+HUN,Hungary,Assault rate,Percentage,3.4
+ISL,Iceland,Assault rate,Percentage,3
+IRL,Ireland,Assault rate,Percentage,2.1
+ITA,Italy,Assault rate,Percentage,5.4
+JPN,Japan,Assault rate,Percentage,1.2
+KOR,Korea,Assault rate,Percentage,1.9
+LUX,Luxembourg,Assault rate,Percentage,4.7
+MEX,Mexico,Assault rate,Percentage,13.5
+NLD,Netherlands,Assault rate,Percentage,6.5
+NZL,New Zealand,Assault rate,Percentage,3.2
+NOR,Norway,Assault rate,Percentage,4.3
+POL,Poland,Assault rate,Percentage,1
+PRT,Portugal,Assault rate,Percentage,5.2
+SVK,Slovak Republic,Assault rate,Percentage,3.8
+ESP,Spain,Assault rate,Percentage,4.1
+SWE,Sweden,Assault rate,Percentage,4.7
+CHE,Switzerland,Assault rate,Percentage,5.7
+TUR,Turkey,Assault rate,Percentage,6.4
+GBR,United Kingdom,Assault rate,Percentage,3.2
+USA,United States,Assault rate,Percentage,1.7
+BRA,Brazil,Assault rate,Percentage,7.6
+CHL,Chile,Assault rate,Percentage,7.2
+EST,Estonia,Assault rate,Percentage,5.4
+ISR,Israel,Assault rate,Percentage,5.9
+RUS,Russia,Assault rate,Percentage,5
+SVN,Slovenia,Assault rate,Percentage,3.2
+AUS,Australia,Assault rate,Percentage,1.7
+AUT,Austria,Assault rate,Percentage,2.4
+BEL,Belgium,Assault rate,Percentage,7
+CAN,Canada,Assault rate,Percentage,1.4
+CZE,Czech Republic,Assault rate,Percentage,1.9
+DNK,Denmark,Assault rate,Percentage,3.1
+FIN,Finland,Assault rate,Percentage,0.9
+FRA,France,Assault rate,Percentage,4.4
+DEU,Germany,Assault rate,Percentage,4.1
+GRC,Greece,Assault rate,Percentage,3.8
+HUN,Hungary,Assault rate,Percentage,3.8
+ISL,Iceland,Assault rate,Percentage,2.3
+IRL,Ireland,Assault rate,Percentage,3.1
+ITA,Italy,Assault rate,Percentage,4.1
+JPN,Japan,Assault rate,Percentage,1.5
+KOR,Korea,Assault rate,Percentage,2.2
+LUX,Luxembourg,Assault rate,Percentage,3.9
+MEX,Mexico,Assault rate,Percentage,12.1
+NLD,Netherlands,Assault rate,Percentage,3.5
+NZL,New Zealand,Assault rate,Percentage,1.4
+NOR,Norway,Assault rate,Percentage,2.3
+POL,Poland,Assault rate,Percentage,1.8
+PRT,Portugal,Assault rate,Percentage,6.1
+SVK,Slovak Republic,Assault rate,Percentage,2.2
+ESP,Spain,Assault rate,Percentage,4.3
+SWE,Sweden,Assault rate,Percentage,5.5
+CHE,Switzerland,Assault rate,Percentage,2.8
+TUR,Turkey,Assault rate,Percentage,3.7
+GBR,United Kingdom,Assault rate,Percentage,0.9
+USA,United States,Assault rate,Percentage,1.3
+BRA,Brazil,Assault rate,Percentage,8.1
+CHL,Chile,Assault rate,Percentage,6.6
+EST,Estonia,Assault rate,Percentage,5.6
+ISR,Israel,Assault rate,Percentage,6.8
+RUS,Russia,Assault rate,Percentage,2.8
+SVN,Slovenia,Assault rate,Percentage,4.5
+AUS,Australia,Homicide rate,Ratio,0.8
+AUT,Austria,Homicide rate,Ratio,0.5
+BEL,Belgium,Homicide rate,Ratio,1.2
+CAN,Canada,Homicide rate,Ratio,1.7
+CZE,Czech Republic,Homicide rate,Ratio,0.8
+DNK,Denmark,Homicide rate,Ratio,0.8
+FIN,Finland,Homicide rate,Ratio,1.8
+FRA,France,Homicide rate,Ratio,0.8
+DEU,Germany,Homicide rate,Ratio,0.5
+GRC,Greece,Homicide rate,Ratio,1.4
+HUN,Hungary,Homicide rate,Ratio,1.5
+ISL,Iceland,Homicide rate,Ratio,1.3
+IRL,Ireland,Homicide rate,Ratio,0.8
+ITA,Italy,Homicide rate,Ratio,0.7
+JPN,Japan,Homicide rate,Ratio,0.3
+KOR,Korea,Homicide rate,Ratio,1.1
+LUX,Luxembourg,Homicide rate,Ratio,2.1
+MEX,Mexico,Homicide rate,Ratio,23.4
+NLD,Netherlands,Homicide rate,Ratio,0.9
+NZL,New Zealand,Homicide rate,Ratio,1.9
+NOR,Norway,Homicide rate,Ratio,2.3
+POL,Poland,Homicide rate,Ratio,1
+PRT,Portugal,Homicide rate,Ratio,0.9
+SVK,Slovak Republic,Homicide rate,Ratio,1.2
+ESP,Spain,Homicide rate,Ratio,0.7
+SWE,Sweden,Homicide rate,Ratio,1
+CHE,Switzerland,Homicide rate,Ratio,0.5
+TUR,Turkey,Homicide rate,Ratio,3.3
+GBR,United Kingdom,Homicide rate,Ratio,0.3
+USA,United States,Homicide rate,Ratio,5.2
+BRA,Brazil,Homicide rate,Ratio,25.5
+CHL,Chile,Homicide rate,Ratio,5.2
+EST,Estonia,Homicide rate,Ratio,4.7
+ISR,Israel,Homicide rate,Ratio,2.2
+RUS,Russia,Homicide rate,Ratio,12.8
+SVN,Slovenia,Homicide rate,Ratio,0.4
+AUS,Australia,Homicide rate,Ratio,1.1
+AUT,Austria,Homicide rate,Ratio,0.6
+BEL,Belgium,Homicide rate,Ratio,1.5
+CAN,Canada,Homicide rate,Ratio,2.5
+CZE,Czech Republic,Homicide rate,Ratio,1.1
+DNK,Denmark,Homicide rate,Ratio,1.1
+FIN,Finland,Homicide rate,Ratio,2.4
+FRA,France,Homicide rate,Ratio,1
+DEU,Germany,Homicide rate,Ratio,0.6
+GRC,Greece,Homicide rate,Ratio,2.3
+HUN,Hungary,Homicide rate,Ratio,1.9
+ISL,Iceland,Homicide rate,Ratio,0.8
+IRL,Ireland,Homicide rate,Ratio,1.4
+ITA,Italy,Homicide rate,Ratio,1.1
+JPN,Japan,Homicide rate,Ratio,0.3
+KOR,Korea,Homicide rate,Ratio,1.3
+LUX,Luxembourg,Homicide rate,Ratio,2.5
+MEX,Mexico,Homicide rate,Ratio,44.7
+NLD,Netherlands,Homicide rate,Ratio,1.1
+NZL,New Zealand,Homicide rate,Ratio,2.5
+NOR,Norway,Homicide rate,Ratio,2.5
+POL,Poland,Homicide rate,Ratio,1.5
+PRT,Portugal,Homicide rate,Ratio,1.3
+SVK,Slovak Republic,Homicide rate,Ratio,1.4
+ESP,Spain,Homicide rate,Ratio,1
+SWE,Sweden,Homicide rate,Ratio,1.4
+CHE,Switzerland,Homicide rate,Ratio,0.5
+TUR,Turkey,Homicide rate,Ratio,8.6
+GBR,United Kingdom,Homicide rate,Ratio,0.4
+USA,United States,Homicide rate,Ratio,8.1
+BRA,Brazil,Homicide rate,Ratio,48.1
+CHL,Chile,Homicide rate,Ratio,9.3
+EST,Estonia,Homicide rate,Ratio,8
+ISR,Israel,Homicide rate,Ratio,3.4
+RUS,Russia,Homicide rate,Ratio,21.8
+SVN,Slovenia,Homicide rate,Ratio,0.5
+AUS,Australia,Homicide rate,Ratio,0.6
+AUT,Austria,Homicide rate,Ratio,0.4
+BEL,Belgium,Homicide rate,Ratio,0.9
+CAN,Canada,Homicide rate,Ratio,0.8
+CZE,Czech Republic,Homicide rate,Ratio,0.6
+DNK,Denmark,Homicide rate,Ratio,0.4
+FIN,Finland,Homicide rate,Ratio,1.3
+FRA,France,Homicide rate,Ratio,0.5
+DEU,Germany,Homicide rate,Ratio,0.5
+GRC,Greece,Homicide rate,Ratio,0.5
+HUN,Hungary,Homicide rate,Ratio,1.3
+ISL,Iceland,Homicide rate,Ratio,1.9
+IRL,Ireland,Homicide rate,Ratio,0.2
+ITA,Italy,Homicide rate,Ratio,0.4
+JPN,Japan,Homicide rate,Ratio,0.3
+KOR,Korea,Homicide rate,Ratio,0.9
+LUX,Luxembourg,Homicide rate,Ratio,1.9
+MEX,Mexico,Homicide rate,Ratio,4.2
+NLD,Netherlands,Homicide rate,Ratio,0.6
+NZL,New Zealand,Homicide rate,Ratio,1.4
+NOR,Norway,Homicide rate,Ratio,2.1
+POL,Poland,Homicide rate,Ratio,0.6
+PRT,Portugal,Homicide rate,Ratio,0.5
+SVK,Slovak Republic,Homicide rate,Ratio,1
+ESP,Spain,Homicide rate,Ratio,0.4
+SWE,Sweden,Homicide rate,Ratio,0.6
+CHE,Switzerland,Homicide rate,Ratio,0.5
+TUR,Turkey,Homicide rate,Ratio,2
+GBR,United Kingdom,Homicide rate,Ratio,0.2
+USA,United States,Homicide rate,Ratio,2.2
+BRA,Brazil,Homicide rate,Ratio,4.4
+CHL,Chile,Homicide rate,Ratio,1.1
+EST,Estonia,Homicide rate,Ratio,1.7
+ISR,Israel,Homicide rate,Ratio,1
+RUS,Russia,Homicide rate,Ratio,5.9
+SVN,Slovenia,Homicide rate,Ratio,0.4
+AUS,Australia,Employees working very long hours,Percentage,14.23
+AUT,Austria,Employees working very long hours,Percentage,8.61
+BEL,Belgium,Employees working very long hours,Percentage,4.41
+CAN,Canada,Employees working very long hours,Percentage,3.98
+CZE,Czech Republic,Employees working very long hours,Percentage,7.14
+DNK,Denmark,Employees working very long hours,Percentage,2.06
+FIN,Finland,Employees working very long hours,Percentage,3.7
+FRA,France,Employees working very long hours,Percentage,8.71
+DEU,Germany,Employees working very long hours,Percentage,5.6
+GRC,Greece,Employees working very long hours,Percentage,5.65
+HUN,Hungary,Employees working very long hours,Percentage,2.92
+ISL,Iceland,Employees working very long hours,Percentage,13.73
+IRL,Ireland,Employees working very long hours,Percentage,4.17
+ITA,Italy,Employees working very long hours,Percentage,3.7
+JPN,Japan,Employees working very long hours,Percentage,22.62
+KOR,Korea,Employees working very long hours,Percentage,27.13
+LUX,Luxembourg,Employees working very long hours,Percentage,3.18
+MEX,Mexico,Employees working very long hours,Percentage,28.77
+NLD,Netherlands,Employees working very long hours,Percentage,0.59
+NZL,New Zealand,Employees working very long hours,Percentage,13.07
+NOR,Norway,Employees working very long hours,Percentage,3.1
+POL,Poland,Employees working very long hours,Percentage,7.58
+PRT,Portugal,Employees working very long hours,Percentage,9.31
+SVK,Slovak Republic,Employees working very long hours,Percentage,6.48
+ESP,Spain,Employees working very long hours,Percentage,5.95
+SWE,Sweden,Employees working very long hours,Percentage,1.14
+CHE,Switzerland,Employees working very long hours,Percentage,7.3
+TUR,Turkey,Employees working very long hours,Percentage,43.29
+GBR,United Kingdom,Employees working very long hours,Percentage,12.27
+USA,United States,Employees working very long hours,Percentage,11.44
+BRA,Brazil,Employees working very long hours,Percentage,10.74
+CHL,Chile,Employees working very long hours,Percentage,15.42
+EST,Estonia,Employees working very long hours,Percentage,3.59
+ISR,Israel,Employees working very long hours,Percentage,18.77
+RUS,Russia,Employees working very long hours,Percentage,0.17
+SVN,Slovenia,Employees working very long hours,Percentage,5.72
+AUS,Australia,Employees working very long hours,Percentage,21.2
+AUT,Austria,Employees working very long hours,Percentage,12.91
+BEL,Belgium,Employees working very long hours,Percentage,6.37
+CAN,Canada,Employees working very long hours,Percentage,6.42
+CZE,Czech Republic,Employees working very long hours,Percentage,10.8
+DNK,Denmark,Employees working very long hours,Percentage,3.17
+FIN,Finland,Employees working very long hours,Percentage,5.93
+FRA,France,Employees working very long hours,Percentage,12.08
+DEU,Germany,Employees working very long hours,Percentage,8.43
+GRC,Greece,Employees working very long hours,Percentage,7.25
+HUN,Hungary,Employees working very long hours,Percentage,4.27
+ISL,Iceland,Employees working very long hours,Percentage,19.24
+IRL,Ireland,Employees working very long hours,Percentage,7.03
+ITA,Italy,Employees working very long hours,Percentage,5.22
+JPN,Japan,Employees working very long hours,Percentage,29.61
+KOR,Korea,Employees working very long hours,Percentage,34.19
+LUX,Luxembourg,Employees working very long hours,Percentage,4.43
+MEX,Mexico,Employees working very long hours,Percentage,35.21
+NLD,Netherlands,Employees working very long hours,Percentage,1.01
+NZL,New Zealand,Employees working very long hours,Percentage,19.23
+NOR,Norway,Employees working very long hours,Percentage,4.59
+POL,Poland,Employees working very long hours,Percentage,11.71
+PRT,Portugal,Employees working very long hours,Percentage,12.53
+SVK,Slovak Republic,Employees working very long hours,Percentage,9.34
+ESP,Spain,Employees working very long hours,Percentage,8.4
+SWE,Sweden,Employees working very long hours,Percentage,1.74
+CHE,Switzerland,Employees working very long hours,Percentage,10.67
+TUR,Turkey,Employees working very long hours,Percentage,46.92
+GBR,United Kingdom,Employees working very long hours,Percentage,17.98
+USA,United States,Employees working very long hours,Percentage,16.03
+BRA,Brazil,Employees working very long hours,Percentage,13.3
+CHL,Chile,Employees working very long hours,Percentage,18.94
+EST,Estonia,Employees working very long hours,Percentage,5.28
+ISR,Israel,Employees working very long hours,Percentage,27.89
+RUS,Russia,Employees working very long hours,Percentage,0.28
+SVN,Slovenia,Employees working very long hours,Percentage,7.73
+AUS,Australia,Employees working very long hours,Percentage,6.28
+AUT,Austria,Employees working very long hours,Percentage,3.91
+BEL,Belgium,Employees working very long hours,Percentage,2.28
+CAN,Canada,Employees working very long hours,Percentage,1.5
+CZE,Czech Republic,Employees working very long hours,Percentage,2.81
+DNK,Denmark,Employees working very long hours,Percentage,0.91
+FIN,Finland,Employees working very long hours,Percentage,1.57
+FRA,France,Employees working very long hours,Percentage,5.3
+DEU,Germany,Employees working very long hours,Percentage,2.5
+GRC,Greece,Employees working very long hours,Percentage,3.62
+HUN,Hungary,Employees working very long hours,Percentage,1.49
+ISL,Iceland,Employees working very long hours,Percentage,7.1
+IRL,Ireland,Employees working very long hours,Percentage,1.57
+ITA,Italy,Employees working very long hours,Percentage,1.84
+JPN,Japan,Employees working very long hours,Percentage,13.4
+KOR,Korea,Employees working very long hours,Percentage,17.18
+LUX,Luxembourg,Employees working very long hours,Percentage,1.63
+MEX,Mexico,Employees working very long hours,Percentage,18.07
+NLD,Netherlands,Employees working very long hours,Percentage,0.14
+NZL,New Zealand,Employees working very long hours,Percentage,6.68
+NOR,Norway,Employees working very long hours,Percentage,1.52
+POL,Poland,Employees working very long hours,Percentage,2.79
+PRT,Portugal,Employees working very long hours,Percentage,6.14
+SVK,Slovak Republic,Employees working very long hours,Percentage,3.2
+ESP,Spain,Employees working very long hours,Percentage,3.31
+SWE,Sweden,Employees working very long hours,Percentage,0.54
+CHE,Switzerland,Employees working very long hours,Percentage,3.52
+TUR,Turkey,Employees working very long hours,Percentage,32.61
+GBR,United Kingdom,Employees working very long hours,Percentage,6.38
+USA,United States,Employees working very long hours,Percentage,6.57
+BRA,Brazil,Employees working very long hours,Percentage,7.58
+CHL,Chile,Employees working very long hours,Percentage,9.29
+EST,Estonia,Employees working very long hours,Percentage,2.07
+ISR,Israel,Employees working very long hours,Percentage,8.93
+RUS,Russia,Employees working very long hours,Percentage,0.07
+SVN,Slovenia,Employees working very long hours,Percentage,3.51
+AUS,Australia,Time devoted to leisure and personal care,Hours,14.41
+AUT,Austria,Time devoted to leisure and personal care,Hours,14.46
+BEL,Belgium,Time devoted to leisure and personal care,Hours,15.71
+CAN,Canada,Time devoted to leisure and personal care,Hours,14.25
+CZE,Czech Republic,Time devoted to leisure and personal care,Hours,14.98
+DNK,Denmark,Time devoted to leisure and personal care,Hours,16.06
+FIN,Finland,Time devoted to leisure and personal care,Hours,14.89
+FRA,France,Time devoted to leisure and personal care,Hours,15.33
+DEU,Germany,Time devoted to leisure and personal care,Hours,15.31
+GRC,Greece,Time devoted to leisure and personal care,Hours,14.91
+HUN,Hungary,Time devoted to leisure and personal care,Hours,15.04
+ISL,Iceland,Time devoted to leisure and personal care,Hours,14.61
+IRL,Ireland,Time devoted to leisure and personal care,Hours,15.19
+ITA,Italy,Time devoted to leisure and personal care,Hours,14.98
+JPN,Japan,Time devoted to leisure and personal care,Hours,14.93
+KOR,Korea,Time devoted to leisure and personal care,Hours,14.63
+LUX,Luxembourg,Time devoted to leisure and personal care,Hours,15.12
+MEX,Mexico,Time devoted to leisure and personal care,Hours,13.89
+NLD,Netherlands,Time devoted to leisure and personal care,Hours,15.44
+NZL,New Zealand,Time devoted to leisure and personal care,Hours,14.87
+NOR,Norway,Time devoted to leisure and personal care,Hours,15.56
+POL,Poland,Time devoted to leisure and personal care,Hours,14.2
+PRT,Portugal,Time devoted to leisure and personal care,Hours,14.95
+SVK,Slovak Republic,Time devoted to leisure and personal care,Hours,14.99
+ESP,Spain,Time devoted to leisure and personal care,Hours,16.06
+SWE,Sweden,Time devoted to leisure and personal care,Hours,15.11
+CHE,Switzerland,Time devoted to leisure and personal care,Hours,14.98
+TUR,Turkey,Time devoted to leisure and personal care,Hours,13.42
+GBR,United Kingdom,Time devoted to leisure and personal care,Hours,14.83
+USA,United States,Time devoted to leisure and personal care,Hours,14.27
+BRA,Brazil,Time devoted to leisure and personal care,Hours,14.97
+CHL,Chile,Time devoted to leisure and personal care,Hours,14.41
+EST,Estonia,Time devoted to leisure and personal care,Hours,14.9
+ISR,Israel,Time devoted to leisure and personal care,Hours,14.48
+RUS,Russia,Time devoted to leisure and personal care,Hours,14.97
+SVN,Slovenia,Time devoted to leisure and personal care,Hours,14.62
+AUS,Australia,Time devoted to leisure and personal care,Hours,14.43
+AUT,Austria,Time devoted to leisure and personal care,Hours,14.6
+BEL,Belgium,Time devoted to leisure and personal care,Hours,15.82
+CAN,Canada,Time devoted to leisure and personal care,Hours,14.33
+CZE,Czech Republic,Time devoted to leisure and personal care,Hours,15.13
+DNK,Denmark,Time devoted to leisure and personal care,Hours,16.06
+FIN,Finland,Time devoted to leisure and personal care,Hours,15.04
+FRA,France,Time devoted to leisure and personal care,Hours,15.55
+DEU,Germany,Time devoted to leisure and personal care,Hours,15.36
+GRC,Greece,Time devoted to leisure and personal care,Hours,15.07
+HUN,Hungary,Time devoted to leisure and personal care,Hours,15.19
+ISL,Iceland,Time devoted to leisure and personal care,Hours,14.77
+IRL,Ireland,Time devoted to leisure and personal care,Hours,15.33
+ITA,Italy,Time devoted to leisure and personal care,Hours,15.32
+JPN,Japan,Time devoted to leisure and personal care,Hours,14.98
+KOR,Korea,Time devoted to leisure and personal care,Hours,14.97
+LUX,Luxembourg,Time devoted to leisure and personal care,Hours,15.27
+MEX,Mexico,Time devoted to leisure and personal care,Hours,14.08
+NLD,Netherlands,Time devoted to leisure and personal care,Hours,15.57
+NZL,New Zealand,Time devoted to leisure and personal care,Hours,14.83
+NOR,Norway,Time devoted to leisure and personal care,Hours,15.5
+POL,Poland,Time devoted to leisure and personal care,Hours,14.37
+PRT,Portugal,Time devoted to leisure and personal care,Hours,15.1
+SVK,Slovak Republic,Time devoted to leisure and personal care,Hours,15.13
+ESP,Spain,Time devoted to leisure and personal care,Hours,16.41
+SWE,Sweden,Time devoted to leisure and personal care,Hours,15.01
+CHE,Switzerland,Time devoted to leisure and personal care,Hours,15.13
+TUR,Turkey,Time devoted to leisure and personal care,Hours,13.61
+GBR,United Kingdom,Time devoted to leisure and personal care,Hours,15
+USA,United States,Time devoted to leisure and personal care,Hours,14.39
+BRA,Brazil,Time devoted to leisure and personal care,Hours,15.12
+CHL,Chile,Time devoted to leisure and personal care,Hours,14.57
+EST,Estonia,Time devoted to leisure and personal care,Hours,15.33
+ISR,Israel,Time devoted to leisure and personal care,Hours,14.65
+RUS,Russia,Time devoted to leisure and personal care,Hours,15.12
+SVN,Slovenia,Time devoted to leisure and personal care,Hours,15.08
+AUS,Australia,Time devoted to leisure and personal care,Hours,14.37
+AUT,Austria,Time devoted to leisure and personal care,Hours,14.15
+BEL,Belgium,Time devoted to leisure and personal care,Hours,15.47
+CAN,Canada,Time devoted to leisure and personal care,Hours,14.15
+CZE,Czech Republic,Time devoted to leisure and personal care,Hours,14.76
+DNK,Denmark,Time devoted to leisure and personal care,Hours,16.06
+FIN,Finland,Time devoted to leisure and personal care,Hours,14.66
+FRA,France,Time devoted to leisure and personal care,Hours,14.9
+DEU,Germany,Time devoted to leisure and personal care,Hours,15.31
+GRC,Greece,Time devoted to leisure and personal care,Hours,14.69
+HUN,Hungary,Time devoted to leisure and personal care,Hours,14.82
+ISL,Iceland,Time devoted to leisure and personal care,Hours,14.37
+IRL,Ireland,Time devoted to leisure and personal care,Hours,14.97
+ITA,Italy,Time devoted to leisure and personal care,Hours,14.32
+JPN,Japan,Time devoted to leisure and personal care,Hours,14.88
+KOR,Korea,Time devoted to leisure and personal care,Hours,14.07
+LUX,Luxembourg,Time devoted to leisure and personal care,Hours,14.9
+MEX,Mexico,Time devoted to leisure and personal care,Hours,13.63
+NLD,Netherlands,Time devoted to leisure and personal care,Hours,15.23
+NZL,New Zealand,Time devoted to leisure and personal care,Hours,14.93
+NOR,Norway,Time devoted to leisure and personal care,Hours,15.67
+POL,Poland,Time devoted to leisure and personal care,Hours,13.83
+PRT,Portugal,Time devoted to leisure and personal care,Hours,14.72
+SVK,Slovak Republic,Time devoted to leisure and personal care,Hours,14.76
+ESP,Spain,Time devoted to leisure and personal care,Hours,15.52
+SWE,Sweden,Time devoted to leisure and personal care,Hours,15.3
+CHE,Switzerland,Time devoted to leisure and personal care,Hours,14.76
+TUR,Turkey,Time devoted to leisure and personal care,Hours,13.13
+GBR,United Kingdom,Time devoted to leisure and personal care,Hours,14.6
+USA,United States,Time devoted to leisure and personal care,Hours,14.12
+BRA,Brazil,Time devoted to leisure and personal care,Hours,14.75
+CHL,Chile,Time devoted to leisure and personal care,Hours,14.16
+EST,Estonia,Time devoted to leisure and personal care,Hours,14.43
+ISR,Israel,Time devoted to leisure and personal care,Hours,14.24
+RUS,Russia,Time devoted to leisure and personal care,Hours,14.75
+SVN,Slovenia,Time devoted to leisure and personal care,Hours,14.12
+OECD,OECD - Total,Dwellings without basic facilities,Percentage,2.1
+OECD,OECD - Total,Housing expenditure,Percentage,21
+OECD,OECD - Total,Rooms per person,Ratio,1.6
+OECD,OECD - Total,Household net adjusted disposable income,US Dollar,23938
+OECD,OECD - Total,Household net adjusted disposable income,US Dollar,45618
+OECD,OECD - Total,Household net adjusted disposable income,US Dollar,9291
+OECD,OECD - Total,Household net financial wealth,US Dollar,42903
+OECD,OECD - Total,Employment rate,Percentage,65
+OECD,OECD - Total,Employment rate,Percentage,73
+OECD,OECD - Total,Employment rate,Percentage,57
+OECD,OECD - Total,Employment rate,Percentage,80
+OECD,OECD - Total,Employment rate,Percentage,47
+OECD,OECD - Total,Job security,Percentage,5.3
+OECD,OECD - Total,Job security,Percentage,5.3
+OECD,OECD - Total,Job security,Percentage,5.3
+OECD,OECD - Total,Long-term unemployment rate,Percentage,2.73
+OECD,OECD - Total,Long-term unemployment rate,Percentage,2.72
+OECD,OECD - Total,Long-term unemployment rate,Percentage,2.755141
+OECD,OECD - Total,Long-term unemployment rate,Percentage,1.74
+OECD,OECD - Total,Long-term unemployment rate,Percentage,4.28
+OECD,OECD - Total,Personal earnings,US Dollar,41010
+OECD,OECD - Total,Personal earnings,US Dollar,44150
+OECD,OECD - Total,Personal earnings,US Dollar,35109
+OECD,OECD - Total,Personal earnings,US Dollar,50342
+OECD,OECD - Total,Personal earnings,US Dollar,20331
+OECD,OECD - Total,Quality of support network,Percentage,89
+OECD,OECD - Total,Quality of support network,Percentage,89
+OECD,OECD - Total,Quality of support network,Percentage,90
+OECD,OECD - Total,Quality of support network,Percentage,92
+OECD,OECD - Total,Quality of support network,Percentage,85
+OECD,OECD - Total,Educational attainment,Percentage,75
+OECD,OECD - Total,Educational attainment,Percentage,75
+OECD,OECD - Total,Educational attainment,Percentage,74
+OECD,OECD - Total,Student skills,Average score,497
+OECD,OECD - Total,Student skills,Average score,492
+OECD,OECD - Total,Student skills,Average score,502
+OECD,OECD - Total,Student skills,Average score,548
+OECD,OECD - Total,Student skills,Average score,452
+OECD,OECD - Total,Years in education,Years,17.7
+OECD,OECD - Total,Years in education,Years,17.4
+OECD,OECD - Total,Years in education,Years,18.1
+OECD,OECD - Total,Air pollution,Micrograms per cubic metre,20
+OECD,OECD - Total,Water quality,Percentage,84
+OECD,OECD - Total,Water quality,Percentage,85
+OECD,OECD - Total,Water quality,Percentage,84
+OECD,OECD - Total,Water quality,Percentage,85
+OECD,OECD - Total,Water quality,Percentage,85
+OECD,OECD - Total,Consultation on rule-making,Average score,7.3
+OECD,OECD - Total,Voter turnout,Percentage,72
+OECD,OECD - Total,Voter turnout,Percentage,72
+OECD,OECD - Total,Voter turnout,Percentage,71
+OECD,OECD - Total,Voter turnout,Percentage,77
+OECD,OECD - Total,Voter turnout,Percentage,66
+OECD,OECD - Total,Life expectancy,Years,80.1
+OECD,OECD - Total,Life expectancy,Years,77.3
+OECD,OECD - Total,Life expectancy,Years,82.8
+OECD,OECD - Total,Self-reported health,Percentage,69
+OECD,OECD - Total,Self-reported health,Percentage,72
+OECD,OECD - Total,Self-reported health,Percentage,67
+OECD,OECD - Total,Self-reported health,Percentage,80
+OECD,OECD - Total,Self-reported health,Percentage,61
+OECD,OECD - Total,Life satisfaction,Average score,6.6
+OECD,OECD - Total,Life satisfaction,Average score,6.6
+OECD,OECD - Total,Life satisfaction,Average score,6.7
+OECD,OECD - Total,Life satisfaction,Average score,7.2
+OECD,OECD - Total,Life satisfaction,Average score,6.2
+OECD,OECD - Total,Assault rate,Percentage,3.9
+OECD,OECD - Total,Assault rate,Percentage,4.3
+OECD,OECD - Total,Assault rate,Percentage,3.6
+OECD,OECD - Total,Homicide rate,Ratio,4.1
+OECD,OECD - Total,Homicide rate,Ratio,6.9
+OECD,OECD - Total,Homicide rate,Ratio,1.3
+OECD,OECD - Total,Employees working very long hours,Percentage,8.82
+OECD,OECD - Total,Employees working very long hours,Percentage,12
+OECD,OECD - Total,Employees working very long hours,Percentage,4.97
+OECD,OECD - Total,Time devoted to leisure and personal care,Hours,14.97
+OECD,OECD - Total,Time devoted to leisure and personal care,Hours,15.12
+OECD,OECD - Total,Time devoted to leisure and personal care,Hours,14.74
