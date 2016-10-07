@@ -1,5 +1,5 @@
 # GLOBAL 
-setwd("~//Documents//PSYC90_16_17")
+
 library(plyr)
 library(dplyr)
 library(tidyr)
