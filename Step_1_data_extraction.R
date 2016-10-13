@@ -42,8 +42,7 @@ colnames(healthbli_2013)[5]<-"BLI_value"
 
 ### remove triplets of identical rows 
 health_2013_fixed<- select(healthbli_2013,COU, Country, better_life_indicator, BLI_value)
-health_2013_fixed2<-health_2013_fixed %>% distinct(COU, Country, better_life_indicator, BLI_value.keep_all = TRUE)
-health_2013_fixed2$BLI_value.keep_all<-NULL
+health_2013_fixed2 <- health_2013_fixed %>% group_by(COU, better_life_indicator) %>% filter(row_number(BLI_value) ==1) %>% ungroup()
 rm(health_2013_fixed)
 
 ### transpose from long to wide 
