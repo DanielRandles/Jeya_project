@@ -61,9 +61,8 @@ colnames(healthbli_2014)[5]<-"BLI_value"
 
 ### remove triplets of identical rows 
 health_2014_fixed<- select(healthbli_2014,COU, Country, better_life_indicator, BLI_value)
-health_2014_fixed2<-health_2014_fixed %>% distinct(COU, Country, better_life_indicator, BLI_value.keep_all = TRUE)
-health_2014_fixed2$BLI_value.keep_all<-NULL
-rm(health_2014_fixed)
+health_2014_fixed2 <- health_2014_fixed %>% group_by(COU, better_life_indicator) %>% filter(row_number(BLI_value) ==1) %>% ungroup()
+
 
 ### transpose from long to wide 
 health_2014_fixed2<-spread(health_2014_fixed2, better_life_indicator, BLI_value)
@@ -96,8 +95,8 @@ colnames(genderwage_gap)[3]<-"genderwage_gap"
 ### merge index dfs with base migration df 
 
 base_df<-left_join(migration, totalpop)
-base_df<-left_join(base_df, healthbli_2013)
-base_df<-left_join(base_df, healthbli_2014)
+base_df<-left_join(base_df, health_2013_fixed2)
+base_df<-left_join(base_df, health_2014_fixed2)
 base_df<-left_join(base_df, genderwage_gap)
 
 saveRDS(base_df, "base_df.rds")
