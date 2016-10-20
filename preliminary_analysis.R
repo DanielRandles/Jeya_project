@@ -18,3 +18,6 @@ base_df3 <- base_df %>% group_by(Country, Year) %>% summarise(immigration_mean =
 
 ggplot(base_df3, aes(Year, immigration_mean )  ) + geom_point() + # + coord_flip() + facet_grid(Country ~.)
   facet_wrap(~Country)                                                                                                          
+
+## transpose immigration_type data from wide to long
+immigration_type_split <- spread(base_df, immigration_type, No.of.individuals)
