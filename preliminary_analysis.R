@@ -15,6 +15,7 @@ base_df3 <- base_df %>% group_by(Country, Year) %>% summarise(immigration_mean =
                                                         SD = sd(No.of.individuals, na.rm=TRUE),
                                                         immigration_sum = sum(No.of.individuals, na.rm = TRUE),
                                                         Current_pop = mean(Annual_pop, na.rm = TRUE),
+                                                        
                                                         immigration_rate = immigration_sum / Current_pop)
 
 ## Used to filter out countries when needed
