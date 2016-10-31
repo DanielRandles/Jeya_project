@@ -93,10 +93,16 @@ colnames(genderwage_gap)[2]<-"Year"
 colnames(genderwage_gap)[3]<-"genderwage_gap"
 
 ### merge index dfs with base migration df 
+Year <- rep(2013, 37)
+health_2013_fixed2$Year <- Year
+Year <- rep(2014, 37)
+health_2014_fixed2$Year <- Year
+rm(Year)
+health_fixed_3 <- rbind(health_2013_fixed2, health_2014_fixed2)
+
 
 base_df<-left_join(migration, totalpop)
-base_df<-left_join(base_df, health_2013_fixed2)
-base_df<-left_join(base_df, health_2014_fixed2)
+base_df<-left_join(base_df, health_fixed_3, by = c('Country', 'Year'))
 base_df<-left_join(base_df, genderwage_gap)
 
 saveRDS(base_df, "base_df.rds")
