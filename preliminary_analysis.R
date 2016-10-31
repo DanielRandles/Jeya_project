@@ -13,11 +13,11 @@ base_df$Annual_pop <- as.numeric(base_df$Annual_pop)
 base_df$immigration_type <- gsub('Inflows of asylum seekers by nationality', 'asylum_seekers', base_df$immigration_type)
 base_df$immigration_type <- gsub('Inflows of foreign population by nationality', 'immigrants', base_df$immigration_type)
 base_df <- spread(base_df, immigration_type, No.of.individuals)
+base_df$Assault_rate <- base_df$`Assault rate`
 
 ## add summary statistics(mean, SD, correlation) comparing immigration rates by Country for each year
-for 
-
-base_df2 <- base_df %>% group_by(Country) # %>% summarise(cor_immigration_year = cor(x = Year, y = (immigrants/Annual_pop), use = 'pairwise.complete.obs'))
+base_df2 <- base_df %>% group_by(Country) %>% summarise(cor_immigration_year = cor(x = Year, y =(immigrants/Annual_pop), use ='pairwise.complete.obs'),
+                                                        cor_asylum_year = cor(x = Year, y = asylum_seekers/Annual_pop, use = 'pairwise.complete.obs'))
 
 base_df3 <- base_df %>% group_by(Country, Year) %>% summarise(immigration_mean = mean(No.of.individuals, na.rm=TRUE), 
                                                         SD = sd(No.of.individuals, na.rm=TRUE),
