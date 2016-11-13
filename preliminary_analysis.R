@@ -9,8 +9,8 @@ library(lmerTest)
 
 ## read wide version of merged dataset with all variables 
 base_df <- readRDS("base_df.rds")
-base_df$Assault_rate <- base_df$`Assault rate`
 
+## set annual population variable as numeric values 
 base_df$Annual_pop <- as.numeric(base_df$Annual_pop)
 
 ## transpose immigration_type data from wide to long

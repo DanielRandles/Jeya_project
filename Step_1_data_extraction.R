@@ -10,9 +10,11 @@ healthbli_2014<-read.csv('./data/healthBLI_2014.csv')
 healthbli_2013<-read.csv('./data/healthBLI_2013.csv')
 genderwage_gap<-read.csv('./data/genderw_gap.csv')
 totalpop<-read.csv('./data/totalpop.csv')
+pop_density <- read.csv('./data/Pop_density.csv')
+urbanpop_frac <- read.csv('./data/Urbanpop_fraction.csv')
+homicide <- read.csv('./data/homicide.csv')
 
-### clean base migration dataset 
-
+## clean base migration dataset 
 ### remove unwanted columns 
 migration$VAR<-NULL
 migration$GEN<-NULL
@@ -33,7 +35,6 @@ migration<- migration[c("COU","Country","Year","immigration_type","CO2","Nationa
 migration<- filter(migration, immigration_type %in% c("Inflows of foreign population by nationality", "Inflows of asylum seekers by nationality"))
 
 ## clean health bli_2013 df
-
 ### rename column headings 
 colnames(healthbli_2013)[1]<-"COU"
 colnames(healthbli_2013)[3]<-"better_life_indicator"
@@ -50,7 +51,6 @@ health_2013_fixed2<-spread(health_2013_fixed2, better_life_indicator, BLI_value)
 
 
 ## clean health bli_2014 df
-
 ### add year column 
 healthbli_2014["Year"]<- 2014
 
@@ -69,7 +69,6 @@ health_2014_fixed2<-spread(health_2014_fixed2, better_life_indicator, BLI_value)
 
 
 ## clean population stats df
-
 ### remove first row of empty cells
 totalpop<-totalpop[-1,]
 
@@ -87,23 +86,91 @@ Year2<- c(X2000=2000,X2001=2001,X2002=2002,X2003=2003,X2004=2004,X2005=2005,X200
 totalpop$Year <- Year2[totalpop$Year]
 
 ## clean gender wage df 
-
 ### rename column headings
 colnames(genderwage_gap)[2]<-"Year"
 colnames(genderwage_gap)[3]<-"genderwage_gap"
 
-### merge index dfs with base migration df 
+## clean intentional homicides df 
+### remove unwanted columns 
+homicide$Country.Code <- NULL
+homicide$Indicator.Name <- NULL
+homicide$Indicator.Code <- NULL
+homicide$X2015 <- NULL
+homicide$X2016 <- NULL
+homicide <- select(homicide, Country.Name, starts_with("X20"))
+
+### rename column headings 
+colnames(homicide)[1] <- "Country"
+
+### transpose from wide to long 
+homicide <- gather(homicide, Year, intentional_homicides, -Country)
+
+### fix Year column values 
+Year2<- c(X2000=2000,X2001=2001,X2002=2002,X2003=2003,X2004=2004,X2005=2005,X2006=2006,X2007=2007,X2008=2008,X2009=2009,X2010=2010,X2011=2011,X2012=2012,X2013=2013,X2014=2014)
+homicide$Year <- Year2[homicide$Year]
+
+## clean pop_density df 
+### remove unwanted columns 
+pop_density$Country.Code <- NULL
+pop_density$Indicator.Name <- NULL
+pop_density$Indicator.Code <- NULL
+pop_density$X2016 <- NULL
+pop_density <- select(pop_density, Country.Name, starts_with("X20"))
+
+### rename column headings 
+colnames(pop_density)[1] <- "Country"
+
+### transpose from wide to long 
+pop_density <- gather(pop_density, Year, population_density, -Country)
+
+### fix Year column values 
+Year2<- c(X2000=2000,X2001=2001,X2002=2002,X2003=2003,X2004=2004,X2005=2005,X2006=2006,X2007=2007,X2008=2008,X2009=2009,X2010=2010,X2011=2011,X2012=2012,X2013=2013,X2014=2014)
+pop_density$Year <- Year2[pop_density$Year]
+
+## clean urban population df 
+### remove unwanted columns 
+urbanpop_frac$Country.Code <- NULL
+urbanpop_frac$Indicator.Name <- NULL
+urbanpop_frac$Indicator.Code <- NULL
+urbanpop_frac$X2016 <- NULL
+urbanpop_frac <- select(urbanpop_frac, Country.Name, starts_with("X20"))
+
+### rename column headings 
+colnames(urbanpop_frac)[1] <- "Country"
+
+### transpose from wide to long 
+urbanpop_frac <- gather(urbanpop_frac, Year, urbanpop_frac, -Country)
+
+### fix Year column values 
+Year2<- c(X2000=2000,X2001=2001,X2002=2002,X2003=2003,X2004=2004,X2005=2005,X2006=2006,X2007=2007,X2008=2008,X2009=2009,X2010=2010,X2011=2011,X2012=2012,X2013=2013,X2014=2014)
+urbanpop_frac$Year <- Year2[urbanpop_frac$Year]
+
+## fix OECD 2013 + 2014 dfs 
+### add Year column
 Year <- rep(2013, 37)
 health_2013_fixed2$Year <- Year
 Year <- rep(2014, 37)
 health_2014_fixed2$Year <- Year
 rm(Year)
+
+### combine OECD dfs
 health_fixed_3 <- rbind(health_2013_fixed2, health_2014_fixed2)
 
-
+## merge index dfs with base migration df 
 base_df<-left_join(migration, totalpop)
 base_df<-left_join(base_df, health_fixed_3, by = c('Country', 'Year'))
 base_df<-left_join(base_df, genderwage_gap)
+base_df<-left_join(base_df, homicide)
+base_df<-left_join(base_df, pop_density)
+base_df<-left_join(base_df, urbanpop_frac)
+
+### rename column headings for base df-repeated for multiple spaces between certain columns
+names(base_df) <- sub(" ", "_", names(base_df))
+names(base_df) <- sub(" ", "_", names(base_df))
+names(base_df) <- sub(" ", "_", names(base_df))
+names(base_df) <- sub(" ", "_", names(base_df))
+names(base_df) <- sub(" ", "_", names(base_df))
+names(base_df) <- sub("-", "_", names(base_df))
 
 saveRDS(base_df, "base_df.rds")
 
