@@ -10,6 +10,9 @@ library(lmerTest)
 ## read wide version of merged dataset with all variables 
 base_df <- readRDS("base_df.rds")
 
+## remove all redundant objects
+rm(genderwage_gap, health_2013_fixed, health_2013_fixed2, health_2014_fixed, health_2014_fixed2, health_fixed_3, healthbli_2013, healthbli_2014, homicide, migration, pop_density, totalpop, urbanpop_frac, Year2)
+
 ## set annual population variable as numeric values 
 base_df$Annual_pop <- as.numeric(base_df$Annual_pop)
 
@@ -28,7 +31,7 @@ base_df3 <- base_df %>% group_by(Country, Year) %>% summarise(immigration_mean =
                                                         immigration_sum = sum(immigrants, na.rm = TRUE),
                                                         Current_pop = mean(Annual_pop, na.rm = TRUE),
                                                         immigration_rate = (immigration_sum / Current_pop),
-                                                        Assault_rate = mean(Assault_rate),
+                                                        Assault_rate = mean(Assault_rate, na.rm = TRUE),
                                                         immigration_rate_normalized = (immigration_rate - .012595)/.01207,
                                                         genderwage_gap = mean(genderwage_gap))
 
@@ -37,11 +40,10 @@ base_df4 <- base_df3 %>% filter(Country != 'Ireland' & Country != 'Turkey' & Cou
 
 
 ## plot mean immigration rate by Country+Year with r values 
-
 ggplot(base_df3, aes(Year, immigration_rate )  ) + geom_point() + # + coord_flip() + facet_grid(Country ~.)
   facet_wrap(~Country)                                                                                                          
 
-
+## model testing 
 temp <- base_df3 %>% filter(Year == 2014)
 linear <- lm(genderwage_gap ~ immigration_rate, data = base_df3)
 quadratic <- lm(Assault_rate ~ immigration_rate + I(immigration_rate^2), data = base_df3)
@@ -53,4 +55,12 @@ linear_lmer_int_slope <- lmer(genderwage_gap ~ immigration_rate_normalized + Yea
 
 temp <- base_df3 %>% group_by(Country) %>% summarise(mean_assault_rate = mean(Assault_rate, na.rm = TRUE), sd_assault_rate = sd(Assault_rate, na.rm = TRUE))
 
+## correlation comparing immigration rates and intentional homicides for each country by Year
 
+cor_test <- base_df %>% group_by(Country) %>% summarize(cor_homicides_mig = cor(x=(immigrants/Annual_pop), y=intentional_homicides, use ='pairwise.complete.obs'), 
+                                                        cor_homicides_asy = cor(x=(asylum_seekers/Annual_pop), y=intentional_homicides, use ='pairwise.complete.obs')) 
+
+cor_test2 <- base_df %>% group_by(Country) %>% summarize(cor_homicides_urbanpop = cor(x=urbanpop_frac, y=intentional_homicides, use ='pairwise.complete.obs'), 
+                                                        cor_homicides_popdensity = cor(x=population_density, y=intentional_homicides, use ='pairwise.complete.obs'), 
+                                                        cor_homicides_gendergap = cor(x=genderwage_gap, y=intentional_homicides, use ='pairwise.complete.obs'))
+                                                      
