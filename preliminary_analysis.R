@@ -43,7 +43,7 @@ base_df4 <- base_df3 %>% filter(Country != 'Ireland' & Country != 'Turkey' & Cou
 ggplot(base_df3, aes(Year, immigration_rate )  ) + geom_point() + # + coord_flip() + facet_grid(Country ~.)
   facet_wrap(~Country)                                                                                                          
 
-## model testing 
+## model testing
 temp <- base_df3 %>% filter(Year == 2014)
 linear <- lm(genderwage_gap ~ immigration_rate, data = base_df3)
 quadratic <- lm(Assault_rate ~ immigration_rate + I(immigration_rate^2), data = base_df3)
@@ -63,4 +63,19 @@ cor_test <- base_df %>% group_by(Country) %>% summarize(cor_homicides_mig = cor(
 cor_test2 <- base_df %>% group_by(Country) %>% summarize(cor_homicides_urbanpop = cor(x=urbanpop_frac, y=intentional_homicides, use ='pairwise.complete.obs'), 
                                                         cor_homicides_popdensity = cor(x=population_density, y=intentional_homicides, use ='pairwise.complete.obs'), 
                                                         cor_homicides_gendergap = cor(x=genderwage_gap, y=intentional_homicides, use ='pairwise.complete.obs'))
-                                                      
+
+## separate OECD and non-OECD nationalities of immigrants
+Countries <- unique(base_df$Country)
+base_df_oecd <- base_df %>% group_by(Nationality) %>% filter(Nationality %in% Countries)
+base_df_nonoecd <- base_df %>% group_by(Nationality) %>% filter(!Nationality %in% Countries)
+
+## n of immigrants for each country by year for oecd + non_oecd
+base_df_oecd1 <- base_df_oecd %>% group_by(Country, Year) %>% summarize(oecd_n = sum(immigrants, na.rm=TRUE))
+base_df_nonoecd1 <- base_df_nonoecd %>% group_by(Country, Year) %>% summarize(nonoecd_n = sum(immigrants, na.rm=TRUE))
+
+## lead n of immigrants for 2 years
+base_df_oecd1 <- base_df_oecd1 %>% mutate(new_n = lead(oecd_n))
+base_df_oecd1 <- base_df_oecd1 %>% mutate(new_n2 = lead(new_n))
+base_df_nonoecd1 <- base_df_nonoecd1 %>% mutate(new_n = lead(nonoecd_n))
+base_df_nonoecd1 <- base_df_nonoecd1 %>% mutate(new_n2 = lead(new_n))
+
