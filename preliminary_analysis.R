@@ -10,18 +10,6 @@ library(lmerTest)
 ## read wide version of merged dataset with all variables 
 base_df <- readRDS("base_df.rds")
 
-## remove all redundant objects
-rm(genderwage_gap, health_2013_fixed, health_2013_fixed2, health_2014_fixed, health_2014_fixed2, health_fixed_3, healthbli_2013, healthbli_2014, homicide, migration, pop_density, totalpop, urbanpop_frac, Year2)
-
-## set annual population variable as numeric values 
-base_df$Annual_pop <- as.numeric(base_df$Annual_pop)
-
-## transpose immigration_type data from wide to long
-base_df$immigration_type <- gsub('Inflows of asylum seekers by nationality', 'asylum_seekers', base_df$immigration_type)
-base_df$immigration_type <- gsub('Inflows of foreign population by nationality', 'immigrants', base_df$immigration_type)
-base_df <- spread(base_df, immigration_type, No.of.individuals)
-
-
 ## add summary statistics(mean, SD, correlation) comparing immigration rates by Country for each year
 base_df2 <- base_df %>% group_by(Country) %>% summarise(cor_immigration_year = cor(x = Year, y =(immigrants/Annual_pop), use ='pairwise.complete.obs'),
                                                         cor_asylum_year = cor(x = Year, y = asylum_seekers/Annual_pop, use = 'pairwise.complete.obs'))
@@ -63,19 +51,4 @@ cor_test <- base_df %>% group_by(Country) %>% summarize(cor_homicides_mig = cor(
 cor_test2 <- base_df %>% group_by(Country) %>% summarize(cor_homicides_urbanpop = cor(x=urbanpop_frac, y=intentional_homicides, use ='pairwise.complete.obs'), 
                                                         cor_homicides_popdensity = cor(x=population_density, y=intentional_homicides, use ='pairwise.complete.obs'), 
                                                         cor_homicides_gendergap = cor(x=genderwage_gap, y=intentional_homicides, use ='pairwise.complete.obs'))
-
-## separate OECD and non-OECD nationalities of immigrants
-Countries <- unique(base_df$Country)
-base_df_oecd <- base_df %>% group_by(Nationality) %>% filter(Nationality %in% Countries)
-base_df_nonoecd <- base_df %>% group_by(Nationality) %>% filter(!Nationality %in% Countries)
-
-## n of immigrants for each country by year for oecd + non_oecd
-base_df_oecd1 <- base_df_oecd %>% group_by(Country, Year) %>% summarize(oecd_n = sum(immigrants, na.rm=TRUE))
-base_df_nonoecd1 <- base_df_nonoecd %>% group_by(Country, Year) %>% summarize(nonoecd_n = sum(immigrants, na.rm=TRUE))
-
-## lead n of immigrants for 2 years
-base_df_oecd1 <- base_df_oecd1 %>% mutate(new_n = lead(oecd_n))
-base_df_oecd1 <- base_df_oecd1 %>% mutate(new_n2 = lead(new_n))
-base_df_nonoecd1 <- base_df_nonoecd1 %>% mutate(new_n = lead(nonoecd_n))
-base_df_nonoecd1 <- base_df_nonoecd1 %>% mutate(new_n2 = lead(new_n))
 

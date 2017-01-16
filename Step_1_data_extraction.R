@@ -172,5 +172,50 @@ names(base_df) <- sub(" ", "_", names(base_df))
 names(base_df) <- sub(" ", "_", names(base_df))
 names(base_df) <- sub("-", "_", names(base_df))
 
+## remove all redundant objects
+rm(genderwage_gap, health_2013_fixed, health_2013_fixed2, health_2014_fixed, health_2014_fixed2, health_fixed_3, healthbli_2013, healthbli_2014, homicide, migration, pop_density, totalpop, urbanpop_frac, Year2)
+
+## set annual population variable as numeric values 
+base_df$Annual_pop <- as.numeric(base_df$Annual_pop)
+
+## transpose immigration_type data from wide to long
+base_df$immigration_type <- gsub('Inflows of asylum seekers by nationality', 'asylum_seekers', base_df$immigration_type)
+base_df$immigration_type <- gsub('Inflows of foreign population by nationality', 'immigrants', base_df$immigration_type)
+base_df <- spread(base_df, immigration_type, No.of.individuals)
+
 saveRDS(base_df, "base_df.rds")
+
+## Final data organization for model testing
+### separate OECD and non-OECD nationalities of immigrants
+Countries <- unique(base_df$Country)
+base_oecd <- base_df %>% group_by(Nationality) %>% filter(Nationality %in% Countries)
+base_nonoecd <- base_df %>% group_by(Nationality) %>% filter(!Nationality %in% Countries)
+
+### n of immigrants for each country by year for oecd + non_oecd
+base_oecd1 <- base_oecd %>% group_by(Country, Year) %>% summarize(oecd_n = sum(immigrants, na.rm=TRUE))
+base_nonoecd1 <- base_nonoecd %>% group_by(Country, Year) %>% summarize(nonoecd_n = sum(immigrants, na.rm=TRUE))
+
+### lead n of immigrants for 2 years
+base_oecd1 <- base_oecd1 %>% mutate(new_oecd_n = lead(oecd_n))
+base_oecd1 <- base_oecd1 %>% mutate(new_oecd_n2 = lead(new_oecd_n))
+base_nonoecd1 <- base_nonoecd1 %>% mutate(new_nonoecd_n = lead(nonoecd_n))
+base_nonoecd1 <- base_nonoecd1 %>% mutate(new_nonoecd_n2 = lead(new_nonoecd_n))
+
+### merge lead values from the two new datasets
+
+oecd_non_split <- left_join(base_oecd1, base_nonoecd1)
+
+### add annual pop of countries into new dataset
+
+merge <- select(base_df, Country, Year, Annual_pop, genderwage_gap) %>% filter(Year==2002) %>% select(-Year)
+merge <- distinct(merge, Country)
+oecd_non_split_3 <- left_join(oecd_non_split, merge)
+
+
+## add immigration rate by total pop for each country
+
+oecd_non_split_3 <- mutate(oecd_non_split_3, oecd_immigration_rate=oecd_n/Annual_pop, non_oecd_rate=nonoecd_n/Annual_pop)
+
+## add immigration rate by total pop for each country for +2 years 
+oecd_non_split_3 <- mutate(oecd_non_split_3, lead_oecd = new_oecd_n/Annual_pop, lead_oecd_2 = new_oecd_n2/Annual_pop)
 
