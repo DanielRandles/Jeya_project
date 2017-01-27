@@ -3,6 +3,10 @@
 library(plyr)
 library(dplyr)
 library(tidyr)
+library(ggplot2)
+library(lme4)
+library(lmerTest)
+setwd("~/Jeya_project")
 
 ## open mined data 
 migration<-read.csv('./data/migration.csv')
@@ -44,11 +48,9 @@ colnames(healthbli_2013)[5]<-"BLI_value"
 ### remove triplets of identical rows 
 health_2013_fixed<- select(healthbli_2013,COU, Country, better_life_indicator, BLI_value)
 health_2013_fixed2 <- health_2013_fixed %>% group_by(COU, better_life_indicator) %>% filter(row_number(BLI_value) ==1) %>% ungroup()
-rm(health_2013_fixed)
 
 ### transpose from long to wide 
 health_2013_fixed2<-spread(health_2013_fixed2, better_life_indicator, BLI_value)
-
 
 ## clean health bli_2014 df
 ### add year column 
@@ -63,10 +65,8 @@ colnames(healthbli_2014)[5]<-"BLI_value"
 health_2014_fixed<- select(healthbli_2014,COU, Country, better_life_indicator, BLI_value)
 health_2014_fixed2 <- health_2014_fixed %>% group_by(COU, better_life_indicator) %>% filter(row_number(BLI_value) ==1) %>% ungroup()
 
-
 ### transpose from long to wide 
 health_2014_fixed2<-spread(health_2014_fixed2, better_life_indicator, BLI_value)
-
 
 ## clean population stats df
 ### remove first row of empty cells
@@ -183,39 +183,37 @@ base_df$immigration_type <- gsub('Inflows of asylum seekers by nationality', 'as
 base_df$immigration_type <- gsub('Inflows of foreign population by nationality', 'immigrants', base_df$immigration_type)
 base_df <- spread(base_df, immigration_type, No.of.individuals)
 
-saveRDS(base_df, "base_df.rds")
-
-## Final data organization for model testing
+## addition of useful variables for model testing
 ### separate OECD and non-OECD nationalities of immigrants
 Countries <- unique(base_df$Country)
 base_oecd <- base_df %>% group_by(Nationality) %>% filter(Nationality %in% Countries)
 base_nonoecd <- base_df %>% group_by(Nationality) %>% filter(!Nationality %in% Countries)
 
 ### n of immigrants for each country by year for oecd + non_oecd
-base_oecd1 <- base_oecd %>% group_by(Country, Year) %>% summarize(oecd_n = sum(immigrants, na.rm=TRUE))
-base_nonoecd1 <- base_nonoecd %>% group_by(Country, Year) %>% summarize(nonoecd_n = sum(immigrants, na.rm=TRUE))
+base_oecd1 <- base_oecd %>% group_by(Country, Year) %>% summarize(oecd_immig = sum(immigrants, na.rm=TRUE))
+base_nonoecd1 <- base_nonoecd %>% group_by(Country, Year) %>% summarize(nonoecd_immig = sum(immigrants, na.rm=TRUE))
 
 ### lead n of immigrants for 2 years
-base_oecd1 <- base_oecd1 %>% mutate(new_oecd_n = lead(oecd_n))
-base_oecd1 <- base_oecd1 %>% mutate(new_oecd_n2 = lead(new_oecd_n))
-base_nonoecd1 <- base_nonoecd1 %>% mutate(new_nonoecd_n = lead(nonoecd_n))
-base_nonoecd1 <- base_nonoecd1 %>% mutate(new_nonoecd_n2 = lead(new_nonoecd_n))
+base_oecd1 <- base_oecd1 %>% mutate(lead_oecd_immig = lead(oecd_immig))
+base_oecd1 <- base_oecd1 %>% mutate(lead2_oecd_immig = lead(lead_oecd_immig))
+base_nonoecd1 <- base_nonoecd1 %>% mutate(lead_nonoecd_immig = lead(nonoecd_immig))
+base_nonoecd1 <- base_nonoecd1 %>% mutate(lead2_nonoecd_immig = lead(lead_nonoecd_immig))
 
-### merge lead values from the two new datasets
+### lead gender wage +2 years
+base_df <- base_df %>% group_by(Country) %>% mutate(lead2_gender_gap = lead(genderwage_gap, 2))
 
+### merge lead values from the oecd + non-oecd split dfs
 oecd_non_split <- left_join(base_oecd1, base_nonoecd1)
 
-### add annual pop of countries into new dataset
+### merge lead values from split data to base df
+base_df <- left_join(base_df, oecd_non_split)
 
-merge <- select(base_df, Country, Year, Annual_pop, genderwage_gap) %>% filter(Year==2002) %>% select(-Year)
-merge <- distinct(merge, Country)
-oecd_non_split_3 <- left_join(oecd_non_split, merge)
+### calculate immigration rate and normalized immigration rate
+base_df <- mutate(base_df, immigration_rate=immigrants/Annual_pop)
+base_df$immigration_rate_norm <- (base_df$immigration_rate - mean(base_df$immigration_rate, na.rm = T))/sd(base_df$immigration_rate, na.rm = T)
 
+## remove objects
+rm(base_nonoecd, base_nonoecd1, base_oecd, base_oecd1, oecd_non_split)
 
-## add immigration rate by total pop for each country
-
-oecd_non_split_3 <- mutate(oecd_non_split_3, oecd_immigration_rate=oecd_n/Annual_pop, non_oecd_rate=nonoecd_n/Annual_pop)
-
-## add immigration rate by total pop for each country for +2 years 
-oecd_non_split_3 <- mutate(oecd_non_split_3, lead_oecd = new_oecd_n/Annual_pop, lead_oecd_2 = new_oecd_n2/Annual_pop)
-
+## save final df as RDS
+saveRDS(base_df, "base_df.rds")

@@ -6,6 +6,7 @@ library(ggplot2)
 library(rethinking)
 library(lme4)
 library(lmerTest)
+setwd("~/Jeya_project")
 
 ## read wide version of merged dataset with all variables 
 base_df <- readRDS("base_df.rds")
